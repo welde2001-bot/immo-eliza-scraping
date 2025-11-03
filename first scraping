@@ -1,0 +1,17 @@
+import requests
+from bs4 import BeautifulSoup
+
+url = "https://www.immoweb.be/en/classified/apartment/for-sale/sint-denijs-westrem/9051/21007369?s=s_XL"
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0"}
+
+response = requests.get(url, headers=headers)
+#print(response.status_code)
+soup = BeautifulSoup(response.text, 'html.parser')
+
+bedroom_number = soup.find("th", string= "Bedrooms")
+#print(bedroom_number)
+
+if bedroom_number:
+    bedroom_number = bedroom_number.find_next_sibling("td").text.strip()
+    print(bedroom_number)
+print(soup.prettify()[:1000])
