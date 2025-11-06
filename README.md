@@ -86,7 +86,7 @@ for machine learning.
 We are Welederufeal Tadege, Hamideh Baggali and Sandrine Herbelet and are AI & Data Science trainees at Becode. 
 We are all beginners in the field and are highly motivated.
 
-![Untitled.jpg](./images/shutterstock_2607348827.jpg)
+![Untitled.jpg](./images/Untitled.jpg)
 
 
 # Timeline
