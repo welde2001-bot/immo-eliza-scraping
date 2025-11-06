@@ -5,25 +5,25 @@ Immo Eliza aims to develop a machine learning model to predict real estate sale 
 Hamideh, Welde, and Sandrine — to support the development of the entire project pipeline. 
 In this initial phase, our focus will be on the first stage of the pipeline from the picture below: data collection through web scraping.
 
-![shutterstock_2244728759](https://github.com/user-attachments/assets/e9dcc63b-a4fe-4221-b7c6-3d85312ec5e3)
+![shutterstock_2244728759](./images/shutterstock_2244728759.jpg)
 
 
 More specifically, web scraping will enable us to use a well-designed function to gather all the desired data from the selected real estate website.
 
 
-<img src="https://github.com/user-attachments/assets/42d83d15-f322-405a-9e9c-b13ca60c350e" alt="shutterstock_1866889507(1)" width="750">
+<img src="https://github.com/user-attachments/assets/42d83d15-f322-405a-9e9c-b13ca60c350e" alt="shutterstock_1866889507(1)" width="750"> (./images/shutterstock_1866889507(1).jpg) 
 
 
 
 The main objectives of this first part of the larger project are:
-- <img width="20" height="20" alt="check-mark-1292787_1280" src="https://github.com/user-attachments/assets/d31bf3e7-fd5f-4a33-8a0a-4d550422a123" /> Create 1 function that:
+- <img width="20" height="20" alt="check-mark-1292787_1280" src="https://github.com/user-attachments/assets/d31bf3e7-fd5f-4a33-8a0a-4d550422a123" /> () Create 1 function that:
   1) scrapes all the desidered data from one real estate property displayed on www.immovlan.be,
   2) upscales the scraping to 10.000 properties across all Belgium,
   3) stores the data in an organized csv file.
 - <img width="20" height="20" alt="check-mark-1292787_1280" src="https://github.com/user-attachments/assets/d31bf3e7-fd5f-4a33-8a0a-4d550422a123" /> Collaborate in a team using Trello (www.trello.com)
 - <img width="20" height="20" alt="check-mark-1292787_1280" src="https://github.com/user-attachments/assets/d31bf3e7-fd5f-4a33-8a0a-4d550422a123" /> Use GitHub in a team setting (www.github.com)
 
-In our project, we used <img width="70" height="70" alt="Python_logo_and_wordmark svg" src="https://github.com/user-attachments/assets/9070f9c7-982b-4f5b-96d2-a60bfd7d5712" />
+In our project, we used <img width="70" height="70" alt="Python_logo_and_wordmark svg" src="https://github.comuser-attachments/assets/9070f9c7-982b-4f5b-96d2-a60bfd7d5712" /> (./images/Python_logo_and_wordmark.svg.png)
 to collect as much data as possible.
 
 Our group’s strengths lie in regular updates, shared decision-making, a supportive work environment and efficient collaboration to achieve our objectives on time.
@@ -36,12 +36,12 @@ Web scraping is the process of automatically mining data or collecting informati
 Several steps must be completed to develop a fully functional web scraper, as illustrated in the figure below.
 
 
-![shutterstock_2607348827](https://github.com/user-attachments/assets/72def259-b3b3-48ae-adde-99df7b42ba7d)
+![shutterstock_2607348827](./images/shutterstock_2607348827.jpg)
 
 
 1) First, we delineate the data we want to scrape. Our final dataset will be a `csv` file with the following data:
    
-![Picture villa](https://github.com/user-attachments/assets/ddd24387-b30a-49df-a517-d3125a91a4d2)
+![Picture villa](./images/Picture%20villa.jpg)
 
 2) We created a GitHub repository called `immo-eliza-scraping`, with multiple branches, which will be made public at the end of the project.
    This setup allows all team members to work on their local computers
@@ -63,7 +63,7 @@ Several steps must be completed to develop a fully functional web scraper, as il
 5) How did we write the code?
 
    
-![Web scraping Project Roadmap_page-0001](https://github.com/user-attachments/assets/64f748e8-00e7-4678-b018-61d31d1f6427)
+![Web scraping Project Roadmap_page-0001](./images/Web%20scraping%20Project%20Roadmap_page-0001.jpg)
 
 - We started small and tested often.  Once we had tested our code for a few properties, we moved on to 10, 100, 1000,... etc. 
 - We committed regularly and often.
@@ -91,12 +91,12 @@ We are all beginners in the field and are highly motivated.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7523080b-8e4d-4aaf-8994-920af9369893" alt="Untitled" width="500">
-</p>
+</p> (.images/Untitled.jpg)
 
 
 # Timeline
 
-<img width="750" height="750" alt="Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira" src="https://github.com/user-attachments/assets/02774d8a-fa42-4c4a-ac7f-d23f648448ca" />
+<img width="750" height="750" alt="Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira" src="https://github.com/user-attachments/assets/02774d8a-fa42-4c4a-ac7f-d23f648448ca" />(./images/Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira.png)
 
 
 # Who created this?
