@@ -11,19 +11,19 @@ In this initial phase, our focus will be on the first stage of the pipeline from
 More specifically, web scraping will enable us to use a well-designed function to gather all the desired data from the selected real estate website.
 
 
-<img src="https://github.com/user-attachments/assets/42d83d15-f322-405a-9e9c-b13ca60c350e" alt="shutterstock_1866889507(1)" width="750"> (./images/shutterstock_1866889507(1).jpg) 
+![shutterstock_1866889507(1)](./images/shutterstock_1866889507(1).jpg) 
 
 
 
 The main objectives of this first part of the larger project are:
-- <img width="20" height="20" alt="check-mark-1292787_1280" src="https://github.com/user-attachments/assets/d31bf3e7-fd5f-4a33-8a0a-4d550422a123" /> () Create 1 function that:
+- Create 1 function that:
   1) scrapes all the desidered data from one real estate property displayed on www.immovlan.be,
   2) upscales the scraping to 10.000 properties across all Belgium,
   3) stores the data in an organized csv file.
-- <img width="20" height="20" alt="check-mark-1292787_1280" src="https://github.com/user-attachments/assets/d31bf3e7-fd5f-4a33-8a0a-4d550422a123" /> Collaborate in a team using Trello (www.trello.com)
-- <img width="20" height="20" alt="check-mark-1292787_1280" src="https://github.com/user-attachments/assets/d31bf3e7-fd5f-4a33-8a0a-4d550422a123" /> Use GitHub in a team setting (www.github.com)
+- Collaborate in a team using Trello (www.trello.com)
+-  Use GitHub in a team setting (www.github.com)
 
-In our project, we used <img width="70" height="70" alt="Python_logo_and_wordmark svg" src="https://github.comuser-attachments/assets/9070f9c7-982b-4f5b-96d2-a60bfd7d5712" /> (./images/Python_logo_and_wordmark.svg.png)
+![Python_logo_and_wordmark)](./images/Python_logo_and_wordmark.svg.png)
 to collect as much data as possible.
 
 Our group’s strengths lie in regular updates, shared decision-making, a supportive work environment and efficient collaboration to achieve our objectives on time.
@@ -89,14 +89,12 @@ for machine learning.
 We are Welederufeal Tadege, Hamideh Baggali and Sandrine Herbelet and are AI & Data Science trainees at Becode. 
 We are all beginners in the field and are highly motivated.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7523080b-8e4d-4aaf-8994-920af9369893" alt="Untitled" width="500">
-</p> (.images/Untitled.jpg)
+![Untitled](.images/Untitled.jpg)
 
 
 # Timeline
 
-<img width="750" height="750" alt="Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira" src="https://github.com/user-attachments/assets/02774d8a-fa42-4c4a-ac7f-d23f648448ca" />(./images/Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira.png)
+![Screenshot](./images/Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira.png)
 
 
 # Who created this?
