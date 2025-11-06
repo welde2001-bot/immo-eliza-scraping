@@ -87,7 +87,7 @@ We are Welederufeal Tadege, Hamideh Baggali and Sandrine Herbelet and are AI & D
 We are all beginners in the field and are highly motivated.
 
 
-![Untitled.jpg](./images/shutterstock_2607348827.jpg)
+![Untitled.jpg](./images/Untitled.jpg)
 
 
 # Timeline
