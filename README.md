@@ -11,7 +11,12 @@ In this initial phase, our focus will be on the first stage of the pipeline from
 More specifically, web scraping will enable us to use a well-designed function to gather all the desired data from the selected real estate website.
 
 
-![shutterstock_1866889507(1)](./images/shutterstock_1866889507(1).jpg) 
+<p align="center">
+  <img src="./images/shutterstock_1866889507(1).jpg" alt="shutterstock_1866889507" width="300">
+</p> 
+
+![shutterstock_1866889507(1)](./images/shutterstock_1866889507(1).jpg)
+
 
 
 
@@ -89,12 +94,12 @@ for machine learning.
 We are Welederufeal Tadege, Hamideh Baggali and Sandrine Herbelet and are AI & Data Science trainees at Becode. 
 We are all beginners in the field and are highly motivated.
 
-![Untitled](.images/Untitled.jpg)
+![Untitled.jpg](.images/Untitled.jpg)
 
 
 # Timeline
 
-![Screenshot](./images/Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira.png)
+![Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira.png](./images/Screenshot 2025-11-06 at 10-58-56 Board - My Trello board - Jira.png)
 
 
 # Who created this?
