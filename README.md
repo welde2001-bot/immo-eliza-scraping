@@ -12,8 +12,6 @@ More specifically, web scraping will enable us to use a well-designed function t
 
 ![shutterstock_1866889507(1)](./images/shutterstock_1866889507(1).jpg)
 
-
-
 The main objectives of this first part of the larger project are:
 - Create 1 function that:
   1) scrapes all the desidered data from one real estate property displayed on www.immovlan.be,
@@ -88,7 +86,7 @@ for machine learning.
 We are Welederufeal Tadege, Hamideh Baggali and Sandrine Herbelet and are AI & Data Science trainees at Becode. 
 We are all beginners in the field and are highly motivated.
 
-![Untitled.jpg](./images/Untitled.jpg)
+![Untitled.jpg](./images/shutterstock_2607348827.jpg)
 
 
 # Timeline
@@ -101,3 +99,5 @@ We are all beginners in the field and are highly motivated.
 - https://www.linkedin.com/in/welederufeal-t-027907a5/
 - https://www.linkedin.com/in/hamideh-be/
 - https://www.linkedin.com/in/sandrineherbelet/ 
+
+
