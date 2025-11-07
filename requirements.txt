@@ -9,6 +9,7 @@ comm==0.2.3
 debugpy==1.8.17
 decorator==5.2.1
 executing==2.2.1
+fake-useragent==2.2.0
 h11==0.16.0
 idna==3.11
 ipykernel==7.1.0
@@ -32,6 +33,7 @@ pycparser==2.23
 Pygments==2.19.2
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
+python-dotenv==1.2.1
 pytz==2025.2
 pyzmq==27.1.0
 requests==2.32.5
@@ -49,5 +51,6 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 wcwidth==0.2.14
+webdriver-manager==4.0.2
 websocket-client==1.9.0
 wsproto==1.2.0
