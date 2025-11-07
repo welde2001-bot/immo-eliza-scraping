@@ -105,3 +105,6 @@ We are all beginners in the field and are highly motivated.
 - https://www.linkedin.com/in/sandrineherbelet/ 
 
 
+
+
+[def]: ./images/Nieuw%20-%20Microsoft%20PowerPoint-presentatie.png
