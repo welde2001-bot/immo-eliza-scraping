@@ -5,14 +5,20 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import csv
+import os
 
 
 def scrape_properties(urls, output_file="data/properties.csv"):
-    """Scrape property details from a list of URLs."""
+    """Scrape property details from a list of URLs and save them to CSV."""
     options = Options()
-    options.headless = True
+    options.add_argument("--headless")
     options.binary_location = r"C:\Program Files\Mozilla Firefox\firefox.exe"
     gecko_path = r"C:\Users\geckodriver.exe"
+
+    folder = os.path.dirname(output_file)
+    if folder:
+       os.makedirs(folder, exist_ok=True)
+
 
     with open(output_file, mode="w", newline="", encoding="utf-8") as file:
         writer = csv.writer(file)
@@ -28,8 +34,9 @@ def scrape_properties(urls, output_file="data/properties.csv"):
             try:
                 driver = webdriver.Firefox(service=Service(gecko_path), options=options)
                 driver.get(url)
-                print(url)
+                print(f"Scraping: {url}")
 
+                # Handle cookie consent
                 try:
                     accept_button = WebDriverWait(driver, 5).until(
                         EC.element_to_be_clickable((By.ID, "didomi-notice-agree-button"))
@@ -38,14 +45,16 @@ def scrape_properties(urls, output_file="data/properties.csv"):
                 except:
                     pass
 
+                # Extract price
                 try:
                     price = driver.find_element(By.CSS_SELECTOR, "span.detail__price").text
                 except:
                     price = "None"
 
-                row = [url, "None", "None", "None", "None",
-                       "None", "None", "None", "None", "None",
-                       "None", "None", "None", "None", "None", "None", price]
+                row = [
+                    url, "None", "None", "None", "None", "None", "None", "None",
+                    "None", "None", "None", "None", "None", "None", "None", "None", price
+                ]
                 writer.writerow(row)
 
             except Exception as e:

@@ -1,3 +1,7 @@
+import os
+import csv
+import time
+import threading
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.service import Service
@@ -5,9 +9,6 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-import csv
-import time
-import threading
 
 
 def handle_cookies(driver):
@@ -27,11 +28,13 @@ def handle_cookies(driver):
             continue
 
 
-def scrape_province(province_slug, province_name, results, lock, max_pages=5):
-    """Scrape property URLs for one province."""
+def scrape_province(province_slug, province_name, results, lock, max_pages=1):
+    """Scrape property URLs for a single province."""
     options = Options()
-    options.headless = True
-    gecko_path = r"C:/Users/geckodriver.exe"
+    options.add_argument("--headless")
+    options.binary_location = r"C:\Program Files\Mozilla Firefox\firefox.exe"
+
+    gecko_path = r"C:\Users\geckodriver.exe"
     driver = webdriver.Firefox(service=Service(gecko_path), options=options)
 
     try:
@@ -60,14 +63,14 @@ def scrape_province(province_slug, province_name, results, lock, max_pages=5):
             with lock:
                 results.update(page_urls)
 
-            print(f"{province_name} - Page {page}: {len(page_urls)} URLs")
+            print(f"{province_name} - Page {page}: {len(page_urls)} URLs scraped")
 
     finally:
         driver.quit()
 
 
-def collect_urls(output_file="data/raw/urls.csv", max_pages=10):
-    """Scrape property URLs for all provinces."""
+def collect_urls(output_file="data/urls.csv", max_pages=1):
+    """Scrape property URLs for all Belgian provinces and save to CSV."""
     provinces = {
         "Flemish Brabant": "flemish-brabant",
         "Walloon Brabant": "walloon-brabant",
@@ -80,6 +83,9 @@ def collect_urls(output_file="data/raw/urls.csv", max_pages=10):
         "Antwerpen": "antwerpen",
         "Brussels": "brussel",
     }
+
+    output_dir = os.path.dirname(output_file) or "."
+    os.makedirs(output_dir, exist_ok=True)
 
     results = set()
     lock = threading.Lock()
@@ -100,8 +106,8 @@ def collect_urls(output_file="data/raw/urls.csv", max_pages=10):
         for url in sorted(results):
             writer.writerow([url])
 
-    print(f"Saved {len(results)} property URLs to {output_file}")
-    print(f"Time taken: {time.time() - start_time:.2f} sec")
+    print(f"\n✅ Saved {len(results)} property URLs to {output_file}")
+    print(f"⏱️ Time taken: {time.time() - start_time:.2f} sec")
 
 
 if __name__ == "__main__":
