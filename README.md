@@ -18,7 +18,7 @@ The main objectives of this first part of the larger project are:
   2) upscales the scraping to 10.000 properties across all Belgium,
   3) stores the data in an organized csv file.
 - Collaborate in a team using Trello (www.trello.com)
-- Use GitHub in a team setting (www.github.com) ![Python_logo_and_wordmark)](./images/Python_logo_and_wordmark.svg.png)    
+- Use GitHub in a team setting (www.github.com) ![python-logo-png_seeklogo-207405.png](./images/python-logo-png_seeklogo-207405.png)   
   to collect as much data as possible.
 
 Our group’s strengths lie in regular updates, shared decision-making, a supportive work environment and efficient collaboration to achieve our objectives on time.
