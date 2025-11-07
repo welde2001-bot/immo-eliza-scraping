@@ -61,7 +61,7 @@ Several steps must be completed to develop a fully functional web scraper, as il
 5) How did we write the code?
 
    
-![Web scraping Project Roadmap_page-0001](./images/Web%20scraping%20Project%20Roadmap_page-0001.jpg)
+![Web scraping Project Roadmap.png](./images/Web%20scraping%20Project%20Roadmap.png)
 
 
 ![Nieuw - Microsoft PowerPoint-presentatie.png](./images/Nieuw%20-%20Microsoft%20PowerPoint-presentatie.png)
