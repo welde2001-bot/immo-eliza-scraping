@@ -38,7 +38,7 @@ Several steps must be completed to develop a fully functional web scraper, as il
 
 1) First, we delineate the data we want to scrape. Our final dataset will be a `csv` file with the following data:
    
-![Picture villa](./images/Picture%20villa.jpg)
+![Nieuw - Microsoft PowerPoint-presentatie(1).png](./images/Nieuw%20-%20Microsoft%20PowerPoint-presentatie(1).png)
 
 2) We created a GitHub repository called `immo-eliza-scraping`, with multiple branches, which will be made public at the end of the    
    project.
