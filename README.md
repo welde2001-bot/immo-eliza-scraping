@@ -21,7 +21,7 @@ The main objectives of this first part of the larger project are:
 - Use GitHub in a team setting (www.github.com) 
 
 
-In our project, we used ![Python-logo-png_seeklogo-207405.png](./images/python-logo-png_seeklogo-207405.png)  to collect as much data as possible.
+In our project, we used ![Python-logo-png_seeklogo-207405.png](./images/python-logo-png_seeklogo-207405.png) to collect as much data as possible.
 
 Our group’s strengths lie in regular updates, shared decision-making, a supportive work environment and efficient collaboration to achieve our objectives on time.
 
