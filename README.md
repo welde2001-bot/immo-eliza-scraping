@@ -10,7 +10,7 @@ In this initial phase, our focus will be on the first stage of the pipeline from
 
 More specifically, web scraping will enable us to use a well-designed function to gather all the desired data from the selected real estate website.
 
-![shutterstock_1866889507(1)](https://www.shutterstock.com/image-vector/web-scraping-isometric-banner-data-extraction-1866889507)
+![shutterstock_1866889507(1)](./images/shutterstock_1866889507(1).jpg)
 
 The main objectives of this first part of the larger project are:
 - Create 1 function that:
