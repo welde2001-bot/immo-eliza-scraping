@@ -92,7 +92,7 @@ We are all beginners in the field and are highly motivated.
 
 # Timeline
 
-![Screenshot 2025-11-06 at 10-58-56 Board-My Trello board-Jira.png](./images/Screenshot%202025-11-06%20at%2010-58-56%20Board%20-%20My%20Trello%20board%20-%20Jira.png) 
+![Screenshot 2025-11-06 at 10-58-56 Board-My Trello board-Jira.png](./images/Screenshot%202025-11-06%20at%2010-58-56%20Board%20-%20My%20Trello%20board%20-%20Jira.png)
 
 
 # Who created this?
