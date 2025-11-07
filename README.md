@@ -64,7 +64,7 @@ Several steps must be completed to develop a fully functional web scraper, as il
 ![Web scraping Project Roadmap_page-0001](./images/Web%20scraping%20Project%20Roadmap_page-0001.jpg)
 
 
-![Nieuw-Microsoft PowerPOint-presentatie.png](./images/Nieuw%20-%20Microsoft%20PowerPoint-presentatie.png)
+![Nieuw-Microsoft PowerPOint-presentatie.png](./images/Nieuw%20-%20Microsoft%20PowerPoint-presentatie.png) 
 
 - We started small and tested often. Once we had tested our code for a few properties, we moved on to 10, 100, 1000,... etc. 
 - We committed regularly and often.
