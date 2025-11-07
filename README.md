@@ -18,7 +18,7 @@ The main objectives of this first part of the larger project are:
   2) upscales the scraping to 10.000 properties across all Belgium,
   3) stores the data in an organized csv file.
 - Collaborate in a team using Trello (www.trello.com)
--  Use GitHub in a team setting (www.github.com)
+- Use GitHub in a team setting (www.github.com)
 
 ![Python_logo_and_wordmark)](./images/Python_logo_and_wordmark.svg.png)
 to collect as much data as possible.
@@ -40,7 +40,8 @@ Several steps must be completed to develop a fully functional web scraper, as il
    
 ![Picture villa](./images/Picture%20villa.jpg)
 
-2) We created a GitHub repository called `immo-eliza-scraping`, with multiple branches, which will be made public at the end of the project.
+2) We created a GitHub repository called `immo-eliza-scraping`, with multiple branches, which will be made public at the end of the    
+   project.
    This setup allows all team members to work on their local computers
    and push their changes when needed. Our team decided to merge all code into a single version before pushing to the main branch,
    in order to avoid conflicts during merging. Our regular oral updates should let us allow to win time for the seek of our project.
@@ -62,7 +63,7 @@ Several steps must be completed to develop a fully functional web scraper, as il
    
 ![Web scraping Project Roadmap_page-0001](./images/Web%20scraping%20Project%20Roadmap_page-0001.jpg)
 
-- We started small and tested often.  Once we had tested our code for a few properties, we moved on to 10, 100, 1000,... etc. 
+- We started small and tested often. Once we had tested our code for a few properties, we moved on to 10, 100, 1000,... etc. 
 - We committed regularly and often.
 
 # Usage of our Immo Eliza Web Scraper
@@ -73,7 +74,6 @@ for machine learning.
 # Sources used for the project
 
 - https://www.selenium.dev/
-- https://pypi.org/project/beautifulsoup4/
 - https://geckodriver.org/
 - https://pandas.pydata.org/
 
@@ -92,7 +92,7 @@ We are all beginners in the field and are highly motivated.
 
 # Timeline
 
-![Screenshot 2025-11-06 at 10-58-56 Board-My Trello board-Jira.png](./images/Screenshot%202025-11-06%20at%2010-58-56%20Board%20-%20My%20Trello%20board%20-%20Jira.png)
+![Screenshot 2025-11-06 at 10-58-56 Board-My Trello board-Jira.png](./images/Screenshot%202025-11-06%20at%2010-58-56%20Board%20-%20My%20Trello%20board%20-%20Jira.png) 
 
 
 # Who created this?
