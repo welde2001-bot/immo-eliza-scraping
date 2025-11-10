@@ -1,0 +1,999 @@
+url,property_id,property_type,locality_name,postal_code,build_year,state,living_area,furnished,number_rooms,equipped_kitchen,terrace,facades,garden,garden_area,swimming_pool,price
+https://immovlan.be/en/detail/apartment/for-sale/9120/beveren/rbu66650,rbu66650,Apartment,Beveren,9120,1991,None,None,0,3,None,1,3,0,None,0,285 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3650/dilsen-stokkem/rbu47016,rbu47016,Duplex,Dilsen-Stokkem,3650,2007,None,134,None,2,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4040/herstal/vbd40896,vbd40896,Mixed,Herstal,4040,1933,Normal,None,0,2,1,1,3,1,50,0,Make offer from 239 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4040/herstal/vbd43260,vbd43260,Mixed,Herstal,4040,None,To be renovated,205,0,2,None,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3740/beverst/rbu38559,rbu38559,Duplex,Beverst,3740,1999,None,136,None,3,None,0,None,0,None,0,238 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9140/steendorp/rbu56145,rbu56145,Apartment,Steendorp,9140,2021,Excellent,107,None,2,1,1,2,0,None,0,310 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3830/wellen/rbu42353,rbu42353,Duplex,Wellen,3830,2020,None,154,None,3,None,1,None,0,None,0,419 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4040/herstal/vbd45536,vbd45536,Mixed,Herstal,4040,None,Excellent,232,0,7,None,1,3,0,None,0,Make offer from 250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9140/temse/rbu37116,rbu37116,Apartment,Temse,9140,None,New,95,0,2,None,1,2,0,None,0,290 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3870/heers/rbu58275,rbu58275,Duplex,Heers,3870,1918,Fully renovated,115,None,1,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4040/herstal/vbd46096,vbd46096,Mixed,Herstal,4040,1850,Fully renovated,210,0,5,1,1,2,1,60,0,Make offer from 259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9140/temse/rbu61417,rbu61417,Apartment,Temse,9140,1979,Normal,140,0,3,None,1,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4040/herstal/vbd47453,vbd47453,Mixed,Herstal,4040,1850,To be renovated,127,0,2,1,0,2,1,None,0,Make offer from 139 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3900/pelt/rbu55520,rbu55520,Duplex,Pelt,3900,2002,Normal,110,0,3,None,1,None,0,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9150/bazel/rbu61572,rbu61572,Apartment,Bazel,9150,2011,Normal,104,0,3,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3950/bocholt/rbu42039,rbu42039,Duplex,Bocholt,3950,2016,None,88,None,3,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4100/seraing/vbd43740,vbd43740,Mixed,Seraing,4100,1874,Normal,56,0,2,None,0,2,0,None,0,130 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9150/kruibeke/rbu58547,rbu58547,Apartment,Kruibeke,9150,2025,None,106,None,3,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3970/leopoldsburg/rbu60842,rbu60842,Duplex,Leopoldsburg,3970,1933,Normal,136,0,3,None,1,2,1,None,0,240 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4100/seraing/vbd44701,vbd44701,Mixed,Seraing,4100,None,Normal,1,None,4,1,0,2,0,None,0,Make offer from 189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9170/sint-gillis-waas/rbu60813,rbu60813,Apartment,Sint-Gillis-Waas,9170,2017,Normal,127,0,2,None,1,2,0,None,0,339 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9180/moerbeke-waas/rbu43547,rbu43547,Apartment,Moerbeke-Waas,9180,2014,Excellent,81,None,2,None,1,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3980/tessenderlo/rbu58949,rbu58949,Duplex,Tessenderlo,3980,2001,Fully renovated,153,None,3,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4100/seraing/vbd45082,vbd45082,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/duplex/for-sale/4000/glain/vbd42269,vbd42269,Duplex,Glain,4000,None,None,89,None,1,None,1,2,0,None,0,140 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9180/moerbeke-waas/rbu64762,rbu64762,Apartment,Moerbeke-Waas,9180,2014,Excellent,68,None,1,None,1,2,0,None,0,185 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4100/seraing/vbd45678,vbd45678,Mixed,Seraing,4100,1971,Normal,312,0,5,1,1,2,1,350,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9200/dendermonde/rbu56093,rbu56093,Apartment,Dendermonde,9200,2023,New,98,0,1,None,1,2,1,None,0,249 900 €
+https://immovlan.be/en/detail/duplex/for-sale/4000/liege/vbd06500,vbd06500,Duplex,Liege,4000,None,To renovate,160,None,3,None,0,None,1,None,0,229 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4101/jemeppe/vbc09605,vbc09605,Mixed,Jemeppe,4101,1900,To be renovated,167,None,2,None,0,2,0,None,0,95 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9200/dendermonde/rbu61348,rbu61348,Apartment,Dendermonde,9200,1985,Fully renovated,88,None,2,None,1,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4020/liege/vbd44735,vbd44735,Duplex,Liege,4020,None,Normal,77,None,2,None,0,None,0,None,0,219 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4101/jemeppe/vbd42758,vbd42758,Mixed,Jemeppe,4101,1936,To be renovated,258,0,3,1,1,3,1,40,0,189 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4101/jemeppe/vbd46673,vbd46673,Mixed,Jemeppe,4101,1930,Normal,220,0,3,None,0,2,1,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9230/wetteren/rbt73295,rbt73295,Apartment,Wetteren,9230,1998,Normal,92,0,2,1,0,2,0,None,0,239 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4040/herstal/vbd42258,vbd42258,Duplex,Herstal,4040,None,None,89,None,1,None,1,2,0,None,0,140 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9230/wetteren/rbu62676,rbu62676,Apartment,Wetteren,9230,2008,Normal,73,0,2,None,1,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4100/seraing/vbd48399,vbd48399,Duplex,Seraing,4100,None,New,135,0,4,1,1,2,0,None,0,Make offer from 269 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4101/jemeppe/vbd49749,vbd49749,Mixed,Jemeppe,4101,2015,Excellent,211,0,4,1,1,4,1,144,0,Make offer from 339 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9230/wetteren/rbu65782,rbu65782,Apartment,Wetteren,9230,2025,None,65,None,1,1,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/duplex/for-sale/4140/sprimont/vbd47963,vbd47963,Duplex,Sprimont,4140,2009,Excellent,180,0,3,1,1,3,0,None,0,399 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4130/esneux/vbd07328,vbd07328,Mixed,Esneux,4130,None,Normal,293,None,4,1,1,2,0,None,0,385 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9230/wetteren/rbu65783,rbu65783,Apartment,Wetteren,9230,2025,None,79,None,2,1,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/mixed-building/for-sale/4140/sprimont/rbu61565,rbu61565,Mixed,Sprimont,4140,None,Normal,181,None,3,None,1,3,1,None,0,350 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4170/comblain-au-pont/vbd46695,vbd46695,Duplex,Comblain-au-Pont,4170,1918,Normal,55,0,2,1,0,2,0,None,0,163 500 €
+https://immovlan.be/en/detail/apartment/for-sale/9230/wetteren/rbu65784,rbu65784,Apartment,Wetteren,9230,2025,None,88,None,2,1,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/mixed-building/for-sale/4140/sprimont/vbd49051,vbd49051,Mixed,Sprimont,4140,1956,To be renovated,180,0,3,1,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4400/flemalle/vbd37546,vbd37546,Duplex,Flémalle,4400,None,To be renovated,143,None,1,None,1,None,1,None,0,129 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbj74291,rbj74291,Apartment,Aalst,9300,1973,Normal,184,None,3,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4170/comblain-au-pont/vbc19348,vbc19348,Mixed,Comblain-au-Pont,4170,1800,To renovate,263,0,5,None,1,2,1,268,0,299 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4500/huy/vbd46262,vbd46262,Duplex,Huy,4500,None,Excellent,71,0,1,1,0,3,0,None,0,159 500 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu08937,rbu08937,Apartment,Aalst,9300,None,None,133,None,2,None,1,None,1,None,0,417 700 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4180/hamoir/vbd42207,vbd42207,Mixed,Hamoir,4180,None,To be renovated,None,None,2,None,None,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4577/modave/vbd13010,vbd13010,Duplex,Modave,4577,None,To be renovated,104,0,2,None,None,2,0,None,0,55 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu33049,rbu33049,Apartment,Aalst,9300,None,New,53,None,None,None,1,2,1,8,0,Price on request
+https://immovlan.be/en/detail/mixed-building/for-sale/4180/hamoir/vbd43878,vbd43878,Mixed,Hamoir,4180,None,To be renovated,1750,None,None,None,1,3,0,None,0,Make offer from 750 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4600/richelle/vbd36361,vbd36361,Duplex,Richelle,4600,2017,Normal,178,0,3,1,1,2,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu33051,rbu33051,Apartment,Aalst,9300,None,New,117,None,3,None,1,2,1,None,0,Price on request
+https://immovlan.be/en/detail/mixed-building/for-sale/4420/saint-nicolas/vbd48890,vbd48890,Mixed,Saint-Nicolas,4420,1874,Normal,125,0,4,1,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4728/hergenrath/vbd44434,vbd44434,Duplex,Hergenrath,4728,2024,None,102,None,2,None,1,None,0,None,0,355 930 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu33806,rbu33806,Apartment,Aalst,9300,None,Excellent,80,0,1,None,1,None,0,None,0,219 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4460/grace-hollogne/vbd48825,vbd48825,Mixed,Grâce-Hollogne,4460,None,Normal,322,None,8,1,None,3,1,None,0,349 000 €
+https://immovlan.be/en/detail/duplex/for-sale/4960/malmedy/vbb08871,vbb08871,Duplex,Malmedy,4960,None,Normal,56,1,2,1,1,3,1,None,0,120 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4550/nandrin/vbd43139,vbd43139,Mixed,Nandrin,4550,2016,Excellent,626,0,9,None,1,4,1,627,0,1 099 999 €
+https://immovlan.be/en/detail/duplex/for-sale/5000/beez/vbd43710,vbd43710,Duplex,Beez,5000,None,Excellent,71,None,2,None,1,None,0,None,0,Make offer from 245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu46519,rbu46519,Apartment,Aalst,9300,None,None,101,None,2,None,1,None,1,None,0,288 600 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4690/bassenge/vbd47074,vbd47074,Mixed,Bassenge,4690,1996,Normal,611,0,18,1,1,4,1,700,0,Price on request
+https://immovlan.be/en/detail/duplex/for-sale/5000/namur/vbd04023,vbd04023,Duplex,Namur,5000,1965,Normal,259,None,4,None,1,2,0,None,0,649 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu56112,rbu56112,Apartment,Aalst,9300,2025,New,None,None,3,None,1,2,1,None,0,Make offer from 352 500 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4750/butgenbach/vbd47882,vbd47882,Mixed,Bütgenbach,4750,1940,Excellent,711,1,17,None,1,4,1,1500,0,750 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5000/namur/vbd26461,vbd26461,Duplex,Namur,5000,2025,New,89,0,1,None,1,2,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu58238,rbu58238,Apartment,Aalst,9300,None,Excellent,None,0,18,None,0,None,0,None,0,1 575 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4800/verviers/vbd42383,vbd42383,Mixed,Verviers,4800,1850,Normal,149,0,3,1,1,2,0,None,0,Make offer from 299 999 €
+https://immovlan.be/en/detail/duplex/for-sale/5000/namur/vbd31518,vbd31518,Duplex,Namur,5000,2025,New,91,None,2,1,1,2,0,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu58247,rbu58247,Apartment,Aalst,9300,None,Normal,72,0,2,None,0,None,0,None,0,105 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5000/namur/vbd47647,vbd47647,Duplex,Namur,5000,1930,To renovate,156,None,4,1,1,2,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu58375,rbu58375,Apartment,Aalst,9300,2025,New,None,None,2,None,1,2,1,None,0,Make offer from 315 500 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4800/verviers/vbd42481,vbd42481,Mixed,Verviers,4800,1874,To be renovated,526,0,8,1,1,3,0,None,0,269 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5004/bouge/vbd41259,vbd41259,Duplex,Bouge,5004,1932,Excellent,120,0,3,1,1,3,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu59648,rbu59648,Apartment,Aalst,9300,1966,To renovate,197,0,4,1,1,4,0,None,0,499 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4800/verviers/vbd44538,vbd44538,Mixed,Verviers,4800,1899,Normal,215,0,5,1,1,2,1,40,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu63273,rbu63273,Apartment,Aalst,9300,None,Excellent,80,0,2,None,1,None,0,None,0,198 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5100/jambes/vbd47382,vbd47382,Duplex,Jambes,5100,2011,Excellent,60,None,1,1,1,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4800/verviers/vbd49311,vbd49311,Mixed,Verviers,4800,None,None,260,0,5,None,1,2,0,None,0,Make offer from 199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9300/aalst/rbu66325,rbu66325,Apartment,Aalst,9300,1962,Excellent,100,None,2,None,1,None,1,None,0,220 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4801/stembert/vbd46784,vbd46784,Mixed,Stembert,4801,None,Normal,110,0,3,1,1,2,1,500,0,Make offer from 247 500 €
+https://immovlan.be/en/detail/duplex/for-sale/5150/floreffe/vbd48432,vbd48432,Duplex,Floreffe,5150,1850,To renovate,85,0,2,1,0,3,0,None,0,200 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9320/erembodegem/rbu61604,rbu61604,Apartment,Erembodegem,9320,2026,New,92,0,2,1,1,2,0,None,0,305 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4820/dison/vbc98836,vbc98836,Mixed,Dison,4820,1850,Normal,362,0,3,None,1,2,1,128,0,295 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5300/andenne/vbd28767,vbd28767,Duplex,Andenne,5300,None,Excellent,111,0,3,None,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4830/limbourg/vbd47049,vbd47049,Mixed,Limbourg,4830,1975,Normal,145,0,2,1,1,2,1,96,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9320/erembodegem/rbu61605,rbu61605,Apartment,Erembodegem,9320,2026,New,108,0,2,1,1,2,0,None,0,355 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5300/andenne/vbd43808,vbd43808,Duplex,Andenne,5300,None,Normal,171,None,3,1,1,None,0,None,0,Make offer from 319 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4860/cornesse/vbd46930,vbd46930,Mixed,Cornesse,4860,None,Normal,120,0,2,1,0,2,0,None,0,Make offer from 235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9320/erembodegem/rbu66213,rbu66213,Apartment,Erembodegem,9320,None,Excellent,110,None,2,1,1,3,0,None,0,279 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5300/andenne/vbd49857,vbd49857,Duplex,Andenne,5300,2005,Normal,85,0,2,1,0,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4920/aywaille/vbd47515,vbd47515,Mixed,Aywaille,4920,None,Normal,185,0,3,None,0,2,0,None,0,170 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9340/lede/rbu66747,rbu66747,Apartment,Lede,9340,1961,Normal,128,0,2,None,None,4,0,None,0,149 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5500/anseremme/vbd46612,vbd46612,Duplex,Anseremme,5500,2005,Normal,110,0,3,1,1,None,0,None,0,230 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4950/waimes/vbd47586,vbd47586,Mixed,Waimes,4950,1940,Excellent,711,1,17,None,1,4,1,1500,0,750 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5500/dinant/vbd38663,vbd38663,Duplex,Dinant,5500,2001,Normal,91,0,2,1,0,2,0,None,0,120 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9400/ninove/rbu60089,rbu60089,Apartment,Ninove,9400,1976,Excellent,115,None,2,1,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4980/trois-ponts/vbb85201,vbb85201,Mixed,Trois-Ponts,4980,None,To be renovated,265,0,3,1,1,2,1,69,0,275 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5500/dinant/vbd38665,vbd38665,Duplex,Dinant,5500,2001,Normal,91,0,2,1,0,3,0,None,0,125 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9400/ninove/rbu61469,rbu61469,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/mixed-building/for-sale/5000/namur/vbd18489,vbd18489,Mixed,Namur,5000,1899,Normal,256,0,6,None,1,2,1,None,0,795 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5560/houyet/vbd38175,vbd38175,Duplex,Houyet,5560,None,New,90,0,2,None,0,None,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9400/ninove/rbu63267,rbu63267,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/mixed-building/for-sale/5000/namur/vbd30993,vbd30993,Mixed,Namur,5000,1978,Normal,350,0,2,None,1,4,0,None,0,700 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5560/houyet/vbd38176,vbd38176,Duplex,Houyet,5560,None,New,68,0,2,None,0,None,0,None,0,139 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9400/ninove/rbu64420,rbu64420,Apartment,Ninove,9400,2013,None,76,0,2,None,1,3,0,None,0,219 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5000/namur/vbd40972,vbd40972,Mixed,Namur,5000,None,None,140,None,3,None,None,2,1,None,0,199 000 €
+https://immovlan.be/en/detail/duplex/for-sale/5640/mettet/vwd14751,vwd14751,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9400/ninove/rbu65956,rbu65956,Apartment,Ninove,9400,1978,Normal,106,0,2,1,1,2,0,None,0,289 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5000/namur/vbd48429,vbd48429,Mixed,Namur,5000,None,Normal,340,0,6,1,1,2,0,None,0,735 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6060/gilly/vbd48798,vbd48798,Duplex,Gilly,6060,None,None,91,None,2,None,0,3,1,25,0,178 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9420/erpe-mere/rbu65975,rbu65975,Apartment,Erpe-Mere,9420,1989,Normal,83,0,2,1,0,3,0,None,0,190 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6060/gilly/vbd48799,vbd48799,Duplex,Gilly,6060,None,None,91,None,2,None,0,2,1,17,0,169 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5060/arsimont/vbd12261,vbd12261,Mixed,Arsimont,5060,1972,To be renovated,None,None,None,None,0,4,0,None,0,Make offer from 150 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9450/denderhoutem/rbu66305,rbu66305,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/duplex/for-sale/6060/gilly/vbd48800,vbd48800,Duplex,Gilly,6060,None,None,91,None,2,None,0,2,1,45,0,169 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5060/auvelais/vbc59100,vbc59100,Mixed,Auvelais,5060,None,Normal,None,0,3,None,None,2,0,None,0,Make offer from 475 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9450/haaltert/rbu62704,rbu62704,Apartment,Haaltert,9450,2005,Normal,95,0,2,None,1,3,0,None,0,240 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6060/gilly/vbd48801,vbd48801,Duplex,Gilly,6060,None,None,89,None,2,None,0,2,1,12,0,165 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5060/auvelais/vbd41622,vbd41622,Mixed,Auvelais,5060,1976,Normal,545,0,3,1,1,3,1,700,0,789 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9450/haaltert/rbu64765,rbu64765,Apartment,Haaltert,9450,2000,Excellent,82,None,2,None,1,2,1,None,0,224 900 €
+https://immovlan.be/en/detail/duplex/for-sale/6060/gilly/vbd48802,vbd48802,Duplex,Gilly,6060,None,None,89,None,2,None,0,2,0,None,0,165 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5300/andenne/vbd43596,vbd43596,Mixed,Andenne,5300,None,None,215,0,4,None,0,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9470/denderleeuw/rbu58553,rbu58553,Apartment,Denderleeuw,9470,2025,New,87,0,2,1,1,None,1,None,0,265 050 €
+https://immovlan.be/en/detail/duplex/for-sale/6060/gilly/vbd48803,vbd48803,Duplex,Gilly,6060,None,None,89,None,2,None,0,2,1,14,0,165 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5300/andenne/vbd44535,vbd44535,Mixed,Andenne,5300,1850,To be renovated,214,0,6,None,1,3,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9470/denderleeuw/rbu59608,rbu59608,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/duplex/for-sale/6060/gilly/vbd48804,vbd48804,Duplex,Gilly,6060,None,None,89,None,2,None,0,2,0,None,0,165 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5350/ohey/vbd18335,vbd18335,Mixed,Ohey,5350,None,Normal,318,0,6,1,1,3,1,None,0,Make offer from 549 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9470/denderleeuw/rbu60550,rbu60550,Apartment,Denderleeuw,9470,2025,New,87,0,2,1,1,None,1,None,0,277 450 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5500/dinant/vbd45765,vbd45765,Mixed,Dinant,5500,None,Normal,124,0,2,1,1,3,1,None,0,Make offer from 298 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9470/denderleeuw/rbu62693,rbu62693,Apartment,Denderleeuw,9470,1992,Normal,55,0,1,None,1,None,0,None,0,185 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8000/brugge/rbu60786,rbu60786,Duplex,Brugge,8000,1980,Normal,109,0,3,1,1,2,0,None,0,319 800 €
+https://immovlan.be/en/detail/apartment/for-sale/9470/denderleeuw/rbu64917,rbu64917,Apartment,Denderleeuw,9470,2025,New,87,0,2,1,1,None,1,None,0,294 415 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5500/dinant/vbd46464,vbd46464,Mixed,Dinant,5500,None,To be renovated,1048,0,3,None,0,2,0,None,0,320 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8000/brugge/rbu64780,rbu64780,Duplex,Brugge,8000,1985,Normal,68,0,2,1,1,3,0,None,0,234 800 €
+https://immovlan.be/en/detail/apartment/for-sale/9470/denderleeuw/rbu66395,rbu66395,Apartment,Denderleeuw,9470,None,Normal,120,0,2,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5530/yvoir/vbd29683,vbd29683,Mixed,Yvoir,5530,None,Normal,None,None,4,None,1,None,0,None,0,485 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8370/blankenberge/rbs36087,rbs36087,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/mixed-building/for-sale/5537/anhee/vbd38652,vbd38652,Mixed,Anhée,5537,1889,To renovate,213,0,4,1,1,3,0,None,0,Make offer from 280 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9473/welle/rbu48276,rbu48276,Apartment,Welle,9473,None,Normal,123,0,2,None,1,None,0,None,0,279 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8400/oostende/rbu60787,rbu60787,Duplex,Oostende,8400,1990,Normal,240,0,5,1,1,2,0,None,0,384 800 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5555/bievre/vbd33628,vbd33628,Mixed,Bièvre,5555,1865,Normal,1000,0,3,None,None,4,1,3000,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu56375,rbu56375,Apartment,Geraardsbergen,9500,None,None,526,0,5,None,1,2,0,None,0,499 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8400/oostende/rwc41110,rwc41110,Duplex,Oostende,8400,1994,Normal,108,None,2,1,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5570/beauraing/vbd38526,vbd38526,Mixed,Beauraing,5570,None,Normal,315,0,2,None,1,2,0,None,0,Make offer from 345 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu58829,rbu58829,Apartment,Geraardsbergen,9500,1874,To renovate,963,None,10,None,None,2,0,None,0,1 150 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8430/middelkerke/rbt37604,rbt37604,Duplex,Middelkerke,8430,1987,Normal,115,0,2,None,1,3,0,None,0,325 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5570/beauraing/vbd50002,vbd50002,Mixed,Beauraing,5570,None,To restore,436,0,8,None,0,2,0,None,0,Make offer from 55 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8480/ichtegem/rbt91541,rbt91541,Duplex,Ichtegem,8480,2025,None,107,None,3,None,1,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu58832,rbu58832,Apartment,Geraardsbergen,9500,1874,To renovate,550,None,10,None,None,2,0,None,0,675 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5590/braibant/vbd28069,vbd28069,Mixed,Braibant,5590,None,Excellent,355,None,6,1,1,4,1,None,0,Make offer from 450 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8480/ichtegem/rbt91542,rbt91542,Duplex,Ichtegem,8480,2025,None,104,None,3,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu59344,rbu59344,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu61447,rbu61447,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/mixed-building/for-sale/5590/ciney/vbd40561,vbd40561,Mixed,Ciney,5590,None,Normal,None,None,3,None,0,2,0,None,0,Make offer from 250 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8500/kortrijk/rbu49660,rbu49660,Duplex,Kortrijk,8500,1995,Excellent,153,None,3,None,1,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu61451,rbu61451,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/duplex/for-sale/8560/wevelgem/rwc40156,rwc40156,Duplex,Wevelgem,8560,None,Normal,176,None,2,1,1,2,0,None,0,230 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu61452,rbu61452,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu61453,rbu61453,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/mixed-building/for-sale/5590/ciney/vbd44807,vbd44807,Mixed,Ciney,5590,None,None,None,None,None,None,1,2,1,None,0,100 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu61465,rbu61465,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/duplex/for-sale/8620/nieuwpoort/rbu29622,rbu29622,Duplex,Nieuwpoort,8620,2025,New,137,None,2,None,1,None,1,None,0,529 990 €
+https://immovlan.be/en/detail/duplex/for-sale/8620/nieuwpoort/rbu65144,rbu65144,Duplex,Nieuwpoort,8620,2021,None,113,None,2,None,0,None,0,None,0,349 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5600/villers-le-gambon/vbc23513,vbc23513,Mixed,Villers-le-Gambon,5600,None,Normal,366,0,4,None,1,4,1,900,0,Make offer from 280 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu62675,rbu62675,Apartment,Geraardsbergen,9500,1925,Normal,127,0,2,None,1,2,0,None,0,279 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5620/florennes/vbd05689,vbd05689,Mixed,Florennes,5620,None,None,161,0,2,None,0,2,0,None,0,120 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8660/de-panne/rbt46641,rbt46641,Duplex,De Panne,8660,1997,None,None,1,4,None,1,None,0,None,0,440 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8700/tielt/rbu60774,rbu60774,Duplex,Tielt,8700,2005,None,146,None,3,None,1,None,0,None,0,255 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8890/moorslede/rbu65714,rbu65714,Duplex,Moorslede,8890,2015,None,104,None,2,None,1,None,0,None,0,246 500 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu62680,rbu62680,Apartment,Geraardsbergen,9500,2015,Normal,98,0,3,None,1,4,1,None,0,215 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5630/cerfontaine/vbd33133,vbd33133,Mixed,Cerfontaine,5630,1832,None,194,None,4,None,0,3,1,None,0,149 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8980/beselare/rbi53357,rbi53357,Duplex,Beselare,8980,2020,None,135,None,2,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu62681,rbu62681,Apartment,Geraardsbergen,9500,2015,Normal,77,0,2,None,1,4,1,None,0,185 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5630/senzeille/vbd44828,vbd44828,Mixed,Senzeille,5630,1915,Normal,314,0,8,None,1,4,0,None,0,Make offer from 497 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8980/beselare/rbu50868,rbu50868,Duplex,Beselare,8980,2020,None,104,None,2,None,1,None,0,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu65147,rbu65147,Apartment,Geraardsbergen,9500,1981,None,99,0,2,None,1,2,0,None,0,180 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5650/yves-gomezee/vbd33204,vbd33204,Mixed,Yves-Gomezée,5650,None,To be renovated,270,0,3,None,None,3,1,745,0,Make offer from 149 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/5651/laneffe/vwd13516,vwd13516,Mixed,Laneffe,5651,None,To be renovated,130,None,3,1,1,3,1,1100,0,Make offer from 250 000 €
+https://immovlan.be/en/detail/duplex/for-sale/8980/beselare/rwc40078,rwc40078,Duplex,Beselare,8980,2010,Excellent,142,None,2,1,1,3,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu65148,rbu65148,Apartment,Geraardsbergen,9500,1981,None,99,0,3,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6060/gilly/vbd49665,vbd49665,Mixed,Gilly,6060,None,To be renovated,226,0,5,1,1,2,1,800,0,280 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9030/mariakerke/rbu60840,rbu60840,Duplex,Mariakerke,9030,2011,Normal,127,0,2,1,1,2,0,None,0,499 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9500/geraardsbergen/rbu65150,rbu65150,Apartment,Geraardsbergen,9500,1981,None,99,0,3,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6200/chatelet/vbd49760,vbd49760,Mixed,Châtelet,6200,None,To renovate,None,None,4,None,None,2,0,None,0,Make offer from 185 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9051/sint-denijs-westrem/rbu59017,rbu59017,Duplex,Sint-Denijs-Westrem,9051,2004,Normal,150,0,2,1,1,4,0,None,0,410 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9506/schendelbeke/rbu65149,rbu65149,Apartment,Schendelbeke,9506,1981,None,99,0,2,None,1,2,0,None,0,180 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu23895,rbu23895,Duplex,Aalst,9300,1991,Excellent,153,None,3,1,1,2,0,None,0,275 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6240/farciennes/vbd44803,vbd44803,Mixed,Farciennes,6240,None,To be renovated,315,None,3,None,None,2,1,600,0,Make offer from 169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9550/herzele/rbr93775,rbr93775,Apartment,Herzele,9550,None,Normal,81,0,2,1,1,None,1,60,0,215 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6533/biercee/vbd49987,vbd49987,Mixed,Biercée,6533,None,To restore,None,0,3,None,1,4,1,None,0,Make offer from 199 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu55606,rbu55606,Duplex,Aalst,9300,None,None,None,None,2,None,0,None,0,None,0,145 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu58242,rbu58242,Duplex,Aalst,9300,None,Excellent,92,0,2,None,0,None,0,None,0,155 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu58243,rbu58243,Duplex,Aalst,9300,None,Excellent,119,0,2,None,1,None,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9550/herzele/rbu65145,rbu65145,Apartment,Herzele,9550,None,New,72,0,2,None,1,2,1,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9600/ronse/rbt08795,rbt08795,Apartment,Ronse,9600,2025,None,87,0,2,None,1,2,0,None,0,241 500 €
+https://immovlan.be/en/detail/mixed-building/for-sale/7100/la-louviere/vbd49307,vbd49307,Mixed,La Louvière,7100,None,None,None,0,2,None,None,2,0,None,0,Make offer from 575 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu58244,rbu58244,Duplex,Aalst,9300,None,Excellent,114,0,2,None,0,None,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9600/ronse/rbu62404,rbu62404,Apartment,Ronse,9600,None,To be renovated,65,0,1,1,1,None,0,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9600/ronse/rbu64251,rbu64251,Apartment,Ronse,9600,1978,To be renovated,100,0,2,None,1,2,0,None,0,160 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/7170/manage/vbd49157,vbd49157,Mixed,Manage,7170,1900,Normal,266,None,3,1,1,3,0,None,0,Make offer from 319 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu58245,rbu58245,Duplex,Aalst,9300,None,Excellent,100,0,3,None,0,None,0,None,0,145 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9620/zottegem/rbu62685,rbu62685,Apartment,Zottegem,9620,2004,Normal,170,0,2,None,1,3,0,None,0,319 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu58246,rbu58246,Duplex,Aalst,9300,None,Excellent,106,0,2,None,0,None,0,None,0,159 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/7700/mouscron/vbd49728,vbd49728,Mixed,Mouscron,7700,None,Excellent,154,0,4,1,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9620/zottegem/rbu64252,rbu64252,Apartment,Zottegem,9620,1996,Normal,148,0,3,None,1,4,0,None,0,279 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu58249,rbu58249,Duplex,Aalst,9300,None,Excellent,36,0,1,None,0,None,0,None,0,105 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8200/sint-michiels/rbu64779,rbu64779,Mixed,Sint-Michiels,8200,1993,Normal,308,0,4,None,1,4,1,458,0,474 800 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu33552,rbu33552,Apartment,Oudenaarde,9700,2013,Normal,81,None,2,None,1,2,1,None,0,249 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9300/aalst/rbu58250,rbu58250,Duplex,Aalst,9300,None,Excellent,40,0,1,None,0,None,0,None,0,105 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8450/bredene/rbu59400,rbu59400,Mixed,Bredene,8450,None,Normal,339,None,3,1,1,2,1,110,0,549 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9320/erembodegem/rbt24876,rbt24876,Duplex,Erembodegem,9320,None,Normal,182,0,4,1,1,None,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu50344,rbu50344,Apartment,Oudenaarde,9700,1981,Normal,90,0,2,1,0,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8520/kuurne/vbd46183,vbd46183,Mixed,Kuurne,8520,1958,Excellent,414,0,2,1,1,3,0,None,0,445 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu62539,rbu62539,Apartment,Oudenaarde,9700,2014,Normal,103,0,1,1,1,None,0,None,0,310 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9340/lede/rbu61390,rbu61390,Duplex,Lede,9340,2016,Excellent,122,0,2,1,1,2,0,None,0,328 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8540/deerlijk/rbi56030,rbi56030,Mixed,Deerlijk,8540,1987,None,347,None,5,1,0,3,1,None,0,648 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66344,rbu66344,Apartment,Oudenaarde,9700,2025,New,98,0,2,1,1,3,0,None,0,395 500 €
+https://immovlan.be/en/detail/duplex/for-sale/9400/ninove/rbu58822,rbu58822,Duplex,Ninove,9400,2020,Excellent,123,0,3,1,1,2,0,None,0,398 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8540/deerlijk/rbu62366,rbu62366,Mixed,Deerlijk,8540,None,Normal,216,0,4,None,1,2,0,None,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66345,rbu66345,Apartment,Oudenaarde,9700,2025,New,131,0,3,1,1,3,0,None,0,589 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9420/erpe-mere/rbu58988,rbu58988,Duplex,Erpe-Mere,9420,None,Excellent,142,0,3,None,1,None,1,800,0,279 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8560/wevelgem/rbu65727,rbu65727,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66347,rbu66347,Apartment,Oudenaarde,9700,2025,New,117,0,2,1,1,3,0,None,0,512 000 €
+https://immovlan.be/en/detail/duplex/for-sale/9968/oosteeklo/rbu56964,rbu56964,Duplex,Oosteeklo,9968,2017,None,163,None,3,None,1,None,0,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66348,rbu66348,Apartment,Oudenaarde,9700,2025,New,75,0,1,1,1,3,0,None,0,335 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1000/brussels/vbd45703,vbd45703,Ground,Brussels,1000,1929,Fully renovated,135,0,2,1,1,2,1,80,0,679 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8570/anzegem/rbu62633,rbu62633,Mixed,Anzegem,8570,1998,Normal,1000,None,None,None,1,4,0,None,0,690 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66349,rbu66349,Apartment,Oudenaarde,9700,2025,New,120,0,3,1,1,3,0,None,0,494 500 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1000/brussels/vbd45748,vbd45748,Ground,Brussels,1000,2025,New,131,0,2,1,1,2,1,20,0,790 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8750/wingene/rbu62320,rbu62320,Mixed,Wingene,8750,2019,Excellent,350,None,2,None,1,None,1,None,0,649 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66350,rbu66350,Apartment,Oudenaarde,9700,2025,New,95,0,2,1,1,3,0,None,0,395 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1000/brussels/vbd49243,vbd49243,Ground,Brussels,1000,1866,Fully renovated,81,0,1,1,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66351,rbu66351,Apartment,Oudenaarde,9700,2025,New,95,0,2,1,1,3,0,None,0,375 375 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8800/roeselare/vbd49851,vbd49851,Mixed,Roeselare,8800,2016,Excellent,194,None,4,1,1,2,0,None,0,581 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1000/brussels/vbd49278,vbd49278,Ground,Brussels,1000,2022,New,129,0,3,1,0,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1000/brussels/vbd49788,vbd49788,Ground,Brussels,1000,1955,Normal,65,0,1,1,1,2,1,26,0,149 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/8930/menen/rbu62531,rbu62531,Mixed,Menen,8930,1992,Normal,195,None,None,1,1,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66352,rbu66352,Apartment,Oudenaarde,9700,2025,New,74,0,1,1,1,3,0,None,0,315 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1020/laken/vbd45958,vbd45958,Ground,Laken,1020,None,None,100,None,1,None,1,4,1,None,0,279 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9000/gent/rbu61554,rbu61554,Mixed,Gent,9000,None,Normal,178,0,None,None,0,2,0,None,0,695 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66353,rbu66353,Apartment,Oudenaarde,9700,2025,New,130,0,3,1,1,3,0,None,0,560 900 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1030/schaarbeek/vbd13483,vbd13483,Ground,Schaarbeek,1030,None,To be renovated,62,0,1,None,0,2,1,None,0,165 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9040/sint-amandsberg/rbu60029,rbu60029,Mixed,Sint-Amandsberg,9040,None,Excellent,286,0,3,1,1,2,0,None,1,440 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66354,rbu66354,Apartment,Oudenaarde,9700,2025,New,110,0,3,1,1,3,0,None,0,479 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1030/schaarbeek/vbd45419,vbd45419,Ground,Schaarbeek,1030,1933,Normal,101,0,1,None,0,3,1,85,0,285 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9100/sint-niklaas/rbu62456,rbu62456,Mixed,Sint-Niklaas,9100,2025,New,266,0,6,None,1,2,0,None,0,1 122 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66355,rbu66355,Apartment,Oudenaarde,9700,2025,New,102,0,2,1,1,3,0,None,0,415 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1030/schaarbeek/vbd47355,vbd47355,Ground,Schaarbeek,1030,1900,Fully renovated,111,0,2,None,1,None,1,12,0,437 500 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9200/dendermonde/rbu59643,rbu59643,Mixed,Dendermonde,9200,None,Normal,184,0,2,1,1,3,1,33,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66356,rbu66356,Apartment,Oudenaarde,9700,2025,New,97,0,2,1,1,3,0,None,0,401 500 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1030/schaarbeek/vbd48974,vbd48974,Ground,Schaarbeek,1030,1950,To renovate,117,None,3,1,1,None,1,80,0,380 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9230/wetteren/rbu66897,rbu66897,Mixed,Wetteren,9230,1956,To renovate,224,0,3,1,1,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66357,rbu66357,Apartment,Oudenaarde,9700,2025,New,106,0,2,1,1,3,0,None,0,425 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1040/etterbeek/vbd46496,vbd46496,Ground,Etterbeek,1040,1957,To renovate,83,None,2,1,0,None,0,None,0,280 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9255/buggenhout/rbu57965,rbu57965,Mixed,Buggenhout,9255,1958,Normal,259,0,4,1,1,2,1,None,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9700/oudenaarde/rbu66358,rbu66358,Apartment,Oudenaarde,9700,2025,New,77,0,1,1,1,3,0,None,0,323 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1050/elsene/vbd44981,vbd44981,Ground,Elsene,1050,1926,Fully renovated,94,0,2,1,1,2,1,None,0,650 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9400/ninove/rbu62476,rbu62476,Mixed,Ninove,9400,1969,To renovate,166,0,3,1,1,3,1,None,0,410 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9750/kruisem/rbu62700,rbu62700,Apartment,Kruisem,9750,2018,Normal,82,0,2,None,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1050/elsene/vbd45786,vbd45786,Ground,Elsene,1050,1900,Normal,237,0,5,1,1,2,1,80,0,885 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9400/voorde/rbu61461,rbu61461,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu44616,rbu44616,Apartment,Deinze,9800,None,None,102,None,2,None,1,None,1,None,0,326 200 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1050/elsene/vbd48724,vbd48724,Ground,Elsene,1050,2025,New,131,0,2,1,1,2,1,20,0,790 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu44619,rbu44619,Apartment,Deinze,9800,None,None,110,None,2,None,1,None,1,112,0,416 200 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9500/geraardsbergen/rbu57151,rbu57151,Mixed,Geraardsbergen,9500,None,To be renovated,250,None,None,None,None,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1050/elsene/vbd49040,vbd49040,Ground,Elsene,1050,1920,Excellent,60,0,1,1,1,None,1,50,0,300 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9500/geraardsbergen/rbu60213,rbu60213,Mixed,Geraardsbergen,9500,1985,None,500,0,7,1,0,3,0,None,0,898 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu56193,rbu56193,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/1050/elsene/vbd49228,vbd49228,Ground,Elsene,1050,None,To be renovated,None,0,1,None,1,2,1,20,0,220 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9500/geraardsbergen/rbu61438,rbu61438,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu56200,rbu56200,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/1050/elsene/vbd49371,vbd49371,Ground,Elsene,1050,1930,Excellent,185,0,3,1,0,2,1,60,0,890 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu57105,rbu57105,Apartment,Deinze,9800,2025,New,95,0,2,1,1,2,1,90,0,416 240 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9500/geraardsbergen/rbu61449,rbu61449,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/1050/elsene/vbd49955,vbd49955,Ground,Elsene,1050,2021,Excellent,120,1,2,1,1,2,1,130,0,760 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu57106,rbu57106,Apartment,Deinze,9800,2025,New,117,0,3,1,1,2,1,None,0,429 740 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9500/geraardsbergen/rbu61458,rbu61458,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/1060/sint-gillis/vbd44638,vbd44638,Ground,Sint-Gillis,1060,None,Normal,128,0,3,None,0,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu57107,rbu57107,Apartment,Deinze,9800,2025,New,102,0,2,1,1,2,1,None,0,326 240 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9500/geraardsbergen/rbu61467,rbu61467,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu57108,rbu57108,Apartment,Deinze,9800,2025,New,89,0,1,1,1,2,1,None,0,301 240 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1070/anderlecht/vbd45684,vbd45684,Ground,Anderlecht,1070,None,To renovate,50,0,1,None,0,2,1,50,0,199 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9600/ronse/rbt44343,rbt44343,Mixed,Ronse,9600,2015,Normal,305,0,8,1,1,3,0,None,0,795 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu57109,rbu57109,Apartment,Deinze,9800,2025,New,103,0,2,1,1,2,1,None,0,391 240 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1070/anderlecht/vbd48676,vbd48676,Ground,Anderlecht,1070,2013,Excellent,100,0,2,None,1,2,1,None,0,Make offer from 279 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9600/ronse/rbu32120,rbu32120,Mixed,Ronse,9600,None,Excellent,500,0,10,None,1,3,0,None,0,960 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1080/sint-jans-molenbeek/vbd45070,vbd45070,Ground,Sint-Jans-Molenbeek,1080,1940,To be renovated,59,0,1,None,0,2,0,None,0,Make offer from 170 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu57110,rbu57110,Apartment,Deinze,9800,2025,New,114,0,2,1,1,2,1,None,0,431 990 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9600/ronse/rbu57180,rbu57180,Mixed,Ronse,9600,None,To be renovated,309,None,4,1,1,4,0,None,0,245 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1080/sint-jans-molenbeek/vbd49111,vbd49111,Ground,Sint-Jans-Molenbeek,1080,2011,Normal,130,0,4,None,1,None,1,40,0,325 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9600/ronse/rbu63080,rbu63080,Mixed,Ronse,9600,1960,Normal,235,0,6,1,1,3,1,40,0,370 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu57273,rbu57273,Apartment,Deinze,9800,1968,Fully renovated,82,0,2,1,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9600/ronse/rbu66016,rbu66016,Mixed,Ronse,9600,None,Normal,374,None,2,1,1,3,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu60193,rbu60193,Apartment,Deinze,9800,1978,Normal,80,None,2,1,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1082/berchem-sainte-agathe/vbd44658,vbd44658,Ground,Berchem-Sainte-Agathe,1082,1952,Normal,88,0,2,1,1,2,1,75,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9800/deinze/rbu66027,rbu66027,Apartment,Deinze,9800,1975,Normal,94,None,1,None,None,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9660/brakel/rbu61441,rbu61441,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/1082/berchem-sainte-agathe/vbd47861,vbd47861,Ground,Berchem-Sainte-Agathe,1082,2025,None,97,0,2,1,1,3,1,29,0,340 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9688/schorisse/rbu63087,rbu63087,Mixed,Schorisse,9688,None,Excellent,200,None,1,1,1,3,1,None,0,650 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9810/eke/rbt98014,rbt98014,Apartment,Eke,9810,None,New,80,0,2,None,1,None,0,None,0,355 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1090/jette/vbd44784,vbd44784,Ground,Jette,1090,1954,Normal,100,None,2,1,1,2,1,230,0,269 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9690/kluisbergen/rbu47200,rbu47200,Mixed,Kluisbergen,9690,1956,Normal,277,0,5,1,1,2,1,70,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9810/nazareth/rbu62367,rbu62367,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/1120/neder-over-heembeek/vbd48979,vbd48979,Ground,Neder-Over-Heembeek,1120,2002,Normal,74,0,1,1,0,3,0,None,0,215 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9850/hansbeke/rbu64211,rbu64211,Mixed,Hansbeke,9850,1899,Normal,111,None,None,1,1,2,1,None,0,430 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9810/nazareth/rbu64964,rbu64964,Apartment,Nazareth,9810,2019,Excellent,97,0,2,1,1,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/9968/bassevelde/vbb76893,vbb76893,Mixed,Bassevelde,9968,None,None,1390,None,6,None,None,4,1,None,0,780 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1140/evere/vbd47168,vbd47168,Ground,Evere,1140,1994,Normal,85,0,1,None,1,None,1,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9820/merelbeke/rbs74549,rbs74549,Apartment,Merelbeke,9820,None,New,156,None,3,None,1,None,0,None,0,645 900 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/rbu58254,rbu58254,Penthouse,Brussels,1000,2014,Normal,95,1,2,None,1,2,0,None,0,825 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9820/merelbeke/rbs74564,rbs74564,Apartment,Merelbeke,9820,None,New,161,None,3,None,1,None,0,None,0,637 400 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1160/oudergem/vbc97547,vbc97547,Ground,Oudergem,1160,None,Normal,71,0,1,None,0,2,0,None,0,230 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/rbu60810,rbu60810,Penthouse,Brussels,1000,2007,Excellent,126,0,3,1,1,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1160/oudergem/vbd47359,vbd47359,Ground,Oudergem,1160,2024,New,125,0,3,1,1,None,1,56,0,795 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9820/merelbeke/rbs74565,rbs74565,Apartment,Merelbeke,9820,None,New,145,None,3,None,1,None,0,None,0,607 600 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1160/oudergem/vbd49784,vbd49784,Ground,Oudergem,1160,1935,Normal,60,0,1,None,1,2,1,60,0,275 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/vbd45704,vbd45704,Penthouse,Brussels,1000,1929,Fully renovated,144,0,2,1,1,2,1,None,0,549 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9820/merelbeke/rbs74568,rbs74568,Apartment,Merelbeke,9820,None,New,99,None,2,None,1,None,0,None,0,432 200 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/vbd45930,vbd45930,Penthouse,Brussels,1000,2027,New,156,0,3,1,1,2,1,None,0,1 595 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1180/ukkel/vbd25259,vbd25259,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9840/de-pinte/rbu64963,rbu64963,Apartment,De Pinte,9840,2019,Excellent,97,0,2,1,1,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/vbd46520,vbd46520,Penthouse,Brussels,1000,2017,Excellent,55,0,1,1,1,2,0,None,0,415 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1180/ukkel/vbd48906,vbd48906,Ground,Ukkel,1180,None,None,50,None,None,None,1,3,1,110,0,205 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9850/nevele/rbu64185,rbu64185,Apartment,Nevele,9850,2025,New,83,0,2,1,1,2,1,50,0,412 700 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/vbd47260,vbd47260,Penthouse,Brussels,1000,2017,Excellent,56,1,1,None,1,3,0,None,0,415 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1180/ukkel/vbd49223,vbd49223,Ground,Ukkel,1180,1954,To renovate,72,None,1,None,1,None,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9850/nevele/rbu64186,rbu64186,Apartment,Nevele,9850,2025,New,83,0,3,1,1,2,1,None,0,439 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/vbd49509,vbd49509,Penthouse,Brussels,1000,1939,Excellent,220,0,2,1,1,3,0,None,0,1 225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9850/nevele/rbu64187,rbu64187,Apartment,Nevele,9850,2025,New,100,0,3,1,1,2,1,50,0,389 400 €
+https://immovlan.be/en/detail/ground-floor/for-sale/1180/ukkel/vwd14130,vwd14130,Ground,Ukkel,1180,1967,Normal,91,None,3,1,1,3,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9850/nevele/rbu64188,rbu64188,Apartment,Nevele,9850,2025,New,81,0,2,1,1,2,1,None,0,401 500 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/vbd49580,vbd49580,Penthouse,Brussels,1000,2010,Excellent,140,1,2,1,1,2,0,None,0,599 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2018/antwerp/rbu66938,rbu66938,Ground,Antwerp,2018,1955,Normal,139,0,3,None,1,2,1,57,0,650 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9850/nevele/rbu64189,rbu64189,Apartment,Nevele,9850,2025,New,103,0,3,1,1,2,1,None,0,424 600 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2020/antwerp/rbu59036,rbu59036,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/vbd49956,vbd49956,Penthouse,Brussels,1000,1961,Normal,330,0,4,None,1,2,0,None,0,1 399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9880/aalter/rbk23492,rbk23492,Apartment,Aalter,9880,1996,None,None,None,2,1,1,None,1,None,0,398 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2070/zwijndrecht/rbu65227,rbu65227,Ground,Zwijndrecht,2070,2010,None,112,None,3,None,0,None,1,None,0,365 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1000/brussels/vwd12797,vwd12797,Penthouse,Brussels,1000,2010,Excellent,160,None,3,1,1,None,0,None,0,1 150 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9880/aalter/rbs18544,rbs18544,Apartment,Aalter,9880,2025,New,None,None,2,None,1,3,1,None,0,Make offer from 325 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2100/deurne/rbu59681,rbu59681,Ground,Deurne,2100,1963,Normal,83,0,2,None,0,2,1,37,0,264 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1030/schaarbeek/rwc41118,rwc41118,Penthouse,Schaarbeek,1030,1936,Excellent,120,None,3,1,1,3,0,None,0,459 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2221/booischot/rbu66590,rbu66590,Ground,Booischot,2221,2022,New,98,0,2,None,1,None,1,23,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9880/aalter/rbs18545,rbs18545,Apartment,Aalter,9880,2025,New,None,None,1,None,1,3,1,None,0,Make offer from 285 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1040/etterbeek/vbd48788,vbd48788,Penthouse,Etterbeek,1040,1939,Excellent,220,0,2,1,1,3,0,None,0,1 225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9880/aalter/rbu43176,rbu43176,Apartment,Aalter,9880,2009,None,110,None,2,None,0,None,0,None,0,305 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2300/turnhout/rbu60987,rbu60987,Ground,Turnhout,2300,1975,Normal,104,0,2,None,1,2,0,None,0,239 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1050/elsene/vbd45292,vbd45292,Penthouse,Elsene,1050,2025,New,107,0,2,1,1,2,0,None,0,595 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9880/aalter/rbu51126,rbu51126,Apartment,Aalter,9880,2025,New,None,None,3,None,1,3,0,None,0,Make offer from 459 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2300/turnhout/rwc41146,rwc41146,Ground,Turnhout,2300,2006,Excellent,114,None,2,1,1,2,0,None,0,345 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1050/elsene/vbd45666,vbd45666,Penthouse,Elsene,1050,2025,New,107,0,2,1,1,2,0,None,0,595 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9890/gavere/rbu58971,rbu58971,Apartment,Gavere,9890,2024,None,126,None,3,None,1,None,0,None,0,381 650 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2328/meerle/rbu55664,rbu55664,Ground,Meerle,2328,1998,Normal,116,0,2,None,0,None,0,None,0,295 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1050/elsene/vbd47376,vbd47376,Penthouse,Elsene,1050,2018,New,167,0,3,1,1,4,0,None,0,1 595 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9900/eeklo/rbu32446,rbu32446,Apartment,Eeklo,9900,2001,None,121,None,None,None,1,3,1,None,0,149 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2350/vosselaar/rbr90699,rbr90699,Ground,Vosselaar,2350,2024,New,106,0,2,1,1,3,0,None,0,381 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1050/elsene/vbd49606,vbd49606,Penthouse,Elsene,1050,2023,New,164,0,3,1,1,None,0,None,0,675 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2350/vosselaar/rbr90700,rbr90700,Ground,Vosselaar,2350,2024,New,73,0,1,1,1,3,0,None,0,292 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1070/anderlecht/vbd39008,vbd39008,Penthouse,Anderlecht,1070,1966,Excellent,69,0,2,1,1,None,0,None,0,Make offer from 179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9920/lievegem/rbu62631,rbu62631,Apartment,Lievegem,9920,1997,Normal,106,None,2,1,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2400/mol/rbu58975,rbu58975,Ground,Mol,2400,None,None,90,None,1,None,1,None,1,None,0,289 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1070/anderlecht/vbd48976,vbd48976,Penthouse,Anderlecht,1070,2021,Excellent,113,0,2,1,1,2,0,None,0,495 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9920/lovendegem/rbu57011,rbu57011,Apartment,Lovendegem,9920,1976,Excellent,123,0,3,1,1,3,0,None,0,329 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2400/mol/rbu58976,rbu58976,Ground,Mol,2400,None,None,89,None,1,None,1,None,1,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu58924,rbu58924,Apartment,Evergem,9940,None,Normal,90,None,2,None,None,2,0,None,0,289 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1080/sint-jans-molenbeek/vbd49034,vbd49034,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/2400/mol/rbu58977,rbu58977,Ground,Mol,2400,None,None,88,None,1,None,1,None,1,None,0,299 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1081/koekelberg/vbd50088,vbd50088,Penthouse,Koekelberg,1081,None,None,72,None,1,None,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu62227,rbu62227,Apartment,Evergem,9940,2010,Excellent,96,0,2,None,1,3,0,None,0,399 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2440/geel/rbu58974,rbu58974,Ground,Geel,2440,2020,None,None,None,2,None,1,None,1,None,0,279 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1082/berchem-sainte-agathe/vbd47584,vbd47584,Penthouse,Berchem-Sainte-Agathe,1082,2025,New,121,0,3,1,1,3,1,None,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu62527,rbu62527,Apartment,Evergem,9940,1993,Normal,76,0,2,1,0,3,0,None,0,269 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2440/geel/rwc41149,rwc41149,Ground,Geel,2440,None,None,70,None,1,None,1,None,0,None,0,239 500 €
+https://immovlan.be/en/detail/penthouse/for-sale/1090/jette/vbd48358,vbd48358,Penthouse,Jette,1090,2008,Excellent,141,None,2,1,1,4,0,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu64905,rbu64905,Apartment,Evergem,9940,2025,New,113,0,2,1,1,2,0,None,0,395 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1090/jette/vbd48664,vbd48664,Penthouse,Jette,1090,None,Excellent,106,0,2,None,1,2,0,None,0,340 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2500/koningshooikt/rbu62274,rbu62274,Ground,Koningshooikt,2500,2026,New,110,0,2,1,1,3,1,97,0,380 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu64908,rbu64908,Apartment,Evergem,9940,2025,New,75,0,2,1,1,2,0,None,0,315 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1120/neder-over-heembeek/vbd46221,vbd46221,Penthouse,Neder-Over-Heembeek,1120,None,To renovate,80,0,2,None,1,2,0,None,0,230 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2500/koningshooikt/rbu62275,rbu62275,Ground,Koningshooikt,2500,2026,New,86,0,1,1,1,2,1,42,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu64912,rbu64912,Apartment,Evergem,9940,2025,New,75,0,1,1,1,2,0,None,0,310 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1140/evere/vbd47713,vbd47713,Penthouse,Evere,1140,2025,New,125,0,3,None,1,2,0,None,0,545 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2500/koningshooikt/rbu62276,rbu62276,Ground,Koningshooikt,2500,2026,New,105,0,2,1,1,3,1,55,0,360 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu66312,rbu66312,Apartment,Evergem,9940,None,New,101,None,2,None,1,2,1,None,0,360 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2610/wilrijk/rbu58536,rbu58536,Ground,Wilrijk,2610,1974,Normal,61,None,1,None,1,None,1,40,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu66313,rbu66313,Apartment,Evergem,9940,None,New,113,None,2,None,1,2,0,None,0,375 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1140/evere/vbd48919,vbd48919,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu66314,rbu66314,Apartment,Evergem,9940,None,New,110,None,2,None,1,2,0,None,0,380 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2610/wilrijk/rbu66613,rbu66613,Ground,Wilrijk,2610,1963,Normal,78,0,2,None,1,None,0,None,0,239 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1150/sint-pieters-woluwe/vbd46736,vbd46736,Penthouse,Sint-Pieters-Woluwe,1150,1973,None,160,0,4,None,1,None,1,None,0,495 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu66315,rbu66315,Apartment,Evergem,9940,None,New,98,None,2,None,1,2,0,None,0,360 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2650/edegem/rbt88116,rbt88116,Ground,Edegem,2650,1954,None,71,0,2,None,0,None,0,None,0,275 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1150/sint-pieters-woluwe/vbd48318,vbd48318,Penthouse,Sint-Pieters-Woluwe,1150,1970,Excellent,165,0,3,1,1,3,0,None,0,540 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu66316,rbu66316,Apartment,Evergem,9940,None,New,90,None,1,None,1,2,0,None,0,310 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2830/willebroek/rbu38707,rbu38707,Ground,Willebroek,2830,2010,Normal,83,0,2,None,0,2,1,None,0,219 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1160/oudergem/vbd45807,vbd45807,Penthouse,Oudergem,1160,2024,Normal,91,0,2,1,1,2,0,None,0,475 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu66317,rbu66317,Apartment,Evergem,9940,None,New,113,None,2,None,1,2,0,None,0,355 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/2930/brasschaat/rbu55905,rbu55905,Ground,Brasschaat,2930,1974,Normal,107,0,3,None,0,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1160/oudergem/vbd47357,vbd47357,Penthouse,Oudergem,1160,2024,New,131,0,3,1,1,None,0,None,0,1 250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu66318,rbu66318,Apartment,Evergem,9940,None,New,113,None,2,None,1,2,0,None,0,365 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/3600/genk/rbu51027,rbu51027,Ground,Genk,3600,2006,Normal,123,0,2,None,0,3,1,None,0,375 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/rbu61313,rbu61313,Penthouse,Ukkel,1180,None,New,None,None,None,None,1,2,0,None,0,405 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/evergem/rbu66319,rbu66319,Apartment,Evergem,9940,None,New,101,None,2,None,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/3640/kinrooi/rbu35265,rbu35265,Ground,Kinrooi,3640,2023,New,124,0,2,None,1,2,1,16,0,341 726 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd10903,vbd10903,Penthouse,Ukkel,1180,2024,New,140,None,2,1,1,3,1,None,0,980 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/3740/beverst/rbu60585,rbu60585,Ground,Beverst,3740,2001,None,244,None,2,None,1,None,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/sleidinge/rbu64989,rbu64989,Apartment,Sleidinge,9940,2025,New,113,0,2,1,1,2,0,None,0,395 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd34420,vbd34420,Penthouse,Ukkel,1180,None,Normal,115,0,3,1,1,2,0,None,0,525 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/3920/lommel/rbu37758,rbu37758,Ground,Lommel,3920,None,Normal,143,0,2,None,1,3,1,266,0,335 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/sleidinge/rbu64992,rbu64992,Apartment,Sleidinge,9940,2025,New,75,0,2,1,1,2,0,None,0,315 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd42967,vbd42967,Penthouse,Ukkel,1180,None,None,173,None,3,None,1,2,0,None,0,775 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/3920/lommel/rbu65844,rbu65844,Ground,Lommel,3920,2003,Normal,89,0,2,1,1,3,1,65,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9940/sleidinge/rbu64997,rbu64997,Apartment,Sleidinge,9940,2025,New,75,0,1,1,1,2,0,None,0,310 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd45260,vbd45260,Penthouse,Ukkel,1180,2011,Normal,146,0,3,1,1,3,0,None,0,615 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/3945/oostham/rbu60851,rbu60851,Ground,Oostham,3945,2022,Excellent,98,0,2,None,1,3,0,None,0,283 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd45406,vbd45406,Penthouse,Ukkel,1180,1979,Normal,165,0,3,1,1,3,0,None,1,820 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9950/waarschoot/rbu57795,rbu57795,Apartment,Waarschoot,9950,1996,Normal,85,None,2,1,None,3,0,None,0,229 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/3960/bree/rbu51422,rbu51422,Ground,Bree,3960,2008,None,122,None,2,None,1,None,1,None,0,359 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd45732,vbd45732,Penthouse,Ukkel,1180,1979,Normal,85,0,2,1,1,None,0,None,1,420 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9950/waarschoot/rbu65536,rbu65536,Apartment,Waarschoot,9950,1969,Excellent,103,None,2,None,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4000/liege/vbd44295,vbd44295,Ground,Liege,4000,1960,Normal,53,None,1,1,0,None,1,35,0,119 000 €
+https://immovlan.be/en/detail/apartment/for-sale/9990/maldegem/rbu65280,rbu65280,Apartment,Maldegem,9990,1995,None,126,None,3,None,1,None,1,None,0,229 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd45792,vbd45792,Penthouse,Ukkel,1180,1975,Normal,141,0,2,1,1,4,0,None,0,520 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4020/bressoux/vbd49759,vbd49759,Ground,Bressoux,4020,None,Normal,56,0,1,None,1,4,0,None,0,180 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/2230/ramsel/rbu65795,rbu65795,Bungalow,Ramsel,2230,None,Normal,77,0,3,None,1,4,1,None,0,165 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd45924,vbd45924,Penthouse,Ukkel,1180,2024,New,140,0,2,1,1,3,0,None,0,899 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4030/grivegnee/vbc68090,vbc68090,Ground,Grivegnée,4030,None,Normal,68,None,1,1,0,2,0,None,0,115 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/2570/duffel/rbu66744,rbu66744,Bungalow,Duffel,2570,1974,None,162,None,2,None,0,4,1,None,0,555 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd45935,vbd45935,Penthouse,Ukkel,1180,2026,New,297,0,5,1,1,3,0,None,0,1 275 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/2630/aartselaar/rbu55984,rbu55984,Bungalow,Aartselaar,2630,1990,Normal,240,None,2,1,1,4,1,434,0,495 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4031/angleur/vbd48820,vbd48820,Ground,Angleur,4031,2024,New,52,None,1,None,0,None,0,None,0,205 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd47070,vbd47070,Penthouse,Ukkel,1180,None,To be renovated,318,None,5,None,1,3,0,None,0,1 180 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/3550/heusden-zolder/rbu58963,rbu58963,Bungalow,Heusden-Zolder,3550,1960,None,79,None,2,None,0,4,1,None,1,180 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd47373,vbd47373,Penthouse,Ukkel,1180,2017,New,230,0,2,1,1,3,0,None,0,1 450 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4100/boncelles/vbd48418,vbd48418,Ground,Boncelles,4100,2000,Normal,86,0,2,1,1,3,0,None,0,219 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd47374,vbd47374,Penthouse,Ukkel,1180,1977,Excellent,157,0,3,1,1,2,0,None,0,835 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/3798/s-gravenvoeren/vbd29908,vbd29908,Bungalow,s-Gravenvoeren,3798,1963,None,98,None,3,None,1,4,1,None,0,295 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4100/seraing/vbd48398,vbd48398,Ground,Seraing,4100,None,New,76,0,1,1,1,2,1,130,0,189 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/3900/pelt/rbu52344,rbu52344,Bungalow,Pelt,3900,1968,To be renovated,161,None,4,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/ground-floor/for-sale/4122/plainevaux/vbc39009,vbc39009,Ground,Plainevaux,4122,2024,New,123,None,2,1,1,2,1,163,0,455 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd49332,vbd49332,Penthouse,Ukkel,1180,2023,New,140,0,2,1,1,3,1,None,0,899 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/3920/lommel/rbu37754,rbu37754,Bungalow,Lommel,3920,1971,To be renovated,150,0,2,None,0,3,1,None,0,269 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4577/modave/vbd12937,vbd12937,Ground,Modave,4577,None,To renovate,74,0,2,None,None,2,0,None,0,75 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd49380,vbd49380,Penthouse,Ukkel,1180,2023,New,140,0,2,1,1,None,0,None,0,899 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/3920/lommel/rbu50790,rbu50790,Bungalow,Lommel,3920,1978,To be renovated,140,0,3,None,0,None,1,None,0,315 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4577/modave/vbd12962,vbd12962,Ground,Modave,4577,None,Normal,71,0,1,None,None,2,0,None,0,85 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1180/ukkel/vbd49705,vbd49705,Penthouse,Ukkel,1180,2024,New,140,0,2,1,1,3,0,None,0,899 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/3940/hechtel/rbu60844,rbu60844,Bungalow,Hechtel,3940,1967,Normal,159,0,3,None,1,4,1,None,0,349 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/4577/modave/vbd12963,vbd12963,Ground,Modave,4577,None,To be renovated,110,0,2,None,1,2,1,None,1,60 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1190/vorst/vbd49761,vbd49761,Penthouse,Vorst,1190,None,None,None,None,None,None,0,None,0,None,0,775 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/3941/eksel/rbu65076,rbu65076,Bungalow,Eksel,3941,1974,Normal,142,None,4,None,0,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/5000/namur/vbd31521,vbd31521,Ground,Namur,5000,2025,New,47,None,1,1,1,2,0,None,0,200 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1200/sint-lambrechts-woluwe/vbd32950,vbd32950,Penthouse,Sint-Lambrechts-Woluwe,1200,2006,Normal,None,0,3,1,1,4,0,None,0,639 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/5000/namur/vbd31522,vbd31522,Ground,Namur,5000,2025,New,47,None,1,1,1,2,0,None,0,205 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4041/vottem/vbd41385,vbd41385,Bungalow,Vottem,4041,None,To be renovated,143,0,4,None,1,3,1,None,0,180 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1200/sint-lambrechts-woluwe/vbd45677,vbd45677,Penthouse,Sint-Lambrechts-Woluwe,1200,1986,To renovate,200,0,3,1,1,3,0,None,0,725 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/5100/dave/vbd20881,vbd20881,Ground,Dave,5100,2010,Normal,120,0,2,None,1,2,1,30,0,420 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4050/chaudfontaine/vbd44851,vbd44851,Bungalow,Chaudfontaine,4050,None,Excellent,80,1,2,1,1,4,1,None,0,Price on request
+https://immovlan.be/en/detail/penthouse/for-sale/1200/sint-lambrechts-woluwe/vbd45931,vbd45931,Penthouse,Sint-Lambrechts-Woluwe,1200,2023,New,103,0,2,1,1,2,1,None,0,533 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4052/beaufays/vbd46092,vbd46092,Bungalow,Beaufays,4052,1969,None,148,None,2,None,0,None,1,1737,0,900 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/5100/dave/vbd33134,vbd33134,Ground,Dave,5100,1973,Normal,80,0,2,1,1,4,0,None,0,185 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1200/sint-lambrechts-woluwe/vbd47464,vbd47464,Penthouse,Sint-Lambrechts-Woluwe,1200,2005,Normal,115,0,2,1,1,2,0,None,0,430 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4100/seraing/vbd26543,vbd26543,Bungalow,Seraing,4100,None,To renovate,63,None,1,None,0,None,1,None,0,89 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/5100/jambes/vwd15483,vwd15483,Ground,Jambes,5100,None,Excellent,51,None,1,1,None,2,0,None,0,175 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1200/sint-lambrechts-woluwe/vbd47998,vbd47998,Penthouse,Sint-Lambrechts-Woluwe,1200,2026,New,203,0,4,1,1,2,1,None,0,1 695 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4122/plainevaux/vbd42194,vbd42194,Bungalow,Plainevaux,4122,None,Fully renovated,154,None,4,None,0,None,1,None,0,325 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8000/brugge/rbu62997,rbu62997,Ground,Brugge,8000,1953,None,37,None,1,None,1,None,0,None,0,130 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1200/sint-lambrechts-woluwe/vbd47999,vbd47999,Penthouse,Sint-Lambrechts-Woluwe,1200,2026,New,156,0,2,1,1,3,1,None,0,1 440 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4122/plainevaux/vbd42195,vbd42195,Bungalow,Plainevaux,4122,None,Fully renovated,154,None,4,None,0,None,1,None,0,325 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8310/assebroek/rbu65841,rbu65841,Ground,Assebroek,8310,1977,None,93,None,3,None,0,None,0,None,0,279 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1200/sint-lambrechts-woluwe/vbd48173,vbd48173,Penthouse,Sint-Lambrechts-Woluwe,1200,2027,New,207,0,4,1,1,4,0,None,0,Price on request
+https://immovlan.be/en/detail/bungalow/for-sale/4180/hamoir/vbd46319,vbd46319,Bungalow,Hamoir,4180,None,To renovate,91,0,2,1,0,4,1,None,0,169 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8370/blankenberge/rbu57595,rbu57595,Ground,Blankenberge,8370,None,To renovate,80,None,1,None,None,None,0,None,0,149 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/1200/sint-lambrechts-woluwe/vbd48348,vbd48348,Penthouse,Sint-Lambrechts-Woluwe,1200,2016,Excellent,215,0,4,1,1,4,0,None,0,990 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4300/bettincourt/vbc80275,vbc80275,Bungalow,Bettincourt,4300,None,Normal,290,None,4,None,1,3,1,740,0,Make offer from 399 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8370/blankenberge/rbu57605,rbu57605,Ground,Blankenberge,8370,2025,New,116,0,2,None,1,None,1,10,0,397 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2000/antwerp/rwc41084,rwc41084,Penthouse,Antwerp,2000,None,Excellent,185,None,3,None,1,None,0,None,0,1 950 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8370/blankenberge/rbu57606,rbu57606,Ground,Blankenberge,8370,2025,New,120,0,3,None,1,None,1,22,0,419 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4460/grace-hollogne/vbd48659,vbd48659,Bungalow,Grâce-Hollogne,4460,1971,Normal,98,0,2,None,1,3,1,194,0,219 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2000/antwerp/rwc41122,rwc41122,Penthouse,Antwerp,2000,None,Excellent,160,None,3,None,1,None,0,None,0,1 145 500 €
+https://immovlan.be/en/detail/bungalow/for-sale/4550/nandrin/vbd21790,vbd21790,Bungalow,Nandrin,4550,1970,Normal,105,0,2,1,1,4,1,None,0,289 500 €
+https://immovlan.be/en/detail/penthouse/for-sale/2018/antwerp/rbu66949,rbu66949,Penthouse,Antwerp,2018,2025,New,116,0,2,None,1,2,0,None,0,465 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8370/blankenberge/rbu58936,rbu58936,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/penthouse/for-sale/2100/deurne/rbu63299,rbu63299,Penthouse,Deurne,2100,1976,Normal,51,0,1,None,1,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4560/clavier/vbd44564,vbd44564,Bungalow,Clavier,4560,None,Normal,76,None,2,1,1,4,1,1240,0,340 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8480/ichtegem/rbt91540,rbt91540,Ground,Ichtegem,8480,2025,None,86,None,2,None,1,None,1,None,0,299 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8530/harelbeke/rbu60690,rbu60690,Ground,Harelbeke,8530,2020,Normal,83,0,2,None,1,2,1,None,0,299 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4607/mortroux/vbd46583,vbd46583,Bungalow,Mortroux,4607,1960,Normal,122,None,4,None,1,4,1,None,0,395 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2150/borsbeek/rbu60243,rbu60243,Penthouse,Borsbeek,2150,1979,Normal,72,0,2,None,1,2,0,None,0,193 500 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8530/harelbeke/rbu65070,rbu65070,Ground,Harelbeke,8530,2018,None,81,None,1,None,1,None,1,None,0,225 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4610/beyne-heusay/vbd49869,vbd49869,Bungalow,Beyne-Heusay,4610,1995,Normal,160,None,3,1,1,4,1,None,1,435 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2170/merksem/rbu55928,rbu55928,Penthouse,Merksem,2170,None,Normal,99,0,3,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4900/spa/vbd42997,vbd42997,Bungalow,Spa,4900,1969,To be renovated,109,0,2,1,1,4,1,929,0,315 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8530/harelbeke/vbd49669,vbd49669,Ground,Harelbeke,8530,2022,New,49,None,1,1,1,None,1,25,0,230 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2220/heist-op-den-berg/rbu62990,rbu62990,Penthouse,Heist-op-den-Berg,2220,2025,None,93,None,2,None,1,None,1,None,0,314 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4920/aywaille/vbd34973,vbd34973,Bungalow,Aywaille,4920,None,Normal,120,0,2,1,1,4,1,879,0,339 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8700/tielt/rbu39160,rbu39160,Ground,Tielt,8700,2014,None,130,None,2,None,1,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2223/schriek/rbu62991,rbu62991,Penthouse,Schriek,2223,2025,None,93,None,2,None,1,None,1,None,0,314 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/4960/bellevaux-ligneuville/vbd33145,vbd33145,Bungalow,Bellevaux-Ligneuville,4960,1966,To renovate,164,0,3,None,1,4,1,1655,0,305 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8792/desselgem/rbu58931,rbu58931,Ground,Desselgem,8792,2023,New,98,0,2,1,1,None,1,80,0,264 600 €
+https://immovlan.be/en/detail/penthouse/for-sale/2240/zandhoven/rbu66674,rbu66674,Penthouse,Zandhoven,2240,2023,New,96,0,2,None,1,2,0,None,0,362 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5080/rhisnes/vbd24418,vbd24418,Bungalow,Rhisnes,5080,1970,To renovate,143,0,4,1,1,4,1,1159,0,289 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8800/roeselare/rbs47918,rbs47918,Ground,Roeselare,8800,2012,Normal,98,0,2,1,1,None,1,None,0,248 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2440/geel/rbu65308,rbu65308,Penthouse,Geel,2440,2012,Excellent,227,0,3,None,1,None,0,None,0,615 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8800/roeselare/rbt86761,rbt86761,Ground,Roeselare,8800,1970,To be renovated,None,0,2,None,0,2,0,None,0,119 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5352/perwez/vbd26129,vbd26129,Bungalow,Perwez,5352,1974,To be renovated,200,0,3,None,0,4,1,1200,0,399 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2440/geel/rwc41151,rwc41151,Penthouse,Geel,2440,None,None,115,None,3,None,1,None,0,None,0,319 500 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8800/roeselare/rbu56950,rbu56950,Ground,Roeselare,8800,1994,None,93,None,2,None,1,None,0,None,0,165 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5377/noiseux/rbt47502,rbt47502,Bungalow,Noiseux,5377,1991,Normal,44,0,1,None,1,4,1,388,0,99 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2450/meerhout/rbu62566,rbu62566,Penthouse,Meerhout,2450,2004,Normal,178,0,4,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5540/hastiere-lavaux/vbd46804,vbd46804,Bungalow,Hastière-Lavaux,5540,None,None,50,None,2,None,0,None,1,220,0,39 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/8920/langemark/rbu60215,rbu60215,Ground,Langemark,8920,2002,Normal,103,0,2,None,1,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2500/koningshooikt/rbu57006,rbu57006,Penthouse,Koningshooikt,2500,2024,New,159,0,2,None,1,4,0,None,0,549 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2500/lier/rbu66664,rbu66664,Penthouse,Lier,2500,2023,Excellent,85,0,1,None,1,2,0,None,0,279 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5540/hastiere/vbd20674,vbd20674,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/9000/gent/rbu57113,rbu57113,Ground,Gent,9000,2026,New,59,0,1,1,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5540/hastiere/vwd14188,vwd14188,Bungalow,Hastière,5540,None,Normal,50,None,1,1,1,None,1,None,0,45 200 €
+https://immovlan.be/en/detail/penthouse/for-sale/2520/ranst/rbu66578,rbu66578,Penthouse,Ranst,2520,2024,Normal,176,0,3,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/ground-floor/for-sale/9000/gent/rbu57114,rbu57114,Ground,Gent,9000,2026,New,89,0,2,1,1,2,0,None,0,327 500 €
+https://immovlan.be/en/detail/bungalow/for-sale/5541/hastiere-par-dela/vwd14653,vwd14653,Bungalow,Hastière-par-delà,5541,None,None,60,None,1,1,1,None,1,None,0,Make offer from 130 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2800/mechelen/rbu62458,rbu62458,Penthouse,Mechelen,2800,2025,New,130,None,3,None,1,None,1,None,0,595 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9000/gent/rbu57125,rbu57125,Ground,Gent,9000,2026,New,59,0,1,1,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/2940/hoevenen/rbu62325,rbu62325,Penthouse,Hoevenen,2940,2018,Excellent,152,None,3,None,1,None,1,None,0,439 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5542/blaimont/vbd00449,vbd00449,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/ground-floor/for-sale/9000/gent/rbu57127,rbu57127,Ground,Gent,9000,2026,New,89,0,2,1,1,2,0,None,0,327 500 €
+https://immovlan.be/en/detail/penthouse/for-sale/3500/hasselt/rbu61408,rbu61408,Penthouse,Hasselt,3500,1975,None,240,0,3,None,1,None,0,None,0,695 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9090/melle/rbu66901,rbu66901,Ground,Melle,9090,None,Excellent,149,0,3,1,1,3,1,140,0,585 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5542/blaimont/vbd24088,vbd24088,Bungalow,Blaimont,5542,None,Normal,None,None,1,None,0,4,0,None,0,Make offer from 59 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9111/belsele/rbu60100,rbu60100,Ground,Belsele,9111,2009,None,104,0,1,None,1,2,1,None,0,279 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/3550/heusden/rbu38980,rbu38980,Penthouse,Heusden,3550,2025,Excellent,165,1,3,None,1,4,1,None,0,725 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5561/celles/vbc95078,vbc95078,Bungalow,Celles,5561,1976,None,64,0,2,1,1,4,1,None,0,Make offer from 148 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/5660/aublain/vbd45572,vbd45572,Bungalow,Aublain,5660,None,None,85,0,2,None,0,None,1,None,0,99 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/3580/beringen/rbu45298,rbu45298,Penthouse,Beringen,3580,2022,New,221,1,2,1,1,4,0,None,0,1 195 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9190/stekene/rbu66605,rbu66605,Ground,Stekene,9190,2020,Normal,67,0,1,None,1,None,0,None,0,265 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/7190/ecaussinnes/vbd49360,vbd49360,Bungalow,Ecaussinnes,7190,None,Normal,130,None,2,1,1,4,1,977,0,Bunch price 40 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/3621/rekem/rbu14806,rbu14806,Penthouse,Rekem,3621,1976,None,100,None,3,None,1,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9230/wetteren/rbu64857,rbu64857,Ground,Wetteren,9230,None,Fully renovated,152,0,3,1,0,2,1,60,0,299 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/3630/maasmechelen/rbu51087,rbu51087,Penthouse,Maasmechelen,3630,2018,None,145,None,3,None,1,None,0,None,0,439 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9320/erembodegem/rbu61603,rbu61603,Ground,Erembodegem,9320,2026,New,105,0,2,1,None,2,1,97,0,362 500 €
+https://immovlan.be/en/detail/bungalow/for-sale/8400/oostende/rbu64777,rbu64777,Bungalow,Oostende,8400,1975,To be renovated,145,0,3,1,1,4,1,694,0,348 800 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9400/denderwindeke/rbu65233,rbu65233,Ground,Denderwindeke,9400,1981,Normal,96,0,2,None,1,3,0,None,0,169 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/3670/oudsbergen/rbu46505,rbu46505,Penthouse,Oudsbergen,3670,1999,Normal,100,None,2,None,1,2,0,None,0,240 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/8480/eernegem/rbu59666,rbu59666,Bungalow,Eernegem,8480,1974,None,170,1,4,None,1,4,1,None,0,395 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9820/merelbeke/rbu66904,rbu66904,Ground,Merelbeke,9820,None,Excellent,149,0,3,1,1,3,1,140,0,585 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/8600/diksmuide/rbu65542,rbu65542,Bungalow,Diksmuide,8600,1970,To be renovated,246,None,3,None,1,3,1,None,0,219 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/3970/leopoldsburg/rbu42956,rbu42956,Penthouse,Leopoldsburg,3970,2024,New,94,0,2,None,1,2,0,None,0,320 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/8920/langemark/rbu66618,rbu66618,Bungalow,Langemark,8920,1983,To be renovated,267,0,3,None,1,4,1,None,0,395 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9940/evergem/rbu64906,rbu64906,Ground,Evergem,9940,2025,New,146,0,3,1,1,2,0,None,0,435 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/3970/leopoldsburg/rbu42957,rbu42957,Penthouse,Leopoldsburg,3970,2024,New,86,0,2,None,1,2,0,None,0,300 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4000/liege/vbd44590,vbd44590,Penthouse,Liege,4000,2017,Excellent,145,0,3,None,1,3,0,None,0,Make offer from 599 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/8930/menen/rwc41129,rwc41129,Bungalow,Menen,8930,1978,Normal,173,None,3,1,1,2,1,None,0,250 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/8930/rekkem/vbd19861,vbd19861,Bungalow,Rekkem,8930,None,None,158,None,3,None,1,4,1,None,0,395 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9940/evergem/rbu64910,rbu64910,Ground,Evergem,9940,2025,New,103,0,2,1,1,2,0,None,0,385 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4020/liege/vbd44589,vbd44589,Penthouse,Liege,4020,2017,Excellent,145,0,3,None,1,3,0,None,0,Make offer from 599 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/9190/stekene/rbu64381,rbu64381,Bungalow,Stekene,9190,None,Normal,None,0,3,None,1,4,1,None,0,355 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9940/evergem/rbu64911,rbu64911,Ground,Evergem,9940,2025,New,80,0,1,1,1,2,0,None,0,300 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4500/huy/vbd47438,vbd47438,Penthouse,Huy,4500,2003,Excellent,125,None,2,1,1,2,0,None,0,Bunch price 50 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/9600/ronse/rbu66018,rbu66018,Bungalow,Ronse,9600,1960,To be renovated,215,0,3,1,1,4,1,750,0,260 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9940/sleidinge/rbu64990,rbu64990,Ground,Sleidinge,9940,2025,New,146,0,3,1,1,2,0,None,0,435 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4520/wanze/vbd43007,vbd43007,Penthouse,Wanze,4520,2011,Excellent,135,0,2,1,1,3,0,None,0,260 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/9940/evergem/rbu59431,rbu59431,Bungalow,Evergem,9940,1986,None,127,None,3,None,0,2,1,None,0,318 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9940/sleidinge/rbu64993,rbu64993,Ground,Sleidinge,9940,2025,New,103,0,2,1,1,2,0,None,0,385 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4630/soumagne/vbd42580,vbd42580,Penthouse,Soumagne,4630,2025,New,133,None,2,None,1,4,0,None,0,320 000 €
+https://immovlan.be/en/detail/chalet/for-sale/2230/herselt/rbu66309,rbu66309,Chalet,Herselt,2230,2022,Excellent,72,1,1,1,1,4,1,None,0,249 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9940/sleidinge/rbu64995,rbu64995,Ground,Sleidinge,9940,2025,New,80,0,1,1,1,2,0,None,0,300 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4670/blegny/vbd47311,vbd47311,Penthouse,Blégny,4670,2020,Normal,134,0,3,None,1,4,0,None,0,499 000 €
+https://immovlan.be/en/detail/chalet/for-sale/2230/ramsel/rbu65792,rbu65792,Chalet,Ramsel,2230,None,Normal,77,0,3,None,1,4,1,None,0,165 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/9940/sleidinge/rbu64996,rbu64996,Ground,Sleidinge,9940,2025,New,103,0,2,1,1,2,0,None,0,385 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4870/trooz/vbd42256,vbd42256,Penthouse,Trooz,4870,None,None,80,None,2,None,0,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/chalet/for-sale/2275/gierle/rbu60912,rbu60912,Chalet,Gierle,2275,1986,None,None,0,1,None,1,4,1,None,0,45 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4870/trooz/vbd42257,vbd42257,Penthouse,Trooz,4870,None,None,77,None,2,None,1,2,0,None,0,230 000 €
+https://immovlan.be/en/detail/loft/for-sale/1000/brussels/vbd48434,vbd48434,Loft,Brussels,1000,None,Excellent,202,0,2,1,1,4,0,None,1,555 000 €
+https://immovlan.be/en/detail/chalet/for-sale/2440/geel/rbu61402,rbu61402,Chalet,Geel,2440,None,Normal,66,0,2,None,1,4,0,None,0,90 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/4870/trooz/vbd42262,vbd42262,Penthouse,Trooz,4870,None,None,80,None,2,None,0,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/loft/for-sale/1030/schaarbeek/vbd48733,vbd48733,Loft,Schaarbeek,1030,1965,To renovate,440,0,1,1,1,4,1,None,1,595 000 €
+https://immovlan.be/en/detail/chalet/for-sale/3920/lommel/rwc41071,rwc41071,Chalet,Lommel,3920,None,None,80,None,2,None,1,None,1,None,0,39 500 €
+https://immovlan.be/en/detail/penthouse/for-sale/4870/trooz/vbd42264,vbd42264,Penthouse,Trooz,4870,None,None,77,None,2,None,1,2,0,None,0,230 000 €
+https://immovlan.be/en/detail/loft/for-sale/1150/sint-pieters-woluwe/vbd44629,vbd44629,Loft,Sint-Pieters-Woluwe,1150,2025,New,185,0,3,1,1,2,1,None,0,995 000 €
+https://immovlan.be/en/detail/chalet/for-sale/4180/comblain-fairon/vbd44690,vbd44690,Chalet,Comblain-Fairon,4180,None,None,103,0,2,None,1,4,1,None,0,210 000 €
+https://immovlan.be/en/detail/loft/for-sale/1180/ukkel/vbd47181,vbd47181,Loft,Ukkel,1180,1935,Normal,220,0,3,1,1,3,0,None,0,698 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/5000/namur/vbd26463,vbd26463,Penthouse,Namur,5000,2025,New,99,0,3,None,1,2,0,None,0,Price on request
+https://immovlan.be/en/detail/chalet/for-sale/4460/grace-hollogne/vbd25047,vbd25047,Chalet,Grâce-Hollogne,4460,None,To be renovated,65,None,2,None,1,4,1,None,0,149 000 €
+https://immovlan.be/en/detail/loft/for-sale/1190/vorst/vbd45392,vbd45392,Loft,Vorst,1190,2006,None,180,0,2,None,1,2,1,None,0,598 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/5000/namur/vbd44171,vbd44171,Penthouse,Namur,5000,None,Normal,103,None,2,None,1,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/chalet/for-sale/4550/villers-le-temple/vbd47096,vbd47096,Chalet,Villers-le-Temple,4550,1972,Normal,86,0,2,1,1,4,1,2100,1,Make offer from 349 000 €
+https://immovlan.be/en/detail/loft/for-sale/4000/liege/vbd46390,vbd46390,Loft,Liege,4000,None,New,325,0,3,None,1,2,0,None,0,Make offer from 750 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/5100/jambes/vbc56235,vbc56235,Penthouse,Jambes,5100,2026,New,108,0,3,1,1,None,0,None,1,395 000 €
+https://immovlan.be/en/detail/chalet/for-sale/4920/sougne-remouchamps/vbc76489,vbc76489,Chalet,Sougné-Remouchamps,4920,1982,Normal,38,None,1,1,1,4,1,377,0,175 000 €
+https://immovlan.be/en/detail/loft/for-sale/4000/liege/vbd48887,vbd48887,Loft,Liege,4000,None,Excellent,145,0,2,1,0,3,0,None,0,399 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/5300/andenne/vbd30990,vbd30990,Penthouse,Andenne,5300,2024,New,131,0,3,None,1,4,0,None,0,399 000 €
+https://immovlan.be/en/detail/chalet/for-sale/4960/malmedy/vbd33611,vbd33611,Chalet,Malmedy,4960,None,Normal,63,1,3,1,1,4,1,None,0,149 000 €
+https://immovlan.be/en/detail/loft/for-sale/4020/liege/vbb88199,vbb88199,Loft,Liege,4020,2023,New,99,None,2,None,1,None,0,None,0,289 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/5300/andenne/vbd41617,vbd41617,Penthouse,Andenne,5300,None,Excellent,178,None,3,None,1,3,0,None,0,960 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/5300/sclayn/vbd19780,vbd19780,Penthouse,Sclayn,5300,2018,None,106,0,3,None,1,4,0,None,0,345 000 €
+https://immovlan.be/en/detail/loft/for-sale/4840/welkenraedt/vbd44990,vbd44990,Loft,Welkenraedt,4840,1950,Excellent,178,None,2,1,1,2,0,None,0,295 000 €
+https://immovlan.be/en/detail/chalet/for-sale/4980/trois-ponts/vbd43446,vbd43446,Chalet,Trois-Ponts,4980,1967,Excellent,57,1,2,1,1,4,1,None,0,165 000 €
+https://immovlan.be/en/detail/loft/for-sale/5190/moustier-sur-sambre/vbd40663,vbd40663,Loft,Moustier-Sur-Sambre,5190,1900,Normal,214,0,3,None,1,2,1,290,1,550 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/5300/seilles/vbd39926,vbd39926,Penthouse,Seilles,5300,2025,New,86,0,2,None,1,4,1,None,0,295 000 €
+https://immovlan.be/en/detail/chalet/for-sale/4990/lierneux/vbd23534,vbd23534,Chalet,Lierneux,4990,None,To be renovated,57,0,2,1,1,4,1,611,0,Make offer from 99 000 €
+https://immovlan.be/en/detail/loft/for-sale/8500/kortrijk/rbu66724,rbu66724,Loft,Kortrijk,8500,1908,None,180,0,2,None,0,2,0,None,0,449 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/5300/seilles/vbd39927,vbd39927,Penthouse,Seilles,5300,2025,New,100,0,2,None,1,4,0,None,0,310 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5100/dave/vbd17207,vbd17207,Chalet,Dave,5100,None,Normal,63,0,2,1,1,4,1,None,0,195 000 €
+https://immovlan.be/en/detail/loft/for-sale/8530/harelbeke/rbt74827,rbt74827,Loft,Harelbeke,8530,2005,None,428,None,4,None,1,None,0,None,0,849 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/6032/mont-sur-marchienne/vbd48768,vbd48768,Penthouse,Mont-sur-Marchienne,6032,1959,Normal,100,0,2,1,1,None,0,None,0,Make offer from 189 900 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/heure/rbs75150,rbs75150,Chalet,Heure,5377,1980,Normal,60,1,2,1,1,4,1,66,0,98 000 €
+https://immovlan.be/en/detail/loft/for-sale/9300/aalst/rbu60551,rbu60551,Loft,Aalst,9300,2025,New,129,0,3,1,1,None,0,None,0,398 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8300/knokke-heist/rbt08380,rbt08380,Penthouse,Knokke-Heist,8300,None,None,73,None,2,None,1,None,0,None,0,575 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/heure/vbc76200,vbc76200,Chalet,Heure,5377,None,None,60,1,3,None,1,4,0,None,0,129 500 €
+https://immovlan.be/en/detail/penthouse/for-sale/8370/blankenberge/rbu57609,rbu57609,Penthouse,Blankenberge,8370,2025,New,153,0,4,None,1,None,0,None,0,658 000 €
+https://immovlan.be/en/detail/loft/for-sale/9300/aalst/rbu64916,rbu64916,Loft,Aalst,9300,2025,New,180,0,3,1,1,None,0,None,0,599 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/heure/vbc76569,vbc76569,Chalet,Heure,5377,2022,None,74,0,2,None,1,4,0,None,0,220 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8370/blankenberge/rbu57610,rbu57610,Penthouse,Blankenberge,8370,2025,New,137,0,3,None,1,None,0,None,0,629 000 €
+https://immovlan.be/en/detail/mansion/for-sale/2300/turnhout/rbu60878,rbu60878,Mansion,Turnhout,2300,1900,Normal,495,0,6,None,1,4,1,None,0,1 850 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/heure/vbd17519,vbd17519,Chalet,Heure,5377,None,To be renovated,32,0,1,None,1,4,1,355,0,Price on request
+https://immovlan.be/en/detail/mansion/for-sale/2500/koningshooikt/rbu30258,rbu30258,Mansion,Koningshooikt,2500,1892,To be renovated,390,0,6,None,1,4,1,1900,0,970 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/heure/vbd41497,vbd41497,Chalet,Heure,5377,2022,None,49,1,2,None,1,4,0,None,0,210 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8400/oostende/rbu50076,rbu50076,Penthouse,Oostende,8400,2001,Excellent,219,None,4,None,1,2,0,None,0,599 000 €
+https://immovlan.be/en/detail/mansion/for-sale/2861/onze-lieve-vrouw-waver/rbu04864,rbu04864,Mansion,Onze-Lieve-Vrouw-Waver,2861,1920,None,660,None,8,1,1,4,1,None,0,1 500 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8400/oostende/rwc41116,rwc41116,Penthouse,Oostende,8400,2006,Excellent,54,None,1,1,1,2,0,None,0,237 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/noiseux/vbd20665,vbd20665,Chalet,Noiseux,5377,None,None,83,0,2,None,1,4,1,None,0,169 000 €
+https://immovlan.be/en/detail/mansion/for-sale/3840/borgloon/rbu62802,rbu62802,Mansion,Borgloon,3840,1541,To be renovated,1715,None,50,None,0,None,1,25000,0,1 999 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/somme-leuze/vbd31827,vbd31827,Chalet,Somme-Leuze,5377,None,Normal,57,None,2,None,0,None,1,None,0,145 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8500/kortrijk/rbu66729,rbu66729,Penthouse,Kortrijk,8500,2010,None,181,0,3,None,1,3,1,None,1,795 000 €
+https://immovlan.be/en/detail/mansion/for-sale/9300/aalst/rbu63433,rbu63433,Mansion,Aalst,9300,None,Normal,223,0,4,None,1,None,1,300,0,525 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8500/kortrijk/rwc41100,rwc41100,Penthouse,Kortrijk,8500,None,Excellent,90,None,2,None,1,None,0,None,0,309 500 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/somme-leuze/vbd42709,vbd42709,Chalet,Somme-Leuze,5377,None,None,93,0,3,None,1,4,0,None,0,185 000 €
+https://immovlan.be/en/detail/mansion/for-sale/9961/boekhoute/rbu64791,rbu64791,Mansion,Boekhoute,9961,1500,Excellent,1699,0,9,1,1,4,1,16500,0,2 498 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5377/somme-leuze/vbd46462,vbd46462,Chalet,Somme-Leuze,5377,1972,To renovate,57,0,1,None,1,4,1,753,0,75 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8600/diksmuide/rbu48000,rbu48000,Penthouse,Diksmuide,8600,2025,New,149,None,3,None,1,2,1,None,0,725 000 €
+https://immovlan.be/en/detail/master-house/for-sale/1000/brussels/vbd46672,vbd46672,Master,Brussels,1000,None,Normal,250,0,3,None,1,2,1,8,0,1 187 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8620/nieuwpoort/rbt87068,rbt87068,Penthouse,Nieuwpoort,8620,2019,New,160,1,3,None,1,None,0,None,0,1 350 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5503/sorinnes/vbd20265,vbd20265,Chalet,Sorinnes,5503,None,None,49,0,1,1,1,4,1,None,0,95 000 €
+https://immovlan.be/en/detail/master-house/for-sale/1030/schaarbeek/vbd49079,vbd49079,Master,Schaarbeek,1030,1910,Excellent,730,0,6,1,1,2,1,None,0,1 950 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8620/nieuwpoort/rbu60184,rbu60184,Penthouse,Nieuwpoort,8620,1973,Normal,39,1,1,None,1,None,0,None,0,189 900 €
+https://immovlan.be/en/detail/chalet/for-sale/5540/hastiere-lavaux/rbr71473,rbr71473,Chalet,Hastière-Lavaux,5540,1975,Excellent,42,1,2,None,1,4,1,388,0,72 900 €
+https://immovlan.be/en/detail/master-house/for-sale/1030/schaarbeek/vbd49183,vbd49183,Master,Schaarbeek,1030,1929,Normal,325,0,5,None,1,2,1,285,0,490 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8660/de-panne/rbu64408,rbu64408,Penthouse,De Panne,8660,1976,Excellent,100,None,2,None,1,2,0,None,0,375 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5540/hastiere-lavaux/rbu08251,rbu08251,Chalet,Hastière-Lavaux,5540,1975,Excellent,42,1,2,None,1,4,1,182,0,69 000 €
+https://immovlan.be/en/detail/master-house/for-sale/1070/anderlecht/rbu58987,rbu58987,Master,Anderlecht,1070,1918,Excellent,205,0,4,1,1,2,1,62,0,415 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8792/desselgem/rbu58929,rbu58929,Penthouse,Desselgem,8792,2023,New,103,0,2,1,1,2,0,None,0,278 100 €
+https://immovlan.be/en/detail/chalet/for-sale/5540/hastiere-lavaux/vbd28419,vbd28419,Chalet,Hastière-Lavaux,5540,1980,None,63,0,1,None,1,4,1,None,0,139 000 €
+https://immovlan.be/en/detail/master-house/for-sale/1070/anderlecht/rbu61600,rbu61600,Master,Anderlecht,1070,1930,To be renovated,207,0,5,1,1,2,1,154,0,399 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/8930/lauwe/rbu66740,rbu66740,Penthouse,Lauwe,8930,2018,Normal,83,0,2,None,1,4,0,None,0,319 500 €
+https://immovlan.be/en/detail/chalet/for-sale/5540/hastiere-lavaux/vbd30077,vbd30077,Chalet,Hastière-Lavaux,5540,2007,None,54,0,1,None,1,4,1,None,0,110 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/9032/wondelgem/rbu64898,rbu64898,Penthouse,Wondelgem,9032,2025,New,146,0,3,1,1,3,1,None,0,465 000 €
+https://immovlan.be/en/detail/master-house/for-sale/1200/sint-lambrechts-woluwe/vbd46567,vbd46567,Master,Sint-Lambrechts-Woluwe,1200,1909,Normal,361,0,5,1,1,2,1,42,0,790 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5540/hastiere-lavaux/vwd15256,vwd15256,Chalet,Hastière-Lavaux,5540,None,Normal,108,None,2,1,1,4,1,None,0,145 000 €
+https://immovlan.be/en/detail/master-house/for-sale/1210/sint-joost-ten-node/vbd46725,vbd46725,Master,Sint-Joost-ten-Node,1210,1850,Excellent,404,None,6,1,1,2,1,110,0,895 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5540/hastiere/vbd13033,vbd13033,Chalet,Hastière,5540,None,Normal,59,None,2,1,1,4,1,246,0,119 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/9032/wondelgem/rbu64899,rbu64899,Penthouse,Wondelgem,9032,2025,New,113,0,3,1,1,3,1,None,0,395 000 €
+https://immovlan.be/en/detail/master-house/for-sale/2000/antwerp/rbu59430,rbu59430,Master,Antwerp,2000,1900,Excellent,242,None,4,1,None,2,1,60,0,1 495 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5540/hastiere/vbd41320,vbd41320,Chalet,Hastière,5540,1979,Fully renovated,35,0,1,1,1,4,1,200,0,95 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/9070/destelbergen/rbu59637,rbu59637,Penthouse,Destelbergen,9070,2023,New,159,None,2,None,1,3,1,None,0,585 000 €
+https://immovlan.be/en/detail/master-house/for-sale/2018/antwerp/rbu65779,rbu65779,Master,Antwerp,2018,None,Normal,272,0,4,None,1,2,1,29,0,799 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5542/blaimont/rbp42121,rbp42121,Chalet,Blaimont,5542,1975,Normal,42,1,2,None,1,4,1,350,0,69 500 €
+https://immovlan.be/en/detail/penthouse/for-sale/9100/sint-niklaas/rbu61544,rbu61544,Penthouse,Sint-Niklaas,9100,None,Normal,62,0,2,None,0,None,0,None,0,175 000 €
+https://immovlan.be/en/detail/master-house/for-sale/2020/antwerp/rbu65860,rbu65860,Master,Antwerp,2020,None,Normal,180,None,4,None,0,None,1,None,0,385 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5542/blaimont/rbt31389,rbt31389,Chalet,Blaimont,5542,1977,Excellent,42,1,2,None,1,4,1,280,0,59 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/9230/wetteren/rbu65785,rbu65785,Penthouse,Wetteren,9230,2025,None,126,None,3,1,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/master-house/for-sale/2060/antwerp/rbu60276,rbu60276,Master,Antwerp,2060,None,None,288,None,4,None,1,None,0,None,0,749 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5542/blaimont/rbt31390,rbt31390,Chalet,Blaimont,5542,1978,Excellent,54,1,3,None,1,4,1,285,0,85 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/9810/nazareth/rbu61485,rbu61485,Penthouse,Nazareth,9810,2023,New,146,0,3,1,1,2,1,None,0,547 000 €
+https://immovlan.be/en/detail/master-house/for-sale/2100/deurne/rbu65239,rbu65239,Master,Deurne,2100,None,Normal,207,0,4,None,1,None,1,94,0,385 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5542/blaimont/rbu65660,rbu65660,Chalet,Blaimont,5542,None,None,40,1,2,None,1,None,1,None,1,67 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/9880/aalter/rbu64341,rbu64341,Penthouse,Aalter,9880,1990,None,114,None,2,None,1,None,0,None,0,395 000 €
+https://immovlan.be/en/detail/master-house/for-sale/2610/wilrijk/rbu55737,rbu55737,Master,Wilrijk,2610,1950,Fully renovated,223,None,4,None,1,2,1,80,0,650 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5542/blaimont/vbd07646,vbd07646,Chalet,Blaimont,5542,1989,None,54,1,3,None,1,4,1,None,1,89 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/9900/eeklo/rbu65862,rbu65862,Penthouse,Eeklo,9900,1993,Normal,127,0,3,None,0,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5542/blaimont/vbd23197,vbd23197,Chalet,Blaimont,5542,None,None,50,1,2,None,1,4,0,None,1,70 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/9968/bassevelde/rbu62630,rbu62630,Penthouse,Bassevelde,9968,2024,None,150,None,4,None,1,None,0,None,0,398 000 €
+https://immovlan.be/en/detail/master-house/for-sale/2800/mechelen/rbu62459,rbu62459,Master,Mechelen,2800,1851,None,347,0,5,None,1,3,1,320,0,775 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5542/blaimont/vbd29922,vbd29922,Chalet,Blaimont,5542,1975,None,50,0,2,None,1,4,1,None,0,94 500 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/rbu59335,rbu59335,Residence,Brussels,1000,1900,Normal,321,0,5,None,0,None,1,50,0,1 195 000 €
+https://immovlan.be/en/detail/master-house/for-sale/3800/sint-truiden/rbu37364,rbu37364,Master,Sint-Truiden,3800,1931,None,253,0,6,None,1,4,1,46,0,430 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/rbu60823,rbu60823,Residence,Brussels,1000,None,To be renovated,360,0,6,None,0,None,1,150,0,1 100 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5542/blaimont/vbd33613,vbd33613,Chalet,Blaimont,5542,2006,None,40,1,2,None,1,4,0,None,0,65 000 €
+https://immovlan.be/en/detail/master-house/for-sale/3910/neerpelt/rbu55841,rbu55841,Master,Neerpelt,3910,None,Fully renovated,680,None,7,None,1,None,1,1395,0,1 095 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5550/membre/vbd38839,vbd38839,Chalet,Membre,5550,1974,Excellent,302,1,6,1,1,4,1,800,0,599 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vbd34133,vbd34133,Residence,Brussels,1000,1900,To be renovated,365,None,6,None,1,2,0,None,0,549 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4000/liege/vbc97164,vbc97164,Master,Liege,4000,1900,To renovate,394,0,6,1,1,2,1,None,0,Make offer from 500 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vbd39823,vbd39823,Residence,Brussels,1000,None,To be renovated,185,0,4,None,1,None,1,55,0,620 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5575/gedinne/vwd14910,vwd14910,Chalet,Gedinne,5575,None,Normal,95,None,3,1,1,4,1,None,0,235 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4000/liege/vbd13880,vbd13880,Master,Liege,4000,None,Fully renovated,79,None,1,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vbd41708,vbd41708,Residence,Brussels,1000,None,Excellent,242,0,4,None,1,4,1,45,0,790 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5600/neuville/vbd31223,vbd31223,Chalet,Neuville,5600,None,Normal,60,0,3,None,0,None,1,None,0,150 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4000/liege/vbd46233,vbd46233,Master,Liege,4000,None,Excellent,270,0,6,None,1,2,0,None,0,599 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vbd45433,vbd45433,Residence,Brussels,1000,1900,Normal,169,0,4,1,1,3,1,140,0,765 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5600/roly/vbb99440,vbb99440,Chalet,Roly,5600,None,Normal,70,0,2,1,0,None,0,None,0,Bunch price 35 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4000/liege/vbd47008,vbd47008,Master,Liege,4000,1920,Normal,630,0,8,None,1,2,1,600,0,625 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vbd48120,vbd48120,Residence,Brussels,1000,1930,Excellent,82,1,2,1,1,2,1,35,0,525 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4210/burdinne/vbc83394,vbc83394,Master,Burdinne,4210,1850,Normal,231,0,5,1,1,4,1,1876,0,520 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5600/roly/vbc73016,vbc73016,Chalet,Roly,5600,2009,Normal,102,0,3,None,None,4,1,2478,0,Make offer from 215 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vbd48787,vbd48787,Residence,Brussels,1000,1920,Fully renovated,238,0,6,1,1,2,1,45,0,895 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4400/flemalle/vbd37548,vbd37548,Master,Flémalle,4400,None,Fully renovated,362,None,6,None,1,None,1,400,0,430 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5600/roly/vbd33756,vbd33756,Chalet,Roly,5600,None,To be renovated,None,None,2,None,1,4,1,None,0,Make offer from 120 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vbd49939,vbd49939,Residence,Brussels,1000,None,None,190,0,5,None,0,2,1,20,0,580 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4690/bassenge/vbd47090,vbd47090,Master,Bassenge,4690,1930,To renovate,208,0,4,None,1,4,1,None,0,280 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5600/roly/vbd42244,vbd42244,Chalet,Roly,5600,None,None,76,0,2,None,1,4,0,None,0,129 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vbd50091,vbd50091,Residence,Brussels,1000,None,None,286,None,7,None,1,2,1,175,0,1 080 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4800/lambermont/vbd24232,vbd24232,Master,Lambermont,4800,None,Excellent,180,0,4,1,1,2,1,280,0,317 000 €
+https://immovlan.be/en/detail/chalet/for-sale/5600/villers-en-fagne/vbd37994,vbd37994,Chalet,Villers-en-Fagne,5600,None,To be renovated,60,1,2,None,0,None,0,None,0,105 000 €
+https://immovlan.be/en/detail/residence/for-sale/1000/brussels/vwd15443,vwd15443,Residence,Brussels,1000,1906,Excellent,360,None,5,1,1,3,0,None,0,1 490 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4800/verviers/vbd50035,vbd50035,Master,Verviers,4800,1875,Normal,294,0,6,1,1,2,0,None,0,237 500 €
+https://immovlan.be/en/detail/chalet/for-sale/5650/yves-gomezee/vwd11145,vwd11145,Chalet,Yves-Gomezée,5650,1979,To be renovated,50,None,1,1,None,4,1,1000,0,Make offer from 70 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6560/bersillies-l-abbaye/vbd49672,vbd49672,Chalet,Bersillies-l'Abbaye,6560,None,None,None,0,1,None,1,4,1,None,0,30 000 €
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/rbu31036,rbu31036,Residence,Laken,1020,1915,To be renovated,200,0,4,1,1,2,0,None,0,499 000 €
+https://immovlan.be/en/detail/master-house/for-sale/4877/olne/vbd47089,vbd47089,Master,Olne,4877,1771,To be renovated,300,0,6,None,1,3,1,562,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/vbd46086,vbd46086,Residence,Laken,1020,None,None,140,None,6,None,1,2,1,None,0,449 900 €
+https://immovlan.be/en/detail/chalet/for-sale/8370/blankenberge/rbu59366,rbu59366,Chalet,Blankenberge,8370,None,Excellent,40,1,3,1,1,4,1,None,0,95 000 €
+https://immovlan.be/en/detail/master-house/for-sale/5060/moignelee/vbd39754,vbd39754,Master,Moignelée,5060,1931,To be renovated,192,0,4,1,0,4,1,None,0,Make offer from 149 000 €
+https://immovlan.be/en/detail/cottage/for-sale/2230/ramsel/rbu65796,rbu65796,Cottage,Ramsel,2230,None,Normal,77,0,3,None,1,4,1,None,0,165 000 €
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/vbd46286,vbd46286,Residence,Laken,1020,2025,New,270,None,4,1,1,3,1,None,0,775 000 €
+https://immovlan.be/en/detail/master-house/for-sale/5100/jambes/vbd43830,vbd43830,Master,Jambes,5100,1900,None,214,0,4,None,1,2,1,None,0,445 000 €
+https://immovlan.be/en/detail/cottage/for-sale/2440/geel/rbu59238,rbu59238,Cottage,Geel,2440,1907,Normal,270,None,4,1,1,4,1,None,0,574 000 €
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/vbd46287,vbd46287,Residence,Laken,1020,2025,New,308,None,3,1,1,3,1,None,0,785 000 €
+https://immovlan.be/en/detail/master-house/for-sale/5300/andenne/vbd43542,vbd43542,Master,Andenne,5300,None,Normal,160,0,4,None,1,2,1,None,0,295 000 €
+https://immovlan.be/en/detail/master-house/for-sale/5500/dinant/vbd41843,vbd41843,Master,Dinant,5500,1919,None,374,0,7,None,None,2,1,156,0,345 000 €
+https://immovlan.be/en/detail/cottage/for-sale/3550/heusden-zolder/rbu59311,rbu59311,Cottage,Heusden-Zolder,3550,1939,None,134,None,3,1,None,4,1,None,0,399 000 €
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/vbd46288,vbd46288,Residence,Laken,1020,2025,New,270,None,4,1,1,3,1,None,0,770 000 €
+https://immovlan.be/en/detail/master-house/for-sale/5621/hanzinne/vbd19544,vbd19544,Master,Hanzinne,5621,1900,Normal,664,0,10,None,0,4,1,None,0,679 000 €
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/vbd46825,vbd46825,Residence,Laken,1020,1938,Excellent,203,0,3,1,1,2,1,76,0,499 000 €
+https://immovlan.be/en/detail/cottage/for-sale/3640/kinrooi/rbu64303,rbu64303,Cottage,Kinrooi,3640,1918,None,301,None,5,None,1,4,1,None,0,319 000 €
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/vbd47156,vbd47156,Residence,Laken,1020,2024,Excellent,289,0,5,None,1,3,1,600,0,795 000 €
+https://immovlan.be/en/detail/cottage/for-sale/3680/neeroeteren/rbu51463,rbu51463,Cottage,Neeroeteren,3680,1985,None,350,None,6,None,1,4,1,None,0,675 000 €
+https://immovlan.be/en/detail/master-house/for-sale/6010/couillet/vbd48767,vbd48767,Master,Couillet,6010,None,Normal,335,0,4,1,1,4,1,2500,0,Make offer from 469 000 €
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/vbd47729,vbd47729,Residence,Laken,1020,1928,To renovate,200,0,5,1,0,2,1,70,0,649 000 €
+https://immovlan.be/en/detail/cottage/for-sale/3800/zepperen/rbu35147,rbu35147,Cottage,Zepperen,3800,1950,To be renovated,276,0,3,None,0,4,1,None,0,335 000 €
+https://immovlan.be/en/detail/master-house/for-sale/7060/soignies/vbd46457,vbd46457,Master,Soignies,7060,1903,To be renovated,580,None,6,None,1,4,1,592,0,Make offer from 480 000 €
+https://immovlan.be/en/detail/residence/for-sale/1020/laken/vbd48986,vbd48986,Residence,Laken,1020,2025,New,270,0,4,1,1,3,1,None,0,775 000 €
+https://immovlan.be/en/detail/master-house/for-sale/7110/houdeng-aimeries/vbd49425,vbd49425,Master,Houdeng-Aimeries,7110,None,To renovate,746,0,11,1,1,None,1,None,0,325 000 €
+https://immovlan.be/en/detail/cottage/for-sale/4210/burdinne/vbd32238,vbd32238,Cottage,Burdinne,4210,None,None,219,None,3,None,None,2,1,None,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd20720,vbd20720,Residence,Schaarbeek,1030,1930,Normal,162,None,4,1,1,2,1,43,0,479 000 €
+https://immovlan.be/en/detail/cottage/for-sale/4280/merdorp/vwd15564,vwd15564,Cottage,Merdorp,4280,None,None,320,None,4,1,1,None,1,2640,0,570 000 €
+https://immovlan.be/en/detail/master-house/for-sale/7110/houdeng-aimeries/vbd49426,vbd49426,Master,Houdeng-Aimeries,7110,None,To renovate,359,0,7,1,1,None,1,None,0,260 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd32952,vbd32952,Residence,Schaarbeek,1030,1898,Normal,378,0,8,None,1,2,1,40,0,599 000 €
+https://immovlan.be/en/detail/cottage/for-sale/4650/herve/vbd41636,vbd41636,Cottage,Herve,4650,None,None,300,0,4,None,1,4,1,None,0,839 000 €
+https://immovlan.be/en/detail/master-house/for-sale/7500/tournai/vbd49077,vbd49077,Master,Tournai,7500,None,Normal,283,0,5,1,1,2,1,100,0,Make offer from 495 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd34868,vbd34868,Residence,Schaarbeek,1030,1800,To renovate,177,0,4,1,1,2,0,None,0,Make offer from 375 000 €
+https://immovlan.be/en/detail/master-house/for-sale/8400/oostende/rbu59399,rbu59399,Master,Oostende,8400,1901,Normal,319,None,5,1,1,2,0,None,0,Make offer from 349 000 €
+https://immovlan.be/en/detail/cottage/for-sale/4651/battice/vbd30152,vbd30152,Cottage,Battice,4651,1850,Normal,409,0,5,1,1,4,1,1225,0,Make offer from 450 000 €
+https://immovlan.be/en/detail/cottage/for-sale/4782/schoenberg/vbc93482,vbc93482,Cottage,Schoenberg,4782,None,None,135,None,4,None,1,None,1,1500,0,215 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd38823,vbd38823,Residence,Schaarbeek,1030,1900,Excellent,290,0,4,1,1,2,1,60,0,759 000 €
+https://immovlan.be/en/detail/master-house/for-sale/8620/nieuwpoort/rbu61033,rbu61033,Master,Nieuwpoort,8620,1979,Excellent,54,None,2,None,1,2,1,None,0,210 000 €
+https://immovlan.be/en/detail/cottage/for-sale/4821/andrimont/vbd41944,vbd41944,Cottage,Andrimont,4821,None,Normal,205,0,3,None,1,None,1,500,0,595 000 €
+https://immovlan.be/en/detail/master-house/for-sale/8710/wielsbeke/rbu60866,rbu60866,Master,Wielsbeke,8710,None,Normal,500,None,4,1,1,3,1,500,0,535 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd45382,vbd45382,Residence,Schaarbeek,1030,1954,None,280,0,5,None,0,2,1,None,0,675 000 €
+https://immovlan.be/en/detail/cottage/for-sale/5000/namur/vbd45095,vbd45095,Cottage,Namur,5000,1900,To be renovated,127,0,3,1,1,3,1,None,0,Make offer from 225 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd46766,vbd46766,Residence,Schaarbeek,1030,None,To renovate,314,None,5,None,1,None,0,None,0,425 000 €
+https://immovlan.be/en/detail/master-house/for-sale/8790/waregem/rbu58927,rbu58927,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/cottage/for-sale/5336/courriere/vbd45094,vbd45094,Cottage,Courrière,5336,1900,To be renovated,127,0,3,1,1,3,1,None,0,Make offer from 225 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd47073,vbd47073,Residence,Schaarbeek,1030,1930,New,99,None,2,None,0,None,0,None,0,248 000 €
+https://immovlan.be/en/detail/master-house/for-sale/8800/roeselare/rbs57529,rbs57529,Master,Roeselare,8800,1910,Normal,152,0,3,1,1,2,0,None,0,379 000 €
+https://immovlan.be/en/detail/cottage/for-sale/5377/nettinne/vbd43874,vbd43874,Cottage,Nettinne,5377,None,To be renovated,700,0,5,None,None,4,1,None,0,495 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd47204,vbd47204,Residence,Schaarbeek,1030,1923,Excellent,564,0,7,1,1,2,1,870,0,1 950 000 €
+https://immovlan.be/en/detail/master-house/for-sale/8900/ieper/rbu61561,rbu61561,Master,Ieper,8900,1922,To be renovated,290,None,5,None,0,None,1,None,0,485 000 €
+https://immovlan.be/en/detail/cottage/for-sale/5542/blaimont/vbd19933,vbd19933,Cottage,Blaimont,5542,None,Excellent,42,1,2,None,1,None,1,271,1,72 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd47862,vbd47862,Residence,Schaarbeek,1030,None,Normal,214,0,4,None,0,None,0,None,0,499 000 €
+https://immovlan.be/en/detail/master-house/for-sale/8900/ieper/rbu65697,rbu65697,Master,Ieper,8900,1930,To be renovated,320,None,6,None,1,2,1,None,0,Make offer from 362 000 €
+https://immovlan.be/en/detail/cottage/for-sale/5542/blaimont/vbd35829,vbd35829,Cottage,Blaimont,5542,None,Normal,45,1,2,None,1,None,1,295,0,60 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd49240,vbd49240,Residence,Schaarbeek,1030,None,To be renovated,185,0,4,None,0,None,0,None,0,395 000 €
+https://immovlan.be/en/detail/master-house/for-sale/9600/ronse/rbu57828,rbu57828,Master,Ronse,9600,1867,To be renovated,1000,None,10,None,1,2,0,None,0,695 000 €
+https://immovlan.be/en/detail/cottage/for-sale/5555/bievre/vbd19761,vbd19761,Cottage,Bièvre,5555,1900,Normal,256,0,3,None,1,4,1,10000,0,325 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd49270,vbd49270,Residence,Schaarbeek,1030,2026,New,135,0,2,1,1,2,1,25,0,520 000 €
+https://immovlan.be/en/detail/master-house/for-sale/9600/ronse/rbu62444,rbu62444,Master,Ronse,9600,None,To be renovated,420,0,7,1,1,2,1,600,0,350 000 €
+https://immovlan.be/en/detail/cottage/for-sale/5575/gedinne/vbd17870,vbd17870,Cottage,Gedinne,5575,1900,To be renovated,222,0,6,None,0,3,1,500,0,139 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd49655,vbd49655,Residence,Schaarbeek,1030,None,Normal,631,None,6,1,1,3,1,None,0,1 490 000 €
+https://immovlan.be/en/detail/master-house/for-sale/9600/ronse/rbu62638,rbu62638,Master,Ronse,9600,1918,Normal,1500,0,12,1,1,2,0,None,0,1 150 000 €
+https://immovlan.be/en/detail/cottage/for-sale/5575/louette-saint-denis/vwd15493,vwd15493,Cottage,Louette-Saint-Denis,5575,None,None,200,None,4,1,None,4,1,None,0,195 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vbd49782,vbd49782,Residence,Schaarbeek,1030,1925,None,370,0,6,1,1,2,1,100,0,990 000 €
+https://immovlan.be/en/detail/master-house/for-sale/9600/ronse/rbu63441,rbu63441,Master,Ronse,9600,None,Excellent,164,None,5,None,1,2,1,None,0,280 000 €
+https://immovlan.be/en/detail/residence/for-sale/1030/schaarbeek/vwd15571,vwd15571,Residence,Schaarbeek,1030,1912,Excellent,355,None,5,1,1,2,1,None,0,1 275 000 €
+https://immovlan.be/en/detail/cottage/for-sale/5660/gonrieux/vbc56183,vbc56183,Cottage,Gonrieux,5660,None,Normal,657,None,1,None,None,4,0,None,0,Make offer from 130 000 €
+https://immovlan.be/en/detail/master-house/for-sale/9600/ronse/rbu66014,rbu66014,Master,Ronse,9600,None,Normal,410,0,5,1,1,2,1,150,0,424 000 €
+https://immovlan.be/en/detail/residence/for-sale/1040/etterbeek/vbd12579,vbd12579,Residence,Etterbeek,1040,None,Normal,221,None,3,None,1,2,1,257,0,899 000 €
+https://immovlan.be/en/detail/cottage/for-sale/8570/anzegem/rbu60207,rbu60207,Cottage,Anzegem,8570,1899,To be renovated,200,0,3,1,1,4,1,None,0,440 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1000/brussels/vbd34140,vbd34140,Mixed,Brussels,1000,1900,To be renovated,365,None,6,None,1,2,1,None,0,549 000 €
+https://immovlan.be/en/detail/residence/for-sale/1040/etterbeek/vbd32088,vbd32088,Residence,Etterbeek,1040,1910,To renovate,306,0,5,1,1,2,1,50,0,875 000 €
+https://immovlan.be/en/detail/cottage/for-sale/8620/nieuwpoort/rbu64865,rbu64865,Cottage,Nieuwpoort,8620,None,Normal,2000,1,20,1,1,4,1,5000,0,Price on request
+https://immovlan.be/en/detail/mixed-building/for-sale/1000/brussels/vbd49098,vbd49098,Mixed,Brussels,1000,1936,Normal,220,0,5,1,1,2,1,None,0,645 000 €
+https://immovlan.be/en/detail/cottage/for-sale/8900/ieper/rbu65802,rbu65802,Cottage,Ieper,8900,1921,To be renovated,1500,0,4,1,1,4,1,8000,0,750 000 €
+https://immovlan.be/en/detail/residence/for-sale/1040/etterbeek/vbd43518,vbd43518,Residence,Etterbeek,1040,None,Excellent,242,0,4,None,1,4,1,45,0,790 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1020/laken/vbd46720,vbd46720,Mixed,Laken,1020,1932,To renovate,720,None,23,1,1,2,0,None,0,1 750 000 €
+https://immovlan.be/en/detail/cottage/for-sale/8940/wervik/vbd48530,vbd48530,Cottage,Wervik,8940,1978,Normal,None,0,3,1,1,4,1,None,1,Price on request
+https://immovlan.be/en/detail/mixed-building/for-sale/1030/schaarbeek/vbd33389,vbd33389,Mixed,Schaarbeek,1030,1898,Normal,378,0,8,None,1,2,1,40,0,599 000 €
+https://immovlan.be/en/detail/residence/for-sale/1040/etterbeek/vbd43835,vbd43835,Residence,Etterbeek,1040,1920,Normal,144,0,3,None,1,3,0,None,0,Make offer from 575 000 €
+https://immovlan.be/en/detail/cottage/for-sale/9550/herzele/rbu65940,rbu65940,Cottage,Herzele,9550,None,To be renovated,None,0,4,None,1,4,1,None,0,399 000 €
+https://immovlan.be/en/detail/residence/for-sale/1040/etterbeek/vbd45417,vbd45417,Residence,Etterbeek,1040,1908,To be renovated,273,0,4,1,1,4,1,58,0,775 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1040/etterbeek/vbd45581,vbd45581,Mixed,Etterbeek,1040,1920,Normal,144,0,3,None,1,3,0,None,0,Make offer from 575 000 €
+https://immovlan.be/en/detail/cottage/for-sale/9680/maarkedal/rbu65957,rbu65957,Cottage,Maarkedal,9680,None,Excellent,324,None,3,None,1,4,1,None,0,690 000 €
+https://immovlan.be/en/detail/residence/for-sale/1040/etterbeek/vbd46967,vbd46967,Residence,Etterbeek,1040,None,New,334,None,4,None,1,None,0,None,0,1 300 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1050/elsene/vbd49062,vbd49062,Mixed,Elsene,1050,1893,To be renovated,280,0,4,1,1,2,1,75,0,870 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd07913,vbd07913,Residence,Elsene,1050,1910,To be renovated,277,None,5,None,0,2,1,35,0,850 000 €
+https://immovlan.be/en/detail/cottage/for-sale/9870/zulte/rbu60599,rbu60599,Cottage,Zulte,9870,1850,To be renovated,114,0,1,None,0,None,1,None,0,298 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1050/elsene/vbd49591,vbd49591,Mixed,Elsene,1050,None,To be renovated,255,None,3,None,1,2,1,85,0,635 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1060/sint-gillis/vbd46813,vbd46813,Mixed,Sint-Gillis,1060,1902,Excellent,350,0,5,1,0,2,0,None,0,1 550 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd41039,vbd41039,Residence,Elsene,1050,1890,Excellent,759,1,7,1,1,2,1,86,0,3 650 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd36022,vbd36022,Duplex,Brussels,1000,2017,Excellent,55,0,1,1,0,2,0,None,0,265 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1070/anderlecht/vbd26221,vbd26221,Mixed,Anderlecht,1070,None,None,None,None,None,None,None,2,0,None,0,995 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd45217,vbd45217,Residence,Elsene,1050,1928,To be renovated,390,None,4,None,0,3,1,None,0,2 350 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd46293,vbd46293,Duplex,Brussels,1000,1990,Normal,126,0,2,1,1,2,0,None,0,560 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd45738,vbd45738,Residence,Elsene,1050,None,Normal,257,0,4,1,1,2,1,None,0,775 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1070/anderlecht/vbd34869,vbd34869,Mixed,Anderlecht,1070,2025,To restore,600,None,12,None,1,2,0,None,0,Make offer from 799 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd46783,vbd46783,Duplex,Brussels,1000,1950,Excellent,253,0,3,1,1,2,0,None,0,579 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd46624,vbd46624,Residence,Elsene,1050,1980,To renovate,170,None,4,1,1,2,1,45,0,750 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1070/anderlecht/vbd49045,vbd49045,Mixed,Anderlecht,1070,1929,Normal,152,0,3,1,1,2,1,25,0,359 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd47635,vbd47635,Duplex,Brussels,1000,None,None,117,None,1,None,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd46629,vbd46629,Residence,Elsene,1050,1900,Normal,136,0,2,None,0,2,0,None,0,665 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd47826,vbd47826,Duplex,Brussels,1000,None,Fully renovated,75,0,2,None,1,2,0,None,0,365 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1080/sint-jans-molenbeek/rbu65756,rbu65756,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd47827,vbd47827,Duplex,Brussels,1000,1925,Excellent,80,0,2,None,0,2,0,None,0,335 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd46751,vbd46751,Residence,Elsene,1050,1900,Excellent,136,None,1,None,0,2,0,None,0,665 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1080/sint-jans-molenbeek/vbd45468,vbd45468,Mixed,Sint-Jans-Molenbeek,1080,1930,To be renovated,208,0,6,None,0,2,0,None,0,510 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd47834,vbd47834,Duplex,Brussels,1000,1900,Excellent,139,0,2,1,0,None,0,None,0,460 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd47371,vbd47371,Residence,Elsene,1050,1913,To renovate,611,0,5,1,1,2,1,240,0,2 250 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1080/sint-jans-molenbeek/vbd45469,vbd45469,Mixed,Sint-Jans-Molenbeek,1080,1930,To be renovated,150,0,6,None,0,2,0,None,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd47375,vbd47375,Residence,Elsene,1050,None,To be renovated,390,0,4,None,1,3,1,233,0,2 450 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd48639,vbd48639,Duplex,Brussels,1000,None,Excellent,202,0,2,1,1,None,0,None,0,555 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1080/sint-jans-molenbeek/vbd47980,vbd47980,Mixed,Sint-Jans-Molenbeek,1080,1960,Excellent,210,None,2,1,1,2,1,135,0,640 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd48006,vbd48006,Residence,Elsene,1050,2024,New,467,0,4,1,1,3,1,45,0,2 650 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd48785,vbd48785,Duplex,Brussels,1000,1900,Excellent,162,0,3,1,1,2,0,None,0,670 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1080/sint-jans-molenbeek/vbd48020,vbd48020,Mixed,Sint-Jans-Molenbeek,1080,1930,Normal,330,0,7,1,1,2,1,None,0,595 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd48119,vbd48119,Residence,Elsene,1050,1930,Excellent,82,1,2,1,1,2,1,35,0,525 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1000/brussels/vbd49059,vbd49059,Duplex,Brussels,1000,None,Normal,100,0,2,1,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1082/berchem-sainte-agathe/vbd26985,vbd26985,Mixed,Berchem-Sainte-Agathe,1082,1932,Normal,540,1,8,1,1,2,1,None,1,795 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd48423,vbd48423,Residence,Elsene,1050,2025,Excellent,467,0,5,1,1,3,1,30,0,2 650 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1090/jette/vbd44661,vbd44661,Mixed,Jette,1090,1954,Normal,284,None,9,1,1,2,1,230,0,685 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1030/schaarbeek/vbd38815,vbd38815,Duplex,Schaarbeek,1030,1920,Normal,72,0,1,None,1,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd48640,vbd48640,Residence,Elsene,1050,1927,Normal,490,None,5,None,1,2,1,None,0,1 495 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1140/evere/vbd46858,vbd46858,Mixed,Evere,1140,1900,Normal,280,0,8,1,1,2,0,None,0,795 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1030/schaarbeek/vbd41801,vbd41801,Duplex,Schaarbeek,1030,1930,Normal,190,1,6,1,1,2,0,None,0,605 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd48786,vbd48786,Residence,Elsene,1050,1920,Fully renovated,238,0,6,1,1,2,1,45,0,895 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1160/oudergem/vbd48096,vbd48096,Mixed,Oudergem,1160,1915,Normal,192,0,3,1,0,2,0,None,0,400 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1030/schaarbeek/vbd44618,vbd44618,Duplex,Schaarbeek,1030,1900,Excellent,150,0,3,1,1,2,0,None,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd49061,vbd49061,Residence,Elsene,1050,1893,To be renovated,280,0,4,1,1,2,1,75,0,870 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1170/watermaal-bosvoorde/vbd47412,vbd47412,Mixed,Watermaal-Bosvoorde,1170,None,Normal,70,None,None,None,None,None,1,None,1,225 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1030/schaarbeek/vbd46337,vbd46337,Duplex,Schaarbeek,1030,1950,Excellent,253,0,3,1,1,2,0,None,0,579 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd49265,vbd49265,Residence,Elsene,1050,None,None,337,None,4,None,1,2,1,209,0,1 500 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1190/vorst/rbt90221,rbt90221,Mixed,Vorst,1190,1976,To renovate,350,None,8,1,1,2,1,None,0,599 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1030/schaarbeek/vbd49327,vbd49327,Duplex,Schaarbeek,1030,1920,Normal,98,0,1,None,1,2,0,None,0,369 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd49561,vbd49561,Residence,Elsene,1050,1927,Excellent,440,0,5,1,1,2,1,100,0,Price on request
+https://immovlan.be/en/detail/mixed-building/for-sale/1190/vorst/vbd46958,vbd46958,Mixed,Vorst,1190,1930,To be renovated,718,0,3,None,1,2,0,None,0,1 490 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1030/schaarbeek/vbd49585,vbd49585,Duplex,Schaarbeek,1030,1930,Excellent,198,0,4,1,1,2,1,100,0,650 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vbd49633,vbd49633,Residence,Elsene,1050,None,To be renovated,200,None,0,None,1,None,0,None,0,550 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1050/elsene/vbd45733,vbd45733,Duplex,Elsene,1050,1930,Excellent,170,0,2,1,1,2,1,50,0,645 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1190/vorst/vbd46959,vbd46959,Mixed,Vorst,1190,1930,To be renovated,195,None,5,None,1,2,0,None,0,800 000 €
+https://immovlan.be/en/detail/residence/for-sale/1050/elsene/vwd15480,vwd15480,Residence,Elsene,1050,1900,Excellent,472,None,8,1,1,3,0,None,0,1 845 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1050/elsene/vbd45784,vbd45784,Duplex,Elsene,1050,1900,Normal,104,0,2,None,0,2,0,None,0,395 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1190/vorst/vbd46963,vbd46963,Mixed,Vorst,1190,1930,To be renovated,195,None,5,None,None,2,0,None,0,800 000 €
+https://immovlan.be/en/detail/residence/for-sale/1060/sint-gillis/vbd45354,vbd45354,Residence,Sint-Gillis,1060,None,None,330,0,6,None,1,2,1,None,0,775 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1050/elsene/vbd45810,vbd45810,Duplex,Elsene,1050,2026,None,155,0,2,1,1,2,0,None,0,780 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1190/vorst/vbd46964,vbd46964,Mixed,Vorst,1190,1930,To be renovated,718,0,3,None,1,2,0,None,0,1 490 000 €
+https://immovlan.be/en/detail/residence/for-sale/1060/sint-gillis/vbd46378,vbd46378,Residence,Sint-Gillis,1060,1935,Fully renovated,235,1,6,1,1,2,1,50,0,Make offer from 745 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1050/elsene/vbd47322,vbd47322,Duplex,Elsene,1050,2005,Excellent,80,0,2,None,0,None,0,None,0,Make offer from 389 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1200/sint-lambrechts-woluwe/vbd46566,vbd46566,Mixed,Sint-Lambrechts-Woluwe,1200,1909,Normal,361,0,5,1,1,2,1,42,0,790 000 €
+https://immovlan.be/en/detail/residence/for-sale/1060/sint-gillis/vbd47254,vbd47254,Residence,Sint-Gillis,1060,1896,To be renovated,186,0,4,1,1,2,1,36,0,695 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1050/elsene/vbd47823,vbd47823,Duplex,Elsene,1050,None,Fully renovated,53,1,1,1,1,2,1,None,0,305 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/1210/sint-joost-ten-node/vbd48837,vbd48837,Mixed,Sint-Joost-ten-Node,1210,None,Normal,225,0,4,None,1,2,0,None,0,Make offer from 349 000 €
+https://immovlan.be/en/detail/residence/for-sale/1060/sint-gillis/vbd49886,vbd49886,Residence,Sint-Gillis,1060,None,To be renovated,97,0,3,None,0,3,1,None,0,169 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1050/elsene/vwd14901,vwd14901,Duplex,Elsene,1050,1930,Excellent,170,None,2,1,1,2,1,50,0,645 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/2220/hallaar/rbu65743,rbu65743,Mixed,Hallaar,2220,1939,None,340,0,5,None,0,3,0,None,0,495 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/rbt90220,rbt90220,Residence,Anderlecht,1070,1978,To be renovated,70,0,2,1,1,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1060/sint-gillis/vbd48314,vbd48314,Duplex,Sint-Gillis,1060,2019,Normal,125,0,3,1,1,2,0,None,0,Make offer from 385 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/2220/heist-op-den-berg/rbu62285,rbu62285,Mixed,Heist-op-den-Berg,2220,None,To renovate,317,None,4,1,1,4,1,None,0,425 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/rbu03905,rbu03905,Residence,Anderlecht,1070,None,Normal,None,0,1,None,1,None,1,None,0,1 700 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1060/sint-gillis/vbd49885,vbd49885,Duplex,Sint-Gillis,1060,None,To be renovated,170,0,5,None,0,2,0,None,0,279 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/2440/geel/rbu62662,rbu62662,Mixed,Geel,2440,1955,To be renovated,160,0,3,None,1,None,1,None,0,275 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/rbu45318,rbu45318,Residence,Anderlecht,1070,None,Normal,233,0,7,None,1,None,0,None,0,415 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/2640/mortsel/rbu64939,rbu64939,Mixed,Mortsel,2640,1930,To be renovated,136,0,3,None,0,None,1,40,0,235 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1070/anderlecht/vbd46554,vbd46554,Duplex,Anderlecht,1070,None,To renovate,80,0,2,None,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/2830/willebroek/rbu65763,rbu65763,Mixed,Willebroek,2830,None,To be renovated,177,0,2,None,0,3,0,None,0,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/rbu58252,rbu58252,Residence,Anderlecht,1070,1969,Normal,203,0,4,1,1,2,1,None,0,539 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1080/sint-jans-molenbeek/vbd29999,vbd29999,Duplex,Sint-Jans-Molenbeek,1080,1930,To be renovated,150,0,3,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3500/hasselt/rbu41885,rbu41885,Mixed,Hasselt,3500,1956,Excellent,None,None,5,None,0,4,0,None,0,499 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1080/sint-jans-molenbeek/vbd46331,vbd46331,Duplex,Sint-Jans-Molenbeek,1080,None,To renovate,134,0,3,None,0,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd40300,vbd40300,Residence,Anderlecht,1070,None,To be renovated,212,None,7,1,1,2,0,None,0,339 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3520/zonhoven/rbu51883,rbu51883,Mixed,Zonhoven,3520,None,To renovate,821,0,3,1,1,4,0,None,0,399 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1080/sint-jans-molenbeek/vbd49058,vbd49058,Duplex,Sint-Jans-Molenbeek,1080,None,Normal,100,0,2,1,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd46240,vbd46240,Residence,Anderlecht,1070,1949,Normal,180,0,4,None,1,2,1,90,0,485 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3520/zonhoven/rbu65969,rbu65969,Mixed,Zonhoven,3520,1952,Normal,None,0,3,1,1,2,1,None,0,349 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1082/berchem-sainte-agathe/vbd44660,vbd44660,Duplex,Berchem-Sainte-Agathe,1082,1952,To renovate,130,0,3,1,0,2,0,None,0,239 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd47179,vbd47179,Residence,Anderlecht,1070,1905,Normal,216,0,3,None,1,2,1,54,0,449 500 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3650/dilsen-stokkem/rbu34974,rbu34974,Mixed,Dilsen-Stokkem,3650,2020,None,311,0,2,None,1,4,1,None,0,825 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1083/ganshoren/vbd40336,vbd40336,Duplex,Ganshoren,1083,1969,Normal,130,0,2,1,1,3,0,None,0,279 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd48751,vbd48751,Residence,Anderlecht,1070,None,Normal,104,0,3,None,1,2,0,None,0,349 900 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3650/dilsen-stokkem/rbu48220,rbu48220,Mixed,Dilsen-Stokkem,3650,1958,None,140,None,2,None,None,4,0,None,0,475 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd48983,vbd48983,Residence,Anderlecht,1070,1930,Normal,200,0,5,1,1,2,1,27,0,429 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1090/jette/vbd39421,vbd39421,Duplex,Jette,1090,1950,To renovate,135,None,3,None,1,2,0,None,0,345 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3650/dilsen-stokkem/rbu62381,rbu62381,Mixed,Dilsen-Stokkem,3650,1969,None,230,None,1,None,None,4,1,None,0,595 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd48992,vbd48992,Residence,Anderlecht,1070,1930,Normal,300,0,4,1,1,2,1,None,0,520 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1180/ukkel/vbd46098,vbd46098,Duplex,Ukkel,1180,1993,Excellent,158,0,3,1,1,4,0,None,0,670 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3800/sint-truiden/rbu28436,rbu28436,Mixed,Sint-Truiden,3800,1952,Normal,321,None,3,None,1,2,1,None,0,439 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd49046,vbd49046,Residence,Anderlecht,1070,1929,Normal,152,0,3,1,1,2,1,25,0,359 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1180/ukkel/vbd46708,vbd46708,Duplex,Ukkel,1180,1927,To be renovated,96,None,2,None,1,2,0,None,0,279 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3800/sint-truiden/rbu34230,rbu34230,Mixed,Sint-Truiden,3800,1948,None,393,None,4,None,0,None,0,None,0,475 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd49574,vbd49574,Residence,Anderlecht,1070,None,To renovate,145,0,3,1,1,2,1,50,0,369 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1180/ukkel/vbd47372,vbd47372,Duplex,Ukkel,1180,1992,Excellent,267,0,3,1,1,3,1,None,1,995 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3806/velm/rbu41881,rbu41881,Mixed,Velm,3806,1973,Excellent,None,None,5,None,1,2,1,515,0,469 000 €
+https://immovlan.be/en/detail/residence/for-sale/1070/anderlecht/vbd49846,vbd49846,Residence,Anderlecht,1070,1945,To renovate,150,0,2,1,1,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1180/ukkel/vbd47764,vbd47764,Duplex,Ukkel,1180,None,Excellent,118,0,3,None,0,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3890/gingelom/rbu41882,rbu41882,Mixed,Gingelom,3890,1918,Excellent,None,None,None,None,1,3,0,None,0,160 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1180/ukkel/vbd48422,vbd48422,Duplex,Ukkel,1180,1975,Normal,230,0,3,1,1,2,0,None,0,1 150 000 €
+https://immovlan.be/en/detail/residence/for-sale/1080/sint-jans-molenbeek/rbu62682,rbu62682,Residence,Sint-Jans-Molenbeek,1080,1986,To be renovated,151,0,3,None,1,3,1,None,0,429 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3970/leopoldsburg/rbu62660,rbu62660,Mixed,Leopoldsburg,3970,1951,To be renovated,195,0,4,None,0,None,1,None,0,179 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1180/ukkel/vbd49348,vbd49348,Duplex,Ukkel,1180,1992,Fully renovated,298,0,4,1,1,3,0,None,0,1 485 000 €
+https://immovlan.be/en/detail/residence/for-sale/1080/sint-jans-molenbeek/vbd41471,vbd41471,Residence,Sint-Jans-Molenbeek,1080,1930,Normal,169,0,4,1,1,2,1,49,0,430 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/3980/tessenderlo/rbu60144,rbu60144,Mixed,Tessenderlo,3980,None,None,None,None,None,None,0,None,1,None,0,290 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1190/vorst/vbd45361,vbd45361,Duplex,Vorst,1190,2006,None,180,0,2,None,1,2,1,None,0,598 000 €
+https://immovlan.be/en/detail/residence/for-sale/1080/sint-jans-molenbeek/vbd46924,vbd46924,Residence,Sint-Jans-Molenbeek,1080,1910,Normal,135,None,4,1,1,2,1,None,0,389 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1190/vorst/vbd46779,vbd46779,Duplex,Vorst,1190,1934,Excellent,187,None,3,None,1,2,1,200,0,790 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbc97084,vbc97084,Mixed,Liege,4000,1950,To renovate,475,None,9,1,0,2,0,None,0,565 000 €
+https://immovlan.be/en/detail/residence/for-sale/1080/sint-jans-molenbeek/vbd47072,vbd47072,Residence,Sint-Jans-Molenbeek,1080,1920,Excellent,133,None,4,None,1,None,1,None,0,359 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1190/vorst/vbd47767,vbd47767,Duplex,Vorst,1190,1965,New,223,0,4,None,1,None,0,None,0,795 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd29030,vbd29030,Mixed,Liege,4000,1945,Excellent,210,0,8,1,0,2,0,None,0,749 000 €
+https://immovlan.be/en/detail/residence/for-sale/1080/sint-jans-molenbeek/vbd49618,vbd49618,Residence,Sint-Jans-Molenbeek,1080,None,To be renovated,120,0,4,None,1,None,1,None,0,295 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd33812,vbd33812,Mixed,Liege,4000,1875,Normal,337,0,5,None,1,2,1,70,0,Make offer from 749 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1200/sint-lambrechts-woluwe/vbd49030,vbd49030,Duplex,Sint-Lambrechts-Woluwe,1200,1987,Normal,227,0,4,1,1,3,0,None,0,899 000 €
+https://immovlan.be/en/detail/residence/for-sale/1080/sint-jans-molenbeek/vbd49699,vbd49699,Residence,Sint-Jans-Molenbeek,1080,None,Normal,210,0,4,1,1,2,0,None,0,338 000 €
+https://immovlan.be/en/detail/duplex/for-sale/1210/sint-joost-ten-node/vbd42846,vbd42846,Duplex,Sint-Joost-ten-Node,1210,1928,Excellent,162,0,3,1,1,2,1,60,0,550 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd37921,vbd37921,Mixed,Liege,4000,None,Normal,165,None,2,None,1,2,0,None,0,Make offer from 219 000 €
+https://immovlan.be/en/detail/residence/for-sale/1081/koekelberg/vbd47771,vbd47771,Residence,Koekelberg,1081,1905,Excellent,182,0,3,1,0,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/duplex/for-sale/2018/antwerp/rbu64435,rbu64435,Duplex,Antwerp,2018,2026,Excellent,148,None,4,None,1,None,1,None,0,735 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd42915,vbd42915,Mixed,Liege,4000,1982,To be renovated,156,0,4,None,1,2,0,None,0,79 000 €
+https://immovlan.be/en/detail/residence/for-sale/1082/berchem-sainte-agathe/vbd45057,vbd45057,Residence,Berchem-Sainte-Agathe,1082,None,Normal,70,0,1,None,1,2,1,None,0,295 000 €
+https://immovlan.be/en/detail/duplex/for-sale/2160/wommelgem/rbu55425,rbu55425,Duplex,Wommelgem,2160,1997,Normal,115,0,3,1,0,3,0,None,0,298 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd44119,vbd44119,Mixed,Liege,4000,1850,Normal,132,0,3,None,0,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/1082/berchem-sainte-agathe/vbd45474,vbd45474,Residence,Berchem-Sainte-Agathe,1082,1989,Excellent,245,None,4,1,1,2,1,100,0,535 000 €
+https://immovlan.be/en/detail/duplex/for-sale/2170/merksem/rbu64291,rbu64291,Duplex,Merksem,2170,None,To be renovated,164,0,2,None,1,2,0,None,0,224 000 €
+https://immovlan.be/en/detail/residence/for-sale/1083/ganshoren/vbd49071,vbd49071,Residence,Ganshoren,1083,1952,To renovate,233,0,5,None,1,2,1,35,0,445 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd44569,vbd44569,Mixed,Liege,4000,1918,Normal,615,1,8,1,1,2,0,None,0,1 200 000 €
+https://immovlan.be/en/detail/duplex/for-sale/2360/oud-turnhout/rbu60940,rbu60940,Duplex,Oud-Turnhout,2360,1970,Normal,174,0,3,None,1,2,0,None,1,284 000 €
+https://immovlan.be/en/detail/residence/for-sale/1090/jette/rwc41153,rwc41153,Residence,Jette,1090,1928,Fully renovated,150,None,4,1,None,2,1,25,0,520 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd44702,vbd44702,Mixed,Liege,4000,None,Excellent,700,0,5,1,0,2,0,None,0,Make offer from 850 000 €
+https://immovlan.be/en/detail/duplex/for-sale/2440/geel/rbu65647,rbu65647,Duplex,Geel,2440,2012,None,105,None,3,None,1,None,1,None,0,308 000 €
+https://immovlan.be/en/detail/residence/for-sale/1090/jette/vbd36952,vbd36952,Residence,Jette,1090,1930,To be renovated,225,0,5,None,1,2,1,None,0,440 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd44814,vbd44814,Mixed,Liege,4000,1930,To renovate,178,0,5,None,1,2,0,None,0,Make offer from 274 000 €
+https://immovlan.be/en/detail/residence/for-sale/1090/jette/vbd46789,vbd46789,Residence,Jette,1090,None,To renovate,109,0,3,None,None,2,1,None,0,350 000 €
+https://immovlan.be/en/detail/duplex/for-sale/2540/hove/rbu29991,rbu29991,Duplex,Hove,2540,None,Normal,95,None,2,None,0,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd45818,vbd45818,Mixed,Liege,4000,1980,Fully renovated,123,None,3,1,0,2,0,None,0,185 000 €
+https://immovlan.be/en/detail/residence/for-sale/1090/jette/vbd47772,vbd47772,Residence,Jette,1090,1905,Excellent,182,0,3,1,0,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/duplex/for-sale/2800/mechelen/rbu17271,rbu17271,Duplex,Mechelen,2800,None,To be renovated,199,0,5,None,1,2,0,None,0,380 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd45819,vbd45819,Mixed,Liege,4000,1980,Fully renovated,123,None,3,1,0,2,0,None,0,185 000 €
+https://immovlan.be/en/detail/duplex/for-sale/2870/breendonk/rbu61562,rbu61562,Duplex,Breendonk,2870,2022,Normal,160,0,3,None,1,None,0,None,0,399 000 €
+https://immovlan.be/en/detail/residence/for-sale/1090/jette/vwd15490,vwd15490,Residence,Jette,1090,1950,To be renovated,153,None,4,1,None,2,1,27,0,350 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd47050,vbd47050,Mixed,Liege,4000,None,Normal,81,0,2,1,1,2,0,None,0,410 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd33312,vbd33312,Residence,Neder-Over-Heembeek,1120,None,Excellent,231,None,4,None,1,3,1,191,0,Make offer from 690 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3510/kermt/rbu28320,rbu28320,Duplex,Kermt,3510,1932,Normal,126,0,2,None,1,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd47342,vbd47342,Mixed,Liege,4000,None,To be renovated,186,0,6,None,0,2,0,None,0,499 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd43554,vbd43554,Residence,Neder-Over-Heembeek,1120,None,Excellent,231,None,4,None,1,3,1,191,0,Make offer from 690 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3530/houthalen-helchteren/rbu51302,rbu51302,Duplex,Houthalen-Helchteren,3530,1969,None,None,0,2,1,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd48472,vbd48472,Mixed,Liege,4000,None,None,None,None,None,None,1,2,0,None,0,Make offer from 299 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd43555,vbd43555,Residence,Neder-Over-Heembeek,1120,None,Excellent,231,None,4,None,1,3,1,191,0,Make offer from 690 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3530/houthalen-helchteren/rbu62982,rbu62982,Duplex,Houthalen-Helchteren,3530,1976,Normal,194,None,None,None,0,3,1,315,0,299 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd48538,vbd48538,Mixed,Liege,4000,None,New,160,0,4,1,0,2,0,None,0,Make offer from 309 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3550/heusden-zolder/rbu28752,rbu28752,Duplex,Heusden-Zolder,3550,2023,New,136,0,4,1,1,4,0,None,0,339 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd45305,vbd45305,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd48819,vbd48819,Mixed,Liege,4000,1965,To renovate,256,None,4,1,1,2,1,None,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd45557,vbd45557,Residence,Neder-Over-Heembeek,1120,1918,To be renovated,100,0,2,1,1,2,1,40,0,299 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3550/heusden-zolder/rbu61356,rbu61356,Duplex,Heusden-Zolder,3550,2001,Normal,100,0,3,1,0,2,0,None,0,289 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd49809,vbd49809,Mixed,Liege,4000,None,To renovate,130,None,None,None,0,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3550/heusden-zolder/rbu62416,rbu62416,Duplex,Heusden-Zolder,3550,2016,Excellent,114,0,2,None,1,3,0,None,0,285 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd46283,vbd46283,Residence,Neder-Over-Heembeek,1120,2025,New,270,None,4,1,1,3,1,None,0,775 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4000/liege/vbd50020,vbd50020,Mixed,Liege,4000,1850,Normal,285,0,4,1,1,2,0,None,0,Make offer from 449 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3550/heusden-zolder/rbu64220,rbu64220,Duplex,Heusden-Zolder,3550,None,New,162,0,2,None,1,3,1,None,0,365 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd46284,vbd46284,Residence,Neder-Over-Heembeek,1120,2025,New,308,None,3,1,1,3,1,None,0,785 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4020/liege/vbd09869,vbd09869,Mixed,Liege,4020,None,Normal,135,1,3,None,0,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd46285,vbd46285,Residence,Neder-Over-Heembeek,1120,2025,New,270,None,4,1,1,3,1,None,0,770 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3550/heusden-zolder/rbu65849,rbu65849,Duplex,Heusden-Zolder,3550,2019,None,153,None,2,None,1,None,0,None,0,625 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4020/liege/vbd17295,vbd17295,Mixed,Liege,4020,1931,None,361,0,10,1,1,3,0,None,0,Make offer from 499 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3560/lummen/rbu55529,rbu55529,Duplex,Lummen,3560,1985,None,408,None,4,None,1,None,0,None,0,650 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4020/liege/vbd41392,vbd41392,Mixed,Liege,4020,None,To renovate,163,0,4,None,0,3,0,None,0,249 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd46754,vbd46754,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/duplex/for-sale/3590/diepenbeek/rbu31946,rbu31946,Duplex,Diepenbeek,3590,2021,New,95,0,2,None,1,2,0,None,0,279 725 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4020/liege/vbd45083,vbd45083,Mixed,Liege,4020,1931,None,361,0,10,1,1,3,0,None,0,Make offer from 475 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd47636,vbd47636,Residence,Neder-Over-Heembeek,1120,None,Excellent,230,0,3,1,1,2,1,None,0,685 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3590/diepenbeek/rbu31949,rbu31949,Duplex,Diepenbeek,3590,2021,New,98,0,2,None,1,2,0,None,0,287 612 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4020/liege/vbd46461,vbd46461,Mixed,Liege,4020,1994,Normal,None,0,0,None,1,2,1,72,0,280 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd48984,vbd48984,Residence,Neder-Over-Heembeek,1120,2025,New,308,None,3,1,1,3,1,None,0,785 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3590/diepenbeek/rbu52118,rbu52118,Duplex,Diepenbeek,3590,2002,None,117,None,2,None,1,3,1,None,0,275 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4020/liege/vbd48396,vbd48396,Mixed,Liege,4020,None,To renovate,125,0,4,1,0,2,0,None,0,167 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd48985,vbd48985,Residence,Neder-Over-Heembeek,1120,2025,New,270,None,4,1,1,3,1,None,0,770 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/4020/liege/vbd49816,vbd49816,Mixed,Liege,4020,None,Normal,200,0,4,1,1,2,0,None,0,255 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vbd50102,vbd50102,Residence,Neder-Over-Heembeek,1120,1944,To renovate,173,0,3,1,1,3,1,21,0,339 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3600/genk/rbu50990,rbu50990,Duplex,Genk,3600,2006,Normal,226,0,3,None,1,3,1,None,0,540 000 €
+https://immovlan.be/en/detail/residence/for-sale/1120/neder-over-heembeek/vwd15567,vwd15567,Residence,Neder-Over-Heembeek,1120,1933,Normal,293,None,4,None,1,2,1,220,1,515 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3630/maasmechelen/rwc41039,rwc41039,Duplex,Maasmechelen,3630,1989,To be renovated,178,None,3,None,1,2,0,None,0,210 000 €
+https://immovlan.be/en/detail/residence/for-sale/1130/haren/vbd44121,vbd44121,Residence,Haren,1130,1920,Normal,160,0,4,1,1,2,1,86,0,399 000 €
+https://immovlan.be/en/detail/duplex/for-sale/3650/dilsen-stokkem/rbu42667,rbu42667,Duplex,Dilsen-Stokkem,3650,2010,None,137,0,3,None,1,None,1,None,0,319 000 €
+https://immovlan.be/en/detail/residence/for-sale/1130/haren/vbd44657,vbd44657,Residence,Haren,1130,2024,New,158,0,4,1,1,2,1,None,0,481 000 €
+https://immovlan.be/en/detail/residence/for-sale/1130/haren/vbd48881,vbd48881,Residence,Haren,1130,None,Normal,None,0,4,None,1,None,1,70,0,490 000 €
+https://immovlan.be/en/detail/residence/for-sale/1130/haren/vbd49004,vbd49004,Residence,Haren,1130,None,To be renovated,185,0,4,None,1,2,1,50,0,620 000 €
+https://immovlan.be/en/detail/residence/for-sale/1140/evere/vbc69891,vbc69891,Residence,Evere,1140,None,None,260,None,5,None,1,2,1,60,0,555 000 €

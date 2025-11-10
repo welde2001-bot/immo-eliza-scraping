@@ -1,0 +1,997 @@
+url,property_id,property_type,locality_name,postal_code,build_year,state,living_area,furnished,number_rooms,equipped_kitchen,terrace,facades,garden,garden_area,swimming_pool,price
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/rbu58257,rbu58257,Apartment,Brussels,1000,2004,Normal,35,1,1,None,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36061,rbu36061,Apartment,Turnhout,2300,2024,New,59,0,1,None,1,3,0,None,0,197 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd48093,vbd48093,Apartment,Berchem-Sainte-Agathe,1082,1939,Normal,65,0,2,1,1,2,0,None,0,169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/rbu58259,rbu58259,Apartment,Brussels,1000,2013,Normal,57,1,1,None,1,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36063,rbu36063,Apartment,Turnhout,2300,2024,New,66,0,1,None,1,3,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd48994,vbd48994,Apartment,Berchem-Sainte-Agathe,1082,2022,New,90,0,2,1,1,2,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36067,rbu36067,Apartment,Turnhout,2300,2024,New,61,0,1,None,1,3,0,None,0,202 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/rbu60048,rbu60048,Apartment,Brussels,1000,None,Normal,37,0,1,None,0,None,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd26573,vbd26573,Apartment,Ganshoren,1083,1966,Normal,114,None,2,None,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/rbu62122,rbu62122,Apartment,Brussels,1000,2014,Normal,60,1,1,None,0,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36069,rbu36069,Apartment,Turnhout,2300,2024,New,59,0,1,None,1,3,0,None,0,202 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd38111,vbd38111,Apartment,Ganshoren,1083,1969,Normal,100,0,2,None,1,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/rbu64197,rbu64197,Apartment,Brussels,1000,2015,Normal,29,1,1,None,0,2,0,None,0,150 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd42948,vbd42948,Apartment,Ganshoren,1083,None,None,76,None,2,None,1,1,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36070,rbu36070,Apartment,Turnhout,2300,2024,New,90,0,2,None,1,3,0,None,0,305 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/rbu64473,rbu64473,Apartment,Brussels,1000,2008,Fully renovated,77,None,2,None,0,2,0,None,0,287 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd45416,vbd45416,Apartment,Ganshoren,1083,1965,Normal,114,None,3,1,1,4,0,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60897,rbu60897,Apartment,Turnhout,2300,1972,Normal,148,0,4,None,1,3,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/rwc41104,rwc41104,Apartment,Brussels,1000,2015,Normal,76,None,1,None,None,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd45665,vbd45665,Apartment,Ganshoren,1083,1965,None,88,0,2,None,1,None,0,None,0,254 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60898,rbu60898,Apartment,Turnhout,2300,2021,New,126,0,3,None,1,2,0,None,0,436 100 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd02599,vbd02599,Apartment,Brussels,1000,2000,Normal,74,0,2,1,0,2,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60905,rbu60905,Apartment,Turnhout,2300,2007,New,64,0,1,None,0,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd46788,vbd46788,Apartment,Ganshoren,1083,1951,Excellent,98,0,2,None,1,2,0,None,0,298 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60911,rbu60911,Apartment,Turnhout,2300,1969,Normal,102,0,2,None,1,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd12617,vbd12617,Apartment,Brussels,1000,2019,Excellent,90,0,2,1,0,2,0,None,0,335 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd47951,vbd47951,Apartment,Ganshoren,1083,None,None,94,0,2,None,1,None,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60914,rbu60914,Apartment,Turnhout,2300,None,Normal,158,0,2,None,1,None,0,None,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd13198,vbd13198,Apartment,Brussels,1000,None,Excellent,98,0,2,1,1,2,0,None,0,Make offer from 360 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd48359,vbd48359,Apartment,Ganshoren,1083,1970,Normal,102,0,3,1,1,2,0,None,0,Make offer from 230 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd48975,vbd48975,Apartment,Ganshoren,1083,1960,Normal,75,0,2,1,1,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd17576,vbd17576,Apartment,Brussels,1000,1958,Normal,62,0,2,None,1,4,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60915,rbu60915,Apartment,Turnhout,2300,1970,Normal,125,0,3,None,1,2,0,None,0,239 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd49072,vbd49072,Apartment,Ganshoren,1083,1947,To be renovated,87,0,2,None,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd21090,vbd21090,Apartment,Brussels,1000,1900,Excellent,80,1,1,1,0,2,0,None,0,595 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60916,rbu60916,Apartment,Turnhout,2300,2016,Excellent,129,0,2,None,1,3,0,None,0,479 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1083/ganshoren/vbd49125,vbd49125,Apartment,Ganshoren,1083,1965,None,110,None,3,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd23317,vbd23317,Apartment,Brussels,1000,2008,To renovate,100,0,3,1,0,2,0,None,0,247 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60918,rbu60918,Apartment,Turnhout,2300,1969,Normal,95,0,2,None,0,3,0,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd27111,vbd27111,Apartment,Jette,1090,2004,Normal,119,0,3,1,1,None,0,None,0,340 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd25739,vbd25739,Apartment,Brussels,1000,None,Normal,55,0,1,None,0,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60929,rbu60929,Apartment,Turnhout,2300,1986,Normal,96,0,2,None,1,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60932,rbu60932,Apartment,Turnhout,2300,2004,Normal,97,0,2,None,1,3,0,None,0,214 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd29373,vbd29373,Apartment,Brussels,1000,None,Excellent,80,0,2,1,0,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd35004,vbd35004,Apartment,Jette,1090,None,None,67,None,1,None,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd31352,vbd31352,Apartment,Brussels,1000,1977,None,49,0,1,None,0,None,0,None,0,300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60933,rbu60933,Apartment,Turnhout,2300,1986,Normal,140,0,2,None,1,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd35073,vbd35073,Apartment,Jette,1090,None,None,113,None,2,None,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd35342,vbd35342,Apartment,Brussels,1000,1897,Normal,77,None,1,1,0,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd45273,vbd45273,Apartment,Jette,1090,1971,Excellent,61,None,1,None,1,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60936,rbu60936,Apartment,Turnhout,2300,2015,Normal,107,0,2,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd45801,vbd45801,Apartment,Jette,1090,1964,Normal,73,0,2,1,0,2,0,None,0,Make offer from 205 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60944,rbu60944,Apartment,Turnhout,2300,1974,Normal,88,0,2,None,1,2,0,None,0,180 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd44198,vbd44198,Apartment,Brussels,1000,2020,New,95,0,2,1,1,4,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd46836,vbd46836,Apartment,Jette,1090,1967,Fully renovated,80,0,2,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60951,rbu60951,Apartment,Turnhout,2300,1972,None,117,0,2,None,1,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd44717,vbd44717,Apartment,Brussels,1000,2015,None,57,None,1,None,0,None,0,None,0,190 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60960,rbu60960,Apartment,Turnhout,2300,1974,Normal,88,0,2,None,0,None,0,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd44719,vbd44719,Apartment,Brussels,1000,None,None,39,None,1,None,0,2,0,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd46884,vbd46884,Apartment,Jette,1090,1973,Excellent,88,0,2,1,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60968,rbu60968,Apartment,Turnhout,2300,1974,Normal,120,0,2,None,1,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd45012,vbd45012,Apartment,Brussels,1000,1930,To be renovated,65,0,1,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd47191,vbd47191,Apartment,Jette,1090,None,Normal,60,0,1,1,1,2,0,None,0,Make offer from 175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd45050,vbd45050,Apartment,Brussels,1000,None,Excellent,95,0,2,None,1,2,0,None,0,650 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60969,rbu60969,Apartment,Turnhout,2300,None,Excellent,195,0,3,None,1,2,0,None,0,369 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd47388,vbd47388,Apartment,Jette,1090,1974,Normal,55,0,1,1,1,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd45066,vbd45066,Apartment,Brussels,1000,2022,Normal,90,0,2,1,1,2,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd47389,vbd47389,Apartment,Jette,1090,None,Normal,102,0,3,None,1,None,0,None,0,Make offer from 299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60974,rbu60974,Apartment,Turnhout,2300,1980,Normal,149,0,2,None,1,2,0,None,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60975,rbu60975,Apartment,Turnhout,2300,1999,Normal,116,0,2,None,1,2,0,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd45435,vbd45435,Apartment,Brussels,1000,1970,Normal,100,0,2,1,1,2,0,None,0,515 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd48021,vbd48021,Apartment,Jette,1090,1930,Excellent,79,0,1,1,0,2,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60977,rbu60977,Apartment,Turnhout,2300,1980,Normal,167,0,2,None,1,2,0,None,0,449 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd45702,vbd45702,Apartment,Brussels,1000,1929,Fully renovated,85,0,2,1,1,2,1,None,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd48867,vbd48867,Apartment,Jette,1090,None,Excellent,91,None,2,1,1,None,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60980,rbu60980,Apartment,Turnhout,2300,1987,To be renovated,91,0,2,None,1,3,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd49113,vbd49113,Apartment,Jette,1090,1973,Fully renovated,80,0,2,None,1,None,0,None,0,238 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd45920,vbd45920,Apartment,Brussels,1000,2025,New,133,0,2,1,1,2,0,None,0,799 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60984,rbu60984,Apartment,Turnhout,2300,None,Normal,98,0,2,None,1,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd49344,vbd49344,Apartment,Jette,1090,None,Normal,203,0,3,1,1,2,1,80,0,475 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd45922,vbd45922,Apartment,Brussels,1000,2027,New,114,0,2,1,1,2,0,None,0,725 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd49848,vbd49848,Apartment,Jette,1090,1932,Normal,68,None,1,None,0,None,0,None,0,190 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu60986,rbu60986,Apartment,Turnhout,2300,1980,Normal,124,0,2,None,1,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd46153,vbd46153,Apartment,Brussels,1000,1988,Fully renovated,127,1,2,None,0,None,0,None,0,545 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1090/jette/vbd49933,vbd49933,Apartment,Jette,1090,1956,None,70,0,2,None,1,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu64306,rbu64306,Apartment,Turnhout,2300,1972,Normal,133,0,3,None,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd46291,vbd46291,Apartment,Brussels,1000,2007,Excellent,126,0,2,1,1,4,0,None,0,620 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1120/neder-over-heembeek/rbu61398,rbu61398,Apartment,Neder-Over-Heembeek,1120,1967,Normal,95,0,2,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu66746,rbu66746,Apartment,Turnhout,2300,2025,New,114,0,3,None,1,2,0,None,0,399 900 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd46314,vbd46314,Apartment,Brussels,1000,1957,Normal,68,0,2,1,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1120/neder-over-heembeek/vbd32100,vbd32100,Apartment,Neder-Over-Heembeek,1120,2022,Normal,54,None,1,None,1,2,1,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu66749,rbu66749,Apartment,Turnhout,2300,2025,New,65,0,1,None,1,2,0,None,0,232 900 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd46398,vbd46398,Apartment,Brussels,1000,1903,Normal,154,1,4,1,1,2,0,None,0,575 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu66751,rbu66751,Apartment,Turnhout,2300,2025,New,114,0,3,None,1,2,0,None,0,407 900 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd46453,vbd46453,Apartment,Brussels,1000,2005,Excellent,227,None,2,None,1,None,0,None,0,800 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1120/neder-over-heembeek/vbd45752,vbd45752,Apartment,Neder-Over-Heembeek,1120,2014,Excellent,118,0,3,1,1,2,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rwc41154,rwc41154,Apartment,Turnhout,2300,2009,Excellent,119,None,3,1,1,3,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd46767,vbd46767,Apartment,Brussels,1000,2017,Normal,29,None,1,None,0,None,0,None,0,150 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1130/haren/vbd48916,vbd48916,Apartment,Haren,1130,1939,None,117,0,2,None,1,None,1,100,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2310/rijkevorsel/rbu48653,rbu48653,Apartment,Rijkevorsel,2310,2025,New,181,0,3,None,1,4,0,None,0,567 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/rbu37326,rbu37326,Apartment,Evere,1140,None,Normal,67,0,2,None,0,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47140,vbd47140,Apartment,Brussels,1000,1935,Normal,118,0,2,None,0,3,0,None,0,375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2310/rijkevorsel/rbu64861,rbu64861,Apartment,Rijkevorsel,2310,1992,Normal,98,0,2,1,1,2,1,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/rbu43634,rbu43634,Apartment,Evere,1140,1970,To be renovated,60,0,1,None,1,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47222,vbd47222,Apartment,Brussels,1000,None,None,169,None,3,None,0,3,0,None,0,715 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47510,vbd47510,Apartment,Brussels,1000,None,Normal,255,None,3,None,1,None,0,None,0,650 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/rbu66910,rbu66910,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/2320/hoogstraten/rbu00667,rbu00667,Apartment,Hoogstraten,2320,2003,None,125,0,2,None,1,None,1,None,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd11516,vbd11516,Apartment,Evere,1140,2026,New,89,0,2,None,1,2,0,None,0,369 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2320/hoogstraten/rbu00670,rbu00670,Apartment,Hoogstraten,2320,2003,None,142,0,2,None,1,None,1,None,0,419 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47513,vbd47513,Apartment,Brussels,1000,None,Excellent,109,None,3,None,1,2,0,None,0,435 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2320/hoogstraten/rbu36149,rbu36149,Apartment,Hoogstraten,2320,2000,New,73,0,1,None,1,2,1,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd16680,vbd16680,Apartment,Evere,1140,None,Normal,64,0,1,None,0,None,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47632,vbd47632,Apartment,Brussels,1000,2004,Excellent,45,0,1,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd22756,vbd22756,Apartment,Evere,1140,None,None,89,None,2,None,1,4,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47638,vbd47638,Apartment,Brussels,1000,None,None,181,None,2,None,1,2,0,None,0,675 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2320/hoogstraten/rbu62755,rbu62755,Apartment,Hoogstraten,2320,2015,Normal,87,0,2,None,1,None,0,None,0,390 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd44767,vbd44767,Apartment,Evere,1140,2025,New,83,None,2,1,1,2,1,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2340/beerse/rbu00657,rbu00657,Apartment,Beerse,2340,None,Normal,530,0,12,None,1,4,1,None,0,1 195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47828,vbd47828,Apartment,Brussels,1000,1925,Excellent,50,0,1,None,1,2,0,None,0,249 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2350/vosselaar/rbr90698,rbr90698,Apartment,Vosselaar,2350,2024,New,112,0,2,1,1,3,0,None,0,405 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd44775,vbd44775,Apartment,Evere,1140,1969,To renovate,76,0,2,None,1,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47830,vbd47830,Apartment,Brussels,1000,1840,Excellent,192,0,3,1,0,2,0,None,0,750 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2350/vosselaar/rbr90702,rbr90702,Apartment,Vosselaar,2350,2024,New,94,0,2,1,1,3,0,None,0,380 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd44932,vbd44932,Apartment,Evere,1140,None,Normal,100,0,2,None,1,None,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd47893,vbd47893,Apartment,Brussels,1000,1962,None,45,1,1,None,0,None,0,None,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd48223,vbd48223,Apartment,Brussels,1000,None,None,70,1,2,None,1,2,0,None,0,450 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2360/oud-turnhout/rbu60983,rbu60983,Apartment,Oud-Turnhout,2360,1985,None,93,0,2,None,1,2,1,None,0,174 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd45793,vbd45793,Apartment,Evere,1140,1977,Normal,50,0,1,1,1,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd48437,vbd48437,Apartment,Brussels,1000,None,Normal,48,0,1,None,0,2,0,None,0,188 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd46559,vbd46559,Apartment,Evere,1140,1977,Normal,106,0,2,1,1,None,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2360/oud-turnhout/rbu61593,rbu61593,Apartment,Oud-Turnhout,2360,None,None,81,0,1,None,1,2,0,None,0,169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd48452,vbd48452,Apartment,Brussels,1000,1920,Excellent,140,None,3,None,0,2,0,None,1,440 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd46755,vbd46755,Apartment,Evere,1140,1977,Normal,96,None,1,None,1,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2400/mol/rbu56941,rbu56941,Apartment,Mol,2400,2005,None,130,None,2,None,1,None,0,None,0,359 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd46968,vbd46968,Apartment,Evere,1140,1975,To be renovated,87,None,2,None,1,None,0,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd48459,vbd48459,Apartment,Brussels,1000,2025,New,61,None,1,1,1,2,0,None,0,301 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2400/mol/rbu59593,rbu59593,Apartment,Mol,2400,None,New,None,None,2,None,1,None,1,None,0,434 532 €
+https://immovlan.be/en/detail/apartment/for-sale/2400/mol/rbu62710,rbu62710,Apartment,Mol,2400,1997,Normal,121,0,3,None,1,3,0,None,0,200 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd48605,vbd48605,Apartment,Brussels,1000,None,Normal,71,None,1,None,0,None,0,None,0,Make offer from 270 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd47016,vbd47016,Apartment,Evere,1140,None,Normal,72,0,2,1,1,2,0,None,0,270 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2400/mol/rbu63103,rbu63103,Apartment,Mol,2400,2008,None,118,None,2,None,1,None,0,None,0,359 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd48661,vbd48661,Apartment,Brussels,1000,2018,Normal,73,0,1,1,1,None,0,None,0,330 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd47345,vbd47345,Apartment,Evere,1140,None,Normal,75,0,2,None,0,None,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2430/laakdal/rbt83843,rbt83843,Apartment,Laakdal,2430,2016,Excellent,77,None,2,None,1,None,1,None,0,248 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd48737,vbd48737,Apartment,Brussels,1000,1850,Excellent,50,0,1,1,1,2,0,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd47640,vbd47640,Apartment,Evere,1140,2008,Normal,90,0,2,1,1,3,0,None,0,370 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2430/laakdal/rbu62500,rbu62500,Apartment,Laakdal,2430,2023,New,135,0,3,None,1,3,0,None,0,439 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd48915,vbd48915,Apartment,Brussels,1000,1966,None,142,0,2,None,0,None,0,None,0,450 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd47645,vbd47645,Apartment,Evere,1140,None,Fully renovated,73,0,2,1,1,2,0,None,0,267 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49047,vbd49047,Apartment,Brussels,1000,1995,Normal,140,0,2,1,1,2,0,None,0,450 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2430/vorst/rbu32488,rbu32488,Apartment,Vorst,2430,2024,New,89,0,1,None,1,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd48007,vbd48007,Apartment,Evere,1140,1970,Normal,100,0,2,1,1,2,0,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49127,vbd49127,Apartment,Brussels,1000,2015,Excellent,29,1,None,None,0,None,0,None,0,160 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2431/veerle/rbu61608,rbu61608,Apartment,Veerle,2431,2020,Normal,None,None,2,None,1,2,1,None,0,279 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd48008,vbd48008,Apartment,Evere,1140,2021,Excellent,64,0,1,1,0,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49169,vbd49169,Apartment,Brussels,1000,2000,None,90,0,2,None,1,4,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu55484,rbu55484,Apartment,Geel,2440,1964,Excellent,101,0,2,None,1,3,1,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd48088,vbd48088,Apartment,Evere,1140,1972,Excellent,65,0,1,1,1,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49235,vbd49235,Apartment,Brussels,1000,2012,Normal,87,0,2,1,1,None,0,None,0,380 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu55485,rbu55485,Apartment,Geel,2440,1964,Normal,124,0,2,None,1,3,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd48845,vbd48845,Apartment,Evere,1140,2016,Excellent,58,0,1,1,0,None,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu55988,rbu55988,Apartment,Geel,2440,2014,None,85,None,2,None,1,None,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49274,vbd49274,Apartment,Brussels,1000,2022,New,125,0,3,1,0,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd48914,vbd48914,Apartment,Evere,1140,1965,To be renovated,80,0,2,None,0,None,0,None,0,243 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu56328,rbu56328,Apartment,Geel,2440,2023,New,104,None,2,None,1,None,0,None,0,297 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49275,vbd49275,Apartment,Brussels,1000,2022,New,161,0,4,1,0,2,0,None,0,499 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vbd48930,vbd48930,Apartment,Evere,1140,1965,None,60,0,1,None,1,None,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49276,vbd49276,Apartment,Brussels,1000,2022,New,126,0,3,1,0,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu56329,rbu56329,Apartment,Geel,2440,2023,New,104,None,2,None,1,None,0,None,0,297 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1140/evere/vwd15234,vwd15234,Apartment,Evere,1140,2020,Excellent,101,None,2,1,1,2,0,None,0,449 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu57975,rbu57975,Apartment,Geel,2440,2010,Excellent,81,None,2,1,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/rbu62557,rbu62557,Apartment,Sint-Pieters-Woluwe,1150,1988,Excellent,161,0,3,None,1,3,0,None,0,675 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49277,vbd49277,Apartment,Brussels,1000,2022,New,126,0,3,1,0,2,0,None,0,410 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu60236,rbu60236,Apartment,Geel,2440,2015,Excellent,92,None,2,None,1,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49337,vbd49337,Apartment,Brussels,1000,1974,Normal,48,None,1,None,0,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd44260,vbd44260,Apartment,Sint-Pieters-Woluwe,1150,None,None,85,0,2,None,1,None,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49537,vbd49537,Apartment,Brussels,1000,2008,Excellent,93,1,2,None,1,None,0,None,0,420 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu60237,rbu60237,Apartment,Geel,2440,1978,None,95,None,2,None,1,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd44938,vbd44938,Apartment,Sint-Pieters-Woluwe,1150,2011,Excellent,110,0,2,1,1,3,0,None,0,610 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49539,vbd49539,Apartment,Brussels,1000,2015,Excellent,37,1,None,None,0,None,0,None,0,155 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu60701,rbu60701,Apartment,Geel,2440,2024,New,102,0,2,None,1,2,1,None,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd45686,vbd45686,Apartment,Sint-Pieters-Woluwe,1150,1995,Normal,120,0,3,1,1,2,0,None,0,695 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd49572,vbd49572,Apartment,Brussels,1000,1975,To be renovated,55,None,1,1,1,2,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu60702,rbu60702,Apartment,Geel,2440,2024,New,63,0,2,None,1,2,1,None,0,200 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd45689,vbd45689,Apartment,Sint-Pieters-Woluwe,1150,2006,Excellent,115,1,2,1,1,None,0,None,0,565 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu60704,rbu60704,Apartment,Geel,2440,2024,New,64,0,2,None,1,2,1,None,0,200 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd50029,vbd50029,Apartment,Brussels,1000,2005,Normal,128,0,2,1,1,2,0,None,0,505 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd45869,vbd45869,Apartment,Sint-Pieters-Woluwe,1150,2024,New,136,0,3,1,1,2,0,None,0,748 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu60705,rbu60705,Apartment,Geel,2440,2024,New,95,0,2,None,1,2,1,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vbd50036,vbd50036,Apartment,Brussels,1000,None,None,350,0,5,None,1,2,0,None,0,1 399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd46734,vbd46734,Apartment,Sint-Pieters-Woluwe,1150,1973,None,160,0,4,None,1,None,1,None,0,495 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu61429,rbu61429,Apartment,Geel,2440,2019,None,91,None,2,None,1,None,0,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1000/brussels/vwd15233,vwd15233,Apartment,Brussels,1000,1900,Excellent,122,None,2,1,0,3,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd47180,vbd47180,Apartment,Sint-Pieters-Woluwe,1150,1962,Normal,100,0,3,1,1,None,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu61587,rbu61587,Apartment,Geel,2440,1946,Normal,156,0,4,None,0,3,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/rbt72000,rbt72000,Apartment,Laken,1020,None,None,90,0,2,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd47459,vbd47459,Apartment,Sint-Pieters-Woluwe,1150,1964,Normal,77,0,2,1,1,2,0,None,0,330 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu62108,rbu62108,Apartment,Geel,2440,1978,Normal,99,0,2,None,1,2,0,None,0,196 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/rbu38609,rbu38609,Apartment,Laken,1020,None,None,125,0,3,None,1,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd48320,vbd48320,Apartment,Sint-Pieters-Woluwe,1150,1959,Normal,78,0,2,1,1,2,1,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu62109,rbu62109,Apartment,Geel,2440,2015,Excellent,57,0,1,None,1,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/rbu61308,rbu61308,Apartment,Laken,1020,None,New,None,None,2,None,None,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd48670,vbd48670,Apartment,Sint-Pieters-Woluwe,1150,1953,Excellent,96,0,2,1,1,2,0,None,0,390 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu63099,rbu63099,Apartment,Geel,2440,1962,None,82,None,2,None,1,None,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/rbu61311,rbu61311,Apartment,Laken,1020,None,New,None,None,2,None,1,2,1,None,0,Make offer from 365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd49335,vbd49335,Apartment,Sint-Pieters-Woluwe,1150,1960,Normal,107,0,2,None,1,2,0,None,0,415 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1150/sint-pieters-woluwe/vbd49889,vbd49889,Apartment,Sint-Pieters-Woluwe,1150,None,None,214,0,4,None,1,None,1,267,0,950 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu64232,rbu64232,Apartment,Geel,2440,2020,Normal,71,0,1,None,1,None,1,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/rbu61312,rbu61312,Apartment,Laken,1020,None,New,None,None,None,None,1,2,1,None,0,240 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/rbu62666,rbu62666,Apartment,Laken,1020,1959,Normal,85,0,2,None,1,3,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu66378,rbu66378,Apartment,Geel,2440,1995,Normal,220,0,3,None,1,None,0,None,0,575 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/rbu61315,rbu61315,Apartment,Oudergem,1160,2025,New,92,None,3,None,1,2,1,None,0,645 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd44816,vbd44816,Apartment,Laken,1020,2020,New,65,0,1,1,1,2,0,None,0,Make offer from 249 999 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rbu66861,rbu66861,Apartment,Geel,2440,2010,Excellent,59,None,1,None,1,4,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd17956,vbd17956,Apartment,Oudergem,1160,None,Normal,78,0,1,None,0,2,0,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd45535,vbd45535,Apartment,Laken,1020,None,Normal,102,None,2,1,1,2,1,55,0,Make offer from 319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2440/geel/rwc41150,rwc41150,Apartment,Geel,2440,None,None,85,None,2,None,1,None,0,None,0,264 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd41882,vbd41882,Apartment,Oudergem,1160,None,Normal,110,0,3,None,1,3,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2450/meerhout/rbu55486,rbu55486,Apartment,Meerhout,2450,2024,New,104,0,2,None,1,2,0,None,0,271 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd44912,vbd44912,Apartment,Oudergem,1160,1960,To be renovated,98,None,2,1,1,None,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd45956,vbd45956,Apartment,Laken,1020,None,None,80,None,2,None,1,2,0,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd45693,vbd45693,Apartment,Oudergem,1160,None,Normal,63,0,1,None,1,None,1,22,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2450/meerhout/rbu55487,rbu55487,Apartment,Meerhout,2450,2024,New,80,0,1,None,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd45957,vbd45957,Apartment,Laken,1020,None,None,80,None,2,None,1,2,0,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd45960,vbd45960,Apartment,Laken,1020,None,None,80,None,2,None,1,2,0,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd45694,vbd45694,Apartment,Oudergem,1160,2024,New,134,0,3,1,1,2,1,50,0,780 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2450/meerhout/rbu60992,rbu60992,Apartment,Meerhout,2450,2019,None,88,0,1,None,0,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd45954,vbd45954,Apartment,Oudergem,1160,2012,Normal,70,0,1,1,1,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd46084,vbd46084,Apartment,Laken,1020,None,None,120,None,2,None,1,3,0,None,0,354 900 €
+https://immovlan.be/en/detail/apartment/for-sale/2490/balen/rbr94056,rbr94056,Apartment,Balen,2490,1965,None,261,0,3,None,0,3,1,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd46558,vbd46558,Apartment,Oudergem,1160,1965,Normal,89,0,2,1,1,2,0,None,0,360 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd46087,vbd46087,Apartment,Laken,1020,None,None,130,None,3,None,1,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2490/balen/rbu09922,rbu09922,Apartment,Balen,2490,1997,None,143,0,2,None,1,2,0,None,0,310 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd46405,vbd46405,Apartment,Laken,1020,1960,To be renovated,35,None,1,None,0,2,0,None,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2490/balen/rbu64326,rbu64326,Apartment,Balen,2490,2020,None,135,None,2,None,1,2,1,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd46653,vbd46653,Apartment,Oudergem,1160,1960,Normal,93,0,2,1,1,2,0,None,0,387 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/koningshooikt/rbu56158,rbu56158,Apartment,Koningshooikt,2500,2011,None,97,None,None,None,1,None,1,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd46809,vbd46809,Apartment,Laken,1020,None,None,120,None,3,None,1,3,0,None,0,354 900 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd47358,vbd47358,Apartment,Oudergem,1160,2024,New,91,0,2,1,1,None,0,None,0,545 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/koningshooikt/rbu62277,rbu62277,Apartment,Koningshooikt,2500,2026,New,86,0,1,1,1,2,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd46821,vbd46821,Apartment,Laken,1020,1971,To renovate,69,None,1,None,1,None,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd47360,vbd47360,Apartment,Oudergem,1160,2024,New,94,0,2,1,1,None,0,None,0,570 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd46859,vbd46859,Apartment,Laken,1020,1923,Normal,218,0,2,1,1,2,1,1400,0,540 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd47361,vbd47361,Apartment,Oudergem,1160,2024,New,74,0,1,1,1,None,0,None,0,440 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/koningshooikt/rbu62278,rbu62278,Apartment,Koningshooikt,2500,2026,New,110,1,2,1,1,2,0,None,0,375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd47411,vbd47411,Apartment,Oudergem,1160,2010,Excellent,210,0,3,1,1,None,1,11,0,750 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd47098,vbd47098,Apartment,Laken,1020,1953,To renovate,87,None,2,1,1,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/koningshooikt/rbu62279,rbu62279,Apartment,Koningshooikt,2500,2026,New,104,0,2,1,1,3,0,None,0,358 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd48969,vbd48969,Apartment,Laken,1020,1974,To renovate,80,None,2,1,1,3,1,85,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/koningshooikt/rbu62280,rbu62280,Apartment,Koningshooikt,2500,2026,New,85,0,1,1,1,2,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd48178,vbd48178,Apartment,Oudergem,1160,None,None,35,None,None,None,1,2,1,None,0,125 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd48971,vbd48971,Apartment,Laken,1020,1964,Excellent,102,0,3,1,1,2,0,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd48730,vbd48730,Apartment,Oudergem,1160,2024,New,127,0,3,1,1,3,0,None,0,645 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/koningshooikt/rbu62281,rbu62281,Apartment,Koningshooikt,2500,2026,New,108,0,2,1,1,3,0,None,0,375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd48973,vbd48973,Apartment,Laken,1020,1970,Excellent,70,0,1,1,1,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd48731,vbd48731,Apartment,Oudergem,1160,2024,New,127,0,3,1,1,3,0,None,0,655 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/koningshooikt/rbu62282,rbu62282,Apartment,Koningshooikt,2500,2026,New,104,0,2,1,1,3,0,None,0,358 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd48991,vbd48991,Apartment,Laken,1020,1910,To be renovated,600,0,6,None,0,2,0,None,0,560 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1160/oudergem/vbd49069,vbd49069,Apartment,Oudergem,1160,2024,New,91,0,2,1,1,3,1,None,0,475 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rbu38107,rbu38107,Apartment,Lier,2500,2022,New,97,0,2,None,1,2,0,None,0,339 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1020/laken/vbd49024,vbd49024,Apartment,Laken,1020,None,Normal,74,None,1,1,1,2,0,None,0,210 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1170/watermaal-bosvoorde/vbd22725,vbd22725,Apartment,Watermaal-Bosvoorde,1170,1967,To be renovated,80,0,2,None,1,None,0,None,0,230 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rbu38112,rbu38112,Apartment,Lier,2500,2023,New,116,0,2,None,1,2,1,27,0,361 200 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rbu55768,rbu55768,Apartment,Lier,2500,1967,Excellent,91,None,2,None,1,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/rbu60046,rbu60046,Apartment,Schaarbeek,1030,None,To renovate,105,None,2,None,1,None,0,None,0,280 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1170/watermaal-bosvoorde/vbd38079,vbd38079,Apartment,Watermaal-Bosvoorde,1170,1958,To be renovated,107,0,3,None,1,4,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/rbu63098,rbu63098,Apartment,Schaarbeek,1030,2011,Excellent,63,None,1,1,1,2,1,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rbu56173,rbu56173,Apartment,Lier,2500,2024,None,93,None,2,None,1,2,1,None,0,348 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1170/watermaal-bosvoorde/vbd40616,vbd40616,Apartment,Watermaal-Bosvoorde,1170,1977,None,49,0,1,None,0,None,0,None,0,300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/rbu66622,rbu66622,Apartment,Schaarbeek,1030,1956,Normal,89,0,2,1,1,2,0,None,0,335 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rbu64768,rbu64768,Apartment,Lier,2500,2010,Excellent,125,None,3,None,1,2,1,None,0,440 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1170/watermaal-bosvoorde/vbd46746,vbd46746,Apartment,Watermaal-Bosvoorde,1170,2025,New,150,None,3,None,1,2,0,None,0,679 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rbu66666,rbu66666,Apartment,Lier,2500,None,Excellent,103,0,3,None,1,2,0,None,0,385 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1170/watermaal-bosvoorde/vbd47460,vbd47460,Apartment,Watermaal-Bosvoorde,1170,1966,Excellent,90,0,2,1,1,2,0,None,0,450 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd19830,vbd19830,Apartment,Schaarbeek,1030,2015,Excellent,115,0,2,1,0,2,0,None,0,445 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/rbu11894,rbu11894,Apartment,Ukkel,1180,None,Normal,80,0,2,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd23339,vbd23339,Apartment,Schaarbeek,1030,1964,Normal,96,None,2,1,1,None,0,None,1,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rwc41005,rwc41005,Apartment,Lier,2500,None,None,65,None,1,None,1,None,0,None,0,239 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rwc41006,rwc41006,Apartment,Lier,2500,None,None,85,None,2,None,1,None,0,None,0,263 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/rwc31942,rwc31942,Apartment,Ukkel,1180,1975,Excellent,110,None,2,1,1,3,0,None,0,359 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd30416,vbd30416,Apartment,Schaarbeek,1030,1938,Normal,110,None,2,1,0,2,0,None,0,270 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2500/lier/rwc41121,rwc41121,Apartment,Lier,2500,None,Excellent,90,None,2,None,1,None,0,None,0,299 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd23087,vbd23087,Apartment,Ukkel,1180,1978,Normal,196,0,2,1,1,4,0,None,0,565 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd37474,vbd37474,Apartment,Schaarbeek,1030,None,Normal,97,0,2,None,1,2,0,None,0,289 900 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd33395,vbd33395,Apartment,Ukkel,1180,1936,To be renovated,145,None,2,None,1,2,0,None,0,498 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2520/ranst/rbu66577,rbu66577,Apartment,Ranst,2520,2024,Normal,100,0,2,None,1,None,0,None,0,359 985 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd38037,vbd38037,Apartment,Schaarbeek,1030,1970,None,55,0,2,None,1,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd39027,vbd39027,Apartment,Schaarbeek,1030,2012,Normal,72,None,1,1,1,None,0,None,0,240 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd37004,vbd37004,Apartment,Ukkel,1180,1968,To renovate,80,None,2,1,1,2,0,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2530/boechout/rbu37770,rbu37770,Apartment,Boechout,2530,None,Normal,82,None,1,None,1,None,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd41236,vbd41236,Apartment,Ukkel,1180,None,Normal,65,0,2,1,1,None,0,None,0,Make offer from 319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd42452,vbd42452,Apartment,Schaarbeek,1030,1903,None,52,0,1,None,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2530/boechout/rbu58433,rbu58433,Apartment,Boechout,2530,2023,New,96,0,2,None,1,2,1,1150,0,424 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2530/boechout/rbu58948,rbu58948,Apartment,Boechout,2530,2019,Excellent,185,None,3,None,1,None,1,None,0,765 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd42453,vbd42453,Apartment,Schaarbeek,1030,1903,None,65,0,1,None,1,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd41803,vbd41803,Apartment,Ukkel,1180,2005,Normal,139,1,5,None,1,None,0,None,0,460 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2547/lint/rbu60240,rbu60240,Apartment,Lint,2547,1978,Normal,80,0,2,None,1,3,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd44839,vbd44839,Apartment,Schaarbeek,1030,1903,None,52,0,1,None,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd42872,vbd42872,Apartment,Ukkel,1180,2024,None,132,0,3,None,1,4,1,244,0,595 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd45418,vbd45418,Apartment,Schaarbeek,1030,1933,Normal,101,0,1,None,0,3,1,85,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2550/kontich/rbu55937,rbu55937,Apartment,Kontich,2550,2007,None,91,None,2,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd44693,vbd44693,Apartment,Ukkel,1180,1966,None,67,0,1,None,1,2,0,None,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd45698,vbd45698,Apartment,Schaarbeek,1030,1959,To be renovated,105,0,3,None,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2550/kontich/rbu56987,rbu56987,Apartment,Kontich,2550,2012,Excellent,56,None,1,1,1,2,0,None,1,157 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd44813,vbd44813,Apartment,Ukkel,1180,None,To renovate,80,0,2,1,0,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd45952,vbd45952,Apartment,Schaarbeek,1030,1929,Normal,79,0,1,None,1,2,0,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2550/kontich/rbu62200,rbu62200,Apartment,Kontich,2550,None,Normal,56,0,1,None,0,3,0,None,0,198 700 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd45183,vbd45183,Apartment,Ukkel,1180,1930,Normal,71,0,1,None,0,None,0,None,0,230 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2550/kontich/rbu64835,rbu64835,Apartment,Kontich,2550,2001,None,124,None,3,None,1,None,0,None,0,379 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd45953,vbd45953,Apartment,Schaarbeek,1030,1960,To renovate,83,0,2,1,1,2,0,None,0,330 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd45873,vbd45873,Apartment,Ukkel,1180,1931,To be renovated,40,0,1,None,0,2,0,None,0,200 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd46292,vbd46292,Apartment,Schaarbeek,1030,1988,Excellent,85,0,2,1,0,4,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2560/kessel/rbt90731,rbt90731,Apartment,Kessel,2560,2020,Normal,133,0,3,None,1,3,0,None,0,420 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd45889,vbd45889,Apartment,Ukkel,1180,None,None,39,None,None,None,1,2,0,None,0,178 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd46386,vbd46386,Apartment,Schaarbeek,1030,1966,Normal,81,0,2,None,1,None,0,None,0,300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd45919,vbd45919,Apartment,Ukkel,1180,2027,New,83,0,2,1,1,2,0,None,0,602 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2560/nijlen/rbu62437,rbu62437,Apartment,Nijlen,2560,2022,Normal,107,0,2,None,1,2,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd46550,vbd46550,Apartment,Schaarbeek,1030,None,Normal,70,0,1,1,1,2,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2570/duffel/rbu55509,rbu55509,Apartment,Duffel,2570,1962,None,65,None,2,None,0,None,0,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd45936,vbd45936,Apartment,Ukkel,1180,2026,New,116,0,2,1,1,3,1,None,0,492 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd46671,vbd46671,Apartment,Schaarbeek,1030,1957,None,90,0,2,None,1,2,0,None,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd45976,vbd45976,Apartment,Ukkel,1180,1972,To renovate,65,0,2,None,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2570/duffel/rbu58395,rbu58395,Apartment,Duffel,2570,1993,None,87,None,2,None,1,2,1,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd46765,vbd46765,Apartment,Schaarbeek,1030,1953,To renovate,83,None,2,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46251,vbd46251,Apartment,Ukkel,1180,None,None,130,None,3,None,1,4,0,None,0,525 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu58393,rbu58393,Apartment,Beerzel,2580,2025,New,94,None,2,None,1,2,0,None,0,335 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd46860,vbd46860,Apartment,Schaarbeek,1030,1930,To renovate,85,0,2,1,1,2,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46311,vbd46311,Apartment,Ukkel,1180,1965,None,160,0,2,None,1,None,0,None,0,625 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu62732,rbu62732,Apartment,Beerzel,2580,2006,None,100,None,2,None,1,3,0,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46380,vbd46380,Apartment,Ukkel,1180,1978,Excellent,240,1,4,1,1,None,0,None,1,1 050 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd46923,vbd46923,Apartment,Schaarbeek,1030,1958,Normal,97,0,2,None,0,2,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65664,rbu65664,Apartment,Beerzel,2580,2028,New,174,None,3,None,1,None,1,None,0,699 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46523,vbd46523,Apartment,Ukkel,1180,1965,None,70,None,3,1,0,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd47040,vbd47040,Apartment,Schaarbeek,1030,1940,Normal,55,0,1,1,0,2,0,None,0,Make offer from 169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65665,rbu65665,Apartment,Beerzel,2580,2028,New,102,None,2,None,1,None,1,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd47082,vbd47082,Apartment,Schaarbeek,1030,1920,None,73,None,2,None,0,2,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65666,rbu65666,Apartment,Beerzel,2580,2028,New,100,None,2,None,1,None,1,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46663,vbd46663,Apartment,Ukkel,1180,None,Excellent,26,1,1,None,0,2,1,None,0,110 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65667,rbu65667,Apartment,Beerzel,2580,2028,New,93,None,2,None,1,None,1,None,0,329 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd47083,vbd47083,Apartment,Schaarbeek,1030,1920,None,67,None,1,None,0,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46827,vbd46827,Apartment,Ukkel,1180,None,None,110,0,2,None,1,4,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65668,rbu65668,Apartment,Beerzel,2580,2028,New,101,None,2,None,1,None,1,None,0,359 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46840,vbd46840,Apartment,Ukkel,1180,1966,Fully renovated,165,0,3,1,1,2,0,None,1,640 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd47097,vbd47097,Apartment,Schaarbeek,1030,1911,Normal,144,None,3,None,1,2,1,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46873,vbd46873,Apartment,Ukkel,1180,1973,None,93,0,2,None,1,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd47224,vbd47224,Apartment,Schaarbeek,1030,None,To be renovated,51,0,1,None,0,None,0,None,0,125 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65669,rbu65669,Apartment,Beerzel,2580,2028,New,114,None,2,None,1,None,1,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd46944,vbd46944,Apartment,Ukkel,1180,1961,Normal,118,0,2,1,1,2,0,None,0,470 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd47353,vbd47353,Apartment,Schaarbeek,1030,1900,Fully renovated,111,0,2,None,1,None,1,12,0,437 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65670,rbu65670,Apartment,Beerzel,2580,2028,New,104,None,2,None,1,None,1,None,0,369 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd48175,vbd48175,Apartment,Schaarbeek,1030,1962,None,112,0,2,None,1,None,0,None,0,330 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47213,vbd47213,Apartment,Ukkel,1180,None,None,167,None,3,None,1,4,0,None,0,800 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65671,rbu65671,Apartment,Beerzel,2580,2028,New,90,None,2,None,1,None,1,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47336,vbd47336,Apartment,Ukkel,1180,None,Excellent,120,None,2,1,1,2,0,None,0,499 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd48485,vbd48485,Apartment,Schaarbeek,1030,2015,Excellent,96,0,2,1,1,2,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65672,rbu65672,Apartment,Beerzel,2580,2028,New,90,None,2,None,1,None,1,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65673,rbu65673,Apartment,Beerzel,2580,2028,New,111,None,2,None,1,None,1,None,0,379 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47368,vbd47368,Apartment,Ukkel,1180,1970,To renovate,186,0,3,1,1,4,0,None,0,520 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd48939,vbd48939,Apartment,Schaarbeek,1030,None,Normal,82,0,1,None,1,None,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65674,rbu65674,Apartment,Beerzel,2580,2028,New,101,None,2,None,1,None,1,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd49025,vbd49025,Apartment,Schaarbeek,1030,2011,Normal,67,0,1,None,1,2,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47511,vbd47511,Apartment,Ukkel,1180,1977,Fully renovated,140,None,2,None,1,None,0,None,0,495 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd49124,vbd49124,Apartment,Schaarbeek,1030,None,To be renovated,96,None,1,None,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/beerzel/rbu65675,rbu65675,Apartment,Beerzel,2580,2028,New,81,None,2,None,1,None,1,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47591,vbd47591,Apartment,Ukkel,1180,None,None,48,0,1,None,1,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2580/putte/rbu61412,rbu61412,Apartment,Putte,2580,2012,Normal,93,0,2,None,1,None,0,None,0,379 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd49181,vbd49181,Apartment,Schaarbeek,1030,1984,Normal,84,0,2,1,1,None,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47817,vbd47817,Apartment,Ukkel,1180,1976,Fully renovated,112,0,2,1,1,4,0,None,0,585 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2600/berchem/rbu13087,rbu13087,Apartment,Berchem,2600,None,Normal,120,0,3,None,0,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47818,vbd47818,Apartment,Ukkel,1180,1970,Excellent,240,1,4,None,1,None,0,None,1,1 050 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd49250,vbd49250,Apartment,Schaarbeek,1030,1969,Normal,78,0,1,1,0,2,0,None,0,Make offer from 249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47865,vbd47865,Apartment,Ukkel,1180,None,None,90,None,2,None,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2600/berchem/rbu59373,rbu59373,Apartment,Berchem,2600,1974,None,97,None,2,None,1,None,0,None,0,224 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd49269,vbd49269,Apartment,Schaarbeek,1030,2026,New,78,0,2,1,1,2,1,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd47900,vbd47900,Apartment,Ukkel,1180,1920,Normal,130,0,3,None,1,2,1,19,0,499 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2600/berchem/rbu61334,rbu61334,Apartment,Berchem,2600,1970,None,115,None,2,None,1,None,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd49733,vbd49733,Apartment,Schaarbeek,1030,None,To be renovated,32,0,1,None,1,2,0,None,0,105 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd48067,vbd48067,Apartment,Ukkel,1180,1963,Normal,95,0,2,1,1,2,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2600/berchem/rbu61419,rbu61419,Apartment,Berchem,2600,1978,Normal,70,0,2,None,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd49892,vbd49892,Apartment,Schaarbeek,1030,1964,Normal,132,0,3,None,1,2,0,None,0,380 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2600/berchem/rbu66614,rbu66614,Apartment,Berchem,2600,2019,New,53,0,1,None,1,None,0,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd49948,vbd49948,Apartment,Schaarbeek,1030,1936,To be renovated,81,None,2,None,1,2,0,None,0,Make offer from 220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd48090,vbd48090,Apartment,Ukkel,1180,1931,To be renovated,55,None,2,None,None,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd50087,vbd50087,Apartment,Schaarbeek,1030,None,None,75,None,2,None,0,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd48094,vbd48094,Apartment,Ukkel,1180,1966,Normal,158,0,3,1,1,2,0,None,1,640 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2600/berchem/rwc41167,rwc41167,Apartment,Berchem,2600,2001,Normal,169,None,3,1,1,None,0,None,0,495 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1030/schaarbeek/vbd50104,vbd50104,Apartment,Schaarbeek,1030,1950,Normal,80,0,2,None,0,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd48775,vbd48775,Apartment,Ukkel,1180,1975,Fully renovated,90,0,2,1,1,2,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbu55788,rbu55788,Apartment,Wilrijk,2610,None,Normal,63,None,2,None,1,None,0,None,0,230 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbu57340,rbu57340,Apartment,Wilrijk,2610,1972,Normal,86,0,2,None,1,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd39022,vbd39022,Apartment,Etterbeek,1040,None,To renovate,60,0,2,1,0,2,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49043,vbd49043,Apartment,Ukkel,1180,2006,Normal,147,0,4,1,1,4,0,None,0,410 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbu58378,rbu58378,Apartment,Wilrijk,2610,1978,To be renovated,148,0,2,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd45223,vbd45223,Apartment,Etterbeek,1040,None,Normal,110,None,2,1,1,2,0,None,0,Make offer from 450 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49153,vbd49153,Apartment,Ukkel,1180,2020,Excellent,127,0,2,1,1,2,1,None,0,850 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbu58408,rbu58408,Apartment,Wilrijk,2610,1971,None,50,None,1,None,0,None,0,None,0,205 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd45244,vbd45244,Apartment,Etterbeek,1040,None,Excellent,82,None,2,1,1,2,0,None,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49154,vbd49154,Apartment,Ukkel,1180,2020,Excellent,126,0,2,1,1,2,1,None,0,790 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd45396,vbd45396,Apartment,Etterbeek,1040,1927,Normal,73,0,1,1,1,2,0,None,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbu58535,rbu58535,Apartment,Wilrijk,2610,1960,To be renovated,65,None,1,None,1,None,1,27,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd45925,vbd45925,Apartment,Etterbeek,1040,2027,New,128,0,3,1,1,2,0,None,0,730 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49177,vbd49177,Apartment,Ukkel,1180,2020,Excellent,127,0,2,1,1,2,1,None,0,850 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbu60694,rbu60694,Apartment,Wilrijk,2610,1970,To be renovated,108,0,2,None,1,2,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd45926,vbd45926,Apartment,Etterbeek,1040,2027,New,69,0,1,1,1,2,0,None,0,390 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49188,vbd49188,Apartment,Ukkel,1180,1958,Excellent,150,0,2,1,1,3,0,None,0,500 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbu66855,rbu66855,Apartment,Wilrijk,2610,None,Fully renovated,96,None,2,None,1,None,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd45927,vbd45927,Apartment,Etterbeek,1040,2027,New,82,0,2,1,0,2,0,None,0,486 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49333,vbd49333,Apartment,Ukkel,1180,2023,New,113,0,2,1,1,2,1,None,0,599 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2610/wilrijk/rbu66882,rbu66882,Apartment,Wilrijk,2610,1965,Normal,96,0,1,None,1,None,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd47331,vbd47331,Apartment,Etterbeek,1040,None,To renovate,70,0,2,1,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49383,vbd49383,Apartment,Ukkel,1180,2023,New,113,0,2,1,1,None,0,None,0,599 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2620/hemiksem/rbu59610,rbu59610,Apartment,Hemiksem,2620,1974,None,100,None,2,None,0,None,0,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2620/hemiksem/rbu59611,rbu59611,Apartment,Hemiksem,2620,1974,None,70,None,None,None,0,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd47461,vbd47461,Apartment,Etterbeek,1040,2014,Excellent,88,1,2,1,1,2,0,None,0,495 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49679,vbd49679,Apartment,Ukkel,1180,2022,New,113,0,2,1,1,2,1,None,0,599 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2620/hemiksem/rbu60757,rbu60757,Apartment,Hemiksem,2620,1976,Normal,88,None,3,None,1,None,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd47462,vbd47462,Apartment,Etterbeek,1040,None,New,79,None,1,1,1,2,0,None,0,498 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd49706,vbd49706,Apartment,Ukkel,1180,2022,New,113,0,2,1,1,2,1,None,0,599 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2620/hemiksem/rbu64295,rbu64295,Apartment,Hemiksem,2620,2020,Excellent,83,0,2,None,1,2,0,None,0,389 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd48204,vbd48204,Apartment,Etterbeek,1040,None,None,48,0,1,None,0,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd50030,vbd50030,Apartment,Ukkel,1180,2024,New,95,0,2,1,1,2,0,None,0,362 600 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd48668,vbd48668,Apartment,Etterbeek,1040,1930,Normal,300,0,3,1,1,None,0,None,0,1 050 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2630/aartselaar/rbu61550,rbu61550,Apartment,Aartselaar,2630,1992,None,100,0,2,None,0,None,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vbd50031,vbd50031,Apartment,Ukkel,1180,2024,New,109,0,3,1,1,2,0,None,0,437 250 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd48776,vbd48776,Apartment,Etterbeek,1040,1929,Normal,300,0,3,1,1,2,0,None,0,1 050 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2640/mortsel/rbu61418,rbu61418,Apartment,Mortsel,2640,1932,To be renovated,78,0,2,None,1,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1180/ukkel/vwd15598,vwd15598,Apartment,Ukkel,1180,2010,Excellent,85,None,2,1,1,4,0,None,0,495 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd48921,vbd48921,Apartment,Etterbeek,1040,1904,Normal,70,0,2,None,0,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2640/mortsel/rbu62157,rbu62157,Apartment,Mortsel,2640,None,None,98,0,2,None,1,None,1,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/rbu45852,rbu45852,Apartment,Vorst,1190,1951,To be renovated,61,0,2,None,None,None,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd48926,vbd48926,Apartment,Etterbeek,1040,1966,None,100,0,2,None,1,2,0,None,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2640/mortsel/rbu65758,rbu65758,Apartment,Mortsel,2640,1963,Normal,66,0,2,None,1,2,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/rbu62461,rbu62461,Apartment,Vorst,1190,1994,Normal,103,0,2,1,1,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd49515,vbd49515,Apartment,Etterbeek,1040,1955,None,92,0,2,None,0,None,1,30,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/rbu62605,rbu62605,Apartment,Vorst,1190,None,None,93,None,2,None,1,None,0,None,0,333 900 €
+https://immovlan.be/en/detail/apartment/for-sale/2650/edegem/rbu55907,rbu55907,Apartment,Edegem,2650,1973,Normal,82,0,3,None,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbc29304,vbc29304,Apartment,Vorst,1190,1965,Normal,80,None,2,None,1,None,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1040/etterbeek/vbd49796,vbd49796,Apartment,Etterbeek,1040,1945,None,46,0,1,None,0,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu56345,rbu56345,Apartment,Hoboken,2660,None,None,85,0,2,None,1,None,1,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/rbu61314,rbu61314,Apartment,Elsene,1050,2024,New,106,None,2,None,1,2,0,None,0,565 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu58915,rbu58915,Apartment,Hoboken,2660,1999,Normal,91,0,2,None,1,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbc36557,vbc36557,Apartment,Vorst,1190,None,Normal,55,0,2,1,1,None,0,None,0,205 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu61054,rbu61054,Apartment,Hoboken,2660,None,Normal,75,0,1,None,1,2,0,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd13057,vbd13057,Apartment,Elsene,1050,1965,To be renovated,80,0,2,None,1,2,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd06394,vbd06394,Apartment,Vorst,1190,1905,To be renovated,165,None,1,1,0,2,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu61415,rbu61415,Apartment,Hoboken,2660,2021,New,86,0,2,None,1,2,0,None,0,264 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd30116,vbd30116,Apartment,Elsene,1050,1955,None,170,0,3,None,1,2,1,70,0,795 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd26784,vbd26784,Apartment,Vorst,1190,1970,Normal,44,0,1,1,1,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd26787,vbd26787,Apartment,Vorst,1190,1970,Normal,44,0,1,1,1,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu61551,rbu61551,Apartment,Hoboken,2660,1968,None,60,0,1,None,1,None,0,None,0,146 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd31334,vbd31334,Apartment,Elsene,1050,1960,To renovate,183,1,4,None,1,2,0,None,0,729 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu63092,rbu63092,Apartment,Hoboken,2660,2021,New,50,0,1,None,1,2,1,None,0,198 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd33186,vbd33186,Apartment,Vorst,1190,1965,Normal,55,0,2,1,1,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd41804,vbd41804,Apartment,Elsene,1050,1928,Normal,189,1,7,None,1,None,0,None,0,700 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu63093,rbu63093,Apartment,Hoboken,2660,2021,New,67,0,1,None,1,2,1,57,0,308 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd44556,vbd44556,Apartment,Vorst,1190,1970,To be renovated,93,None,2,None,1,None,0,None,0,255 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd44671,vbd44671,Apartment,Elsene,1050,1938,Fully renovated,94,0,2,None,1,None,0,None,0,345 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd44945,vbd44945,Apartment,Vorst,1190,1960,To be renovated,115,0,3,1,1,2,0,None,0,299 800 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd44976,vbd44976,Apartment,Elsene,1050,1926,Fully renovated,116,0,2,1,1,2,1,None,0,745 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu64285,rbu64285,Apartment,Hoboken,2660,2016,Excellent,70,0,1,None,1,2,1,None,0,255 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd45365,vbd45365,Apartment,Vorst,1190,1962,None,90,0,2,None,1,3,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2660/hoboken/rbu65733,rbu65733,Apartment,Hoboken,2660,2008,None,80,0,2,None,1,None,1,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd44982,vbd44982,Apartment,Elsene,1050,1926,Fully renovated,139,0,3,1,1,2,1,None,0,835 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd45391,vbd45391,Apartment,Vorst,1190,2006,None,180,0,2,None,1,2,1,None,0,598 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu33287,rbu33287,Apartment,Mechelen,2800,None,To be renovated,103,0,2,None,1,3,0,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45051,vbd45051,Apartment,Elsene,1050,None,Excellent,95,0,2,None,1,2,0,None,0,650 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd45745,vbd45745,Apartment,Vorst,1190,1935,To be renovated,91,0,2,None,0,2,0,None,0,345 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu57005,rbu57005,Apartment,Mechelen,2800,1978,Normal,75,0,2,None,1,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45369,vbd45369,Apartment,Elsene,1050,None,To be renovated,80,0,2,None,0,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd46310,vbd46310,Apartment,Vorst,1190,1963,None,107,0,2,None,1,None,0,None,0,340 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45374,vbd45374,Apartment,Elsene,1050,1979,None,84,0,2,None,1,None,0,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu60157,rbu60157,Apartment,Mechelen,2800,1967,None,105,None,3,None,1,None,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45384,vbd45384,Apartment,Elsene,1050,None,None,102,0,3,None,1,None,0,None,0,480 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd46478,vbd46478,Apartment,Vorst,1190,None,None,68,None,2,None,1,None,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu60880,rbu60880,Apartment,Mechelen,2800,1997,Excellent,104,0,3,None,1,2,0,None,0,329 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45449,vbd45449,Apartment,Elsene,1050,1970,To renovate,85,0,2,1,1,2,1,20,0,375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd46484,vbd46484,Apartment,Vorst,1190,1935,To be renovated,91,0,1,None,1,2,0,None,0,380 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu62059,rbu62059,Apartment,Mechelen,2800,1972,Normal,86,0,2,None,1,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45651,vbd45651,Apartment,Elsene,1050,2017,Excellent,140,None,2,1,1,2,0,None,0,675 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd46485,vbd46485,Apartment,Vorst,1190,1935,To be renovated,91,0,1,None,1,2,0,None,0,375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu62121,rbu62121,Apartment,Mechelen,2800,1980,Normal,234,0,2,None,1,2,0,None,0,489 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd46487,vbd46487,Apartment,Vorst,1190,1900,Normal,187,0,3,None,1,2,1,None,0,790 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45785,vbd45785,Apartment,Elsene,1050,1900,Normal,80,None,1,1,1,None,0,None,0,405 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu64376,rbu64376,Apartment,Mechelen,2800,2015,Excellent,70,0,1,1,1,None,0,None,0,269 700 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd46507,vbd46507,Apartment,Vorst,1190,None,None,178,0,3,None,1,None,0,None,0,595 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45795,vbd45795,Apartment,Elsene,1050,1951,Excellent,147,0,3,None,1,2,0,None,0,875 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu64414,rbu64414,Apartment,Mechelen,2800,1978,Normal,79,0,2,1,1,None,0,None,0,212 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd46753,vbd46753,Apartment,Vorst,1190,1905,Excellent,103,None,2,None,1,None,0,None,0,258 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45796,vbd45796,Apartment,Elsene,1050,1959,Fully renovated,83,0,2,None,1,None,0,None,0,465 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu64852,rbu64852,Apartment,Mechelen,2800,1967,None,85,None,2,None,0,None,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45811,vbd45811,Apartment,Elsene,1050,2026,None,61,0,1,1,1,2,1,5,0,380 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd47509,vbd47509,Apartment,Vorst,1190,1972,To be renovated,94,0,2,None,1,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu65644,rbu65644,Apartment,Mechelen,2800,1967,None,95,None,3,None,1,None,1,None,0,278 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd47870,vbd47870,Apartment,Vorst,1190,None,Fully renovated,60,0,1,None,None,2,1,80,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd45929,vbd45929,Apartment,Elsene,1050,2024,New,117,0,3,1,1,2,0,None,0,891 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu65646,rbu65646,Apartment,Mechelen,2800,1978,None,84,None,2,None,1,2,1,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd46403,vbd46403,Apartment,Elsene,1050,None,Normal,87,None,2,None,1,None,0,None,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd48436,vbd48436,Apartment,Vorst,1190,None,Fully renovated,65,0,1,1,1,3,0,None,0,Make offer from 209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2800/mechelen/rbu65677,rbu65677,Apartment,Mechelen,2800,1966,Excellent,88,None,2,None,0,2,0,None,0,298 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd46486,vbd46486,Apartment,Elsene,1050,1900,Normal,187,0,3,None,1,2,1,None,0,790 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2830/tisselt/rbu61552,rbu61552,Apartment,Tisselt,2830,None,None,None,0,1,None,1,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd48638,vbd48638,Apartment,Vorst,1190,1960,Normal,105,0,2,1,1,2,0,None,0,Make offer from 298 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd46488,vbd46488,Apartment,Elsene,1050,1954,Normal,170,0,4,None,1,2,0,None,0,690 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd48953,vbd48953,Apartment,Vorst,1190,1974,To be renovated,55,0,1,None,0,2,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2830/willebroek/rbu04687,rbu04687,Apartment,Willebroek,2830,2014,Excellent,86,0,3,None,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd46630,vbd46630,Apartment,Elsene,1050,1900,Normal,136,0,2,None,0,2,0,None,0,665 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd49023,vbd49023,Apartment,Vorst,1190,1996,Normal,89,None,2,1,0,2,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2830/willebroek/rbu58435,rbu58435,Apartment,Willebroek,2830,1955,Fully renovated,87,0,2,None,0,2,0,None,0,229 700 €
+https://immovlan.be/en/detail/apartment/for-sale/2830/willebroek/rbu60734,rbu60734,Apartment,Willebroek,2830,2015,None,102,None,2,None,1,None,0,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd46684,vbd46684,Apartment,Elsene,1050,1937,Excellent,85,0,2,None,None,2,0,None,0,339 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd49571,vbd49571,Apartment,Vorst,1190,None,Excellent,74,None,1,1,0,3,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd49763,vbd49763,Apartment,Vorst,1190,None,None,171,None,3,None,1,2,0,None,0,695 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2830/willebroek/rbu65655,rbu65655,Apartment,Willebroek,2830,None,None,100,None,None,None,0,2,1,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd46943,vbd46943,Apartment,Elsene,1050,1958,Normal,117,1,2,1,0,2,0,None,0,480 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2840/rumst/rbu62592,rbu62592,Apartment,Rumst,2840,None,None,95,None,2,None,1,None,0,None,0,308 200 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vbd49957,vbd49957,Apartment,Vorst,1190,None,Excellent,117,0,2,1,0,2,0,None,0,745 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd46945,vbd46945,Apartment,Elsene,1050,None,Excellent,204,0,3,None,1,2,0,None,0,1 290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd46946,vbd46946,Apartment,Elsene,1050,None,Excellent,194,0,3,None,1,2,0,None,0,1 290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2840/rumst/rbu62593,rbu62593,Apartment,Rumst,2840,None,None,69,None,1,None,1,None,0,None,0,264 700 €
+https://immovlan.be/en/detail/apartment/for-sale/1190/vorst/vwd15586,vwd15586,Apartment,Vorst,1190,1919,None,52,None,1,None,None,2,0,None,0,167 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd44644,vbd44644,Apartment,Sint-Lambrechts-Woluwe,1200,2007,Normal,110,0,2,1,1,2,0,None,0,500 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47030,vbd47030,Apartment,Elsene,1050,None,Excellent,70,None,1,1,0,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2845/niel/rbu62060,rbu62060,Apartment,Niel,2845,2013,Normal,93,0,2,None,1,2,1,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd45899,vbd45899,Apartment,Sint-Lambrechts-Woluwe,1200,None,Normal,None,0,1,None,0,None,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47337,vbd47337,Apartment,Elsene,1050,2001,Normal,72,None,1,1,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2850/boom/rbu55477,rbu55477,Apartment,Boom,2850,2005,Normal,136,0,2,None,1,None,0,None,0,389 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd45921,vbd45921,Apartment,Sint-Lambrechts-Woluwe,1200,2025,New,110,0,2,1,1,2,0,None,0,474 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47369,vbd47369,Apartment,Elsene,1050,2015,Excellent,174,None,3,1,1,2,0,None,0,1 375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2850/boom/rbu56050,rbu56050,Apartment,Boom,2850,None,Normal,76,0,2,None,0,None,1,38,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47370,vbd47370,Apartment,Elsene,1050,1929,Excellent,118,None,2,1,1,2,0,None,0,745 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2850/boom/rbu56051,rbu56051,Apartment,Boom,2850,None,Normal,76,0,2,None,1,None,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd46406,vbd46406,Apartment,Sint-Lambrechts-Woluwe,1200,1934,To be renovated,85,None,2,None,1,3,0,None,0,329 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2850/boom/rbu57202,rbu57202,Apartment,Boom,2850,2009,None,77,0,2,None,1,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47435,vbd47435,Apartment,Elsene,1050,1967,To renovate,300,0,3,1,1,2,0,None,0,1 300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd46563,vbd46563,Apartment,Sint-Lambrechts-Woluwe,1200,1952,To renovate,80,0,2,1,0,2,0,None,0,340 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2861/onze-lieve-vrouw-waver/rbu60121,rbu60121,Apartment,Onze-Lieve-Vrouw-Waver,2861,1975,To be renovated,149,0,3,None,1,2,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd46894,vbd46894,Apartment,Sint-Lambrechts-Woluwe,1200,1977,Normal,55,0,1,None,1,None,0,None,0,255 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47454,vbd47454,Apartment,Elsene,1050,1909,Excellent,80,0,2,1,0,3,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd47315,vbd47315,Apartment,Sint-Lambrechts-Woluwe,1200,1976,Normal,74,0,1,None,1,None,0,None,0,270 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2870/breendonk/rbt21777,rbt21777,Apartment,Breendonk,2870,None,Normal,97,0,2,1,1,3,0,None,0,335 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47520,vbd47520,Apartment,Elsene,1050,1937,Excellent,157,0,3,1,1,2,0,None,0,645 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd47400,vbd47400,Apartment,Sint-Lambrechts-Woluwe,1200,2017,Excellent,113,0,2,1,1,3,0,None,0,475 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2870/puurs-sint-amands/rbi70785,rbi70785,Apartment,Puurs-Sint-Amands,2870,2023,New,99,None,2,None,1,2,1,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47639,vbd47639,Apartment,Elsene,1050,None,None,181,None,2,None,1,2,0,None,0,675 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd47710,vbd47710,Apartment,Sint-Lambrechts-Woluwe,1200,2021,Excellent,126,0,3,None,1,2,0,None,0,685 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2870/puurs-sint-amands/rbi70790,rbi70790,Apartment,Puurs-Sint-Amands,2870,2023,New,99,None,2,None,1,2,1,None,0,314 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47896,vbd47896,Apartment,Elsene,1050,1962,Excellent,149,None,3,None,1,None,0,None,0,690 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48000,vbd48000,Apartment,Sint-Lambrechts-Woluwe,1200,2026,New,226,0,4,1,1,3,1,None,0,1 850 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47910,vbd47910,Apartment,Elsene,1050,None,New,243,0,4,None,1,2,0,None,0,1 290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2880/bornem/rbc24951,rbc24951,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48001,vbd48001,Apartment,Sint-Lambrechts-Woluwe,1200,2026,New,80,0,1,1,1,2,1,None,0,485 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47949,vbd47949,Apartment,Elsene,1050,1993,Excellent,236,0,3,1,1,3,0,None,0,895 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2900/schoten/rbu64200,rbu64200,Apartment,Schoten,2900,2023,New,122,0,2,None,1,2,0,None,0,599 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2930/brasschaat/rbu59277,rbu59277,Apartment,Brasschaat,2930,1938,Excellent,95,None,2,None,1,2,1,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd47952,vbd47952,Apartment,Elsene,1050,2010,Excellent,125,0,2,1,1,2,0,None,0,565 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48002,vbd48002,Apartment,Sint-Lambrechts-Woluwe,1200,2026,New,119,0,2,1,1,2,1,None,0,705 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2940/stabroek/rbu60747,rbu60747,Apartment,Stabroek,2940,None,Normal,86,0,1,None,1,None,1,20,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48003,vbd48003,Apartment,Sint-Lambrechts-Woluwe,1200,2026,New,133,0,3,1,1,3,1,None,0,767 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd48116,vbd48116,Apartment,Elsene,1050,1950,Excellent,100,0,2,None,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2950/kapellen/rbu60745,rbu60745,Apartment,Kapellen,2950,1973,Normal,76,0,2,None,1,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48005,vbd48005,Apartment,Sint-Lambrechts-Woluwe,1200,2008,Normal,110,0,2,1,1,2,0,None,0,450 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd48117,vbd48117,Apartment,Elsene,1050,1950,Excellent,100,0,2,None,1,2,0,None,0,360 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48023,vbd48023,Apartment,Sint-Lambrechts-Woluwe,1200,1968,To renovate,75,0,1,1,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2970/schilde/rbu64872,rbu64872,Apartment,Schilde,2970,2001,None,114,None,3,None,0,None,1,None,0,434 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd48118,vbd48118,Apartment,Elsene,1050,1930,Excellent,82,1,2,1,1,2,1,35,0,525 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48169,vbd48169,Apartment,Sint-Lambrechts-Woluwe,1200,2027,New,129,0,2,1,1,4,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd48342,vbd48342,Apartment,Elsene,1050,None,Normal,38,0,1,None,0,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbs97482,rbs97482,Apartment,Hasselt,3500,2017,New,60,0,1,None,1,None,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48170,vbd48170,Apartment,Sint-Lambrechts-Woluwe,1200,2027,New,133,0,3,1,1,4,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu17157,rbu17157,Apartment,Hasselt,3500,1979,None,90,0,2,None,0,None,0,None,0,197 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd48362,vbd48362,Apartment,Elsene,1050,1960,Normal,102,0,2,1,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu24804,rbu24804,Apartment,Hasselt,3500,1979,Excellent,None,None,2,None,1,None,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48171,vbd48171,Apartment,Sint-Lambrechts-Woluwe,1200,2027,New,80,0,1,1,1,4,0,None,0,485 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd48641,vbd48641,Apartment,Elsene,1050,1960,Normal,117,0,3,None,0,None,0,None,1,485 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu27554,rbu27554,Apartment,Hasselt,3500,2007,Normal,123,0,2,None,1,None,1,None,1,545 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48172,vbd48172,Apartment,Sint-Lambrechts-Woluwe,1200,2027,New,226,0,4,1,1,4,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd48667,vbd48667,Apartment,Elsene,1050,2007,Normal,85,0,2,1,0,2,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu28314,rbu28314,Apartment,Hasselt,3500,1973,To be renovated,90,0,2,None,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48279,vbd48279,Apartment,Sint-Lambrechts-Woluwe,1200,None,None,55,0,1,None,0,4,1,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd48691,vbd48691,Apartment,Elsene,1050,2012,New,126,0,2,1,1,2,0,None,0,675 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd49060,vbd49060,Apartment,Elsene,1050,1899,Excellent,135,0,3,1,1,2,1,115,0,955 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu32267,rbu32267,Apartment,Hasselt,3500,1994,Normal,164,0,3,None,1,None,0,None,0,599 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48483,vbd48483,Apartment,Sint-Lambrechts-Woluwe,1200,1956,Excellent,136,0,3,1,1,2,0,None,0,575 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu33641,rbu33641,Apartment,Hasselt,3500,2016,Excellent,80,None,1,None,1,None,1,None,0,298 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48484,vbd48484,Apartment,Sint-Lambrechts-Woluwe,1200,2007,Normal,146,0,3,1,1,2,0,None,0,675 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd49241,vbd49241,Apartment,Elsene,1050,None,Excellent,253,None,4,None,0,2,0,None,0,1 280 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu33642,rbu33642,Apartment,Hasselt,3500,1977,Excellent,95,None,2,None,1,2,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd49349,vbd49349,Apartment,Elsene,1050,1900,Excellent,135,0,3,1,1,2,1,115,0,955 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd48499,vbd48499,Apartment,Sint-Lambrechts-Woluwe,1200,1960,Normal,94,0,2,None,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu40968,rbu40968,Apartment,Hasselt,3500,2023,None,216,None,3,None,1,None,0,None,0,1 195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd49565,vbd49565,Apartment,Elsene,1050,1900,To be renovated,40,None,1,None,0,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd49052,vbd49052,Apartment,Sint-Lambrechts-Woluwe,1200,1969,Normal,125,0,2,1,1,2,0,None,0,420 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd49180,vbd49180,Apartment,Sint-Lambrechts-Woluwe,1200,1974,To renovate,84,0,2,1,1,4,1,None,1,340 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu43768,rbu43768,Apartment,Hasselt,3500,2020,None,95,None,2,1,1,2,1,None,0,459 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd49566,vbd49566,Apartment,Elsene,1050,None,To be renovated,65,0,1,None,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd49625,vbd49625,Apartment,Elsene,1050,None,To be renovated,183,None,3,None,1,2,0,None,0,695 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu47150,rbu47150,Apartment,Hasselt,3500,2022,New,111,None,2,None,1,2,1,None,0,489 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd49206,vbd49206,Apartment,Sint-Lambrechts-Woluwe,1200,None,Normal,90,0,2,None,1,None,1,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu47780,rbu47780,Apartment,Hasselt,3500,2010,Normal,98,0,1,None,1,2,0,None,0,329 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd49682,vbd49682,Apartment,Elsene,1050,2013,Normal,87,0,2,None,0,2,0,None,0,420 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1200/sint-lambrechts-woluwe/vbd49338,vbd49338,Apartment,Sint-Lambrechts-Woluwe,1200,1985,Normal,117,0,2,1,1,None,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd49876,vbd49876,Apartment,Elsene,1050,None,Normal,80,None,2,None,0,None,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu47782,rbu47782,Apartment,Hasselt,3500,1994,Normal,122,0,2,None,1,4,1,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1210/sint-joost-ten-node/vbd33391,vbd33391,Apartment,Sint-Joost-ten-Node,1210,1935,Normal,121,None,2,1,1,3,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vbd50037,vbd50037,Apartment,Elsene,1050,None,None,350,0,5,None,1,2,0,None,0,1 399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu47973,rbu47973,Apartment,Hasselt,3500,1970,None,132,None,3,None,1,None,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1210/sint-joost-ten-node/vbd48349,vbd48349,Apartment,Sint-Joost-ten-Node,1210,1894,Excellent,83,0,1,1,1,2,0,None,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vwd14616,vwd14616,Apartment,Elsene,1050,None,Normal,91,None,2,1,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1210/sint-joost-ten-node/vbd48460,vbd48460,Apartment,Sint-Joost-ten-Node,1210,2025,New,61,None,1,1,1,2,0,None,0,301 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu51039,rbu51039,Apartment,Hasselt,3500,1933,To be renovated,60,0,1,None,1,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu51310,rbu51310,Apartment,Hasselt,3500,2020,Normal,68,0,1,None,0,3,1,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vwd15363,vwd15363,Apartment,Elsene,1050,1948,Excellent,180,None,4,1,1,2,0,None,0,Make offer from 695 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1210/sint-joost-ten-node/vbd49170,vbd49170,Apartment,Sint-Joost-ten-Node,1210,2000,None,90,0,2,None,1,4,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu55593,rbu55593,Apartment,Antwerp,2000,None,Excellent,60,1,1,1,0,None,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vwd15455,vwd15455,Apartment,Elsene,1050,1967,Excellent,40,None,1,1,0,None,0,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu51311,rbu51311,Apartment,Hasselt,3500,2018,Normal,78,0,2,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1050/elsene/vwd15513,vwd15513,Apartment,Elsene,1050,1993,Normal,200,None,3,1,1,3,0,None,0,895 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu58546,rbu58546,Apartment,Antwerp,2000,1978,None,140,None,2,None,1,None,0,None,0,305 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu51313,rbu51313,Apartment,Hasselt,3500,1984,Normal,174,0,3,None,1,2,0,None,0,375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd06393,vbd06393,Apartment,Sint-Gillis,1060,1905,To be renovated,165,None,1,1,0,2,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu59619,rbu59619,Apartment,Antwerp,2000,2016,None,70,None,2,None,1,None,0,None,0,359 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu51787,rbu51787,Apartment,Hasselt,3500,None,None,168,None,4,1,None,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd31842,vbd31842,Apartment,Sint-Gillis,1060,None,Normal,49,None,1,None,1,None,0,None,0,210 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu60040,rbu60040,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu55523,rbu55523,Apartment,Hasselt,3500,2020,None,100,None,2,None,1,None,0,None,0,465 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd36933,vbd36933,Apartment,Sint-Gillis,1060,None,To be renovated,55,None,1,None,1,3,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu55894,rbu55894,Apartment,Hasselt,3500,1963,Normal,120,0,3,None,1,3,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu60790,rbu60790,Apartment,Antwerp,2000,None,None,100,None,2,None,1,None,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu55896,rbu55896,Apartment,Hasselt,3500,2010,Excellent,145,0,3,None,1,2,0,None,0,415 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd45221,vbd45221,Apartment,Sint-Gillis,1060,1952,Normal,113,0,2,1,0,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu60821,rbu60821,Apartment,Antwerp,2000,None,Normal,61,0,1,1,0,None,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu58373,rbu58373,Apartment,Hasselt,3500,1933,Excellent,176,None,4,None,1,None,0,None,0,449 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu61490,rbu61490,Apartment,Antwerp,2000,1919,None,56,None,1,None,0,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd45356,vbd45356,Apartment,Sint-Gillis,1060,None,None,100,0,3,None,1,2,0,None,0,560 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu58821,rbu58821,Apartment,Hasselt,3500,1965,Normal,82,0,1,None,1,2,0,None,0,239 950 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu61577,rbu61577,Apartment,Antwerp,2000,None,Normal,61,0,1,1,0,None,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd45368,vbd45368,Apartment,Sint-Gillis,1060,None,None,125,0,2,None,1,2,0,None,0,560 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu61969,rbu61969,Apartment,Hasselt,3500,None,New,117,None,2,None,1,None,1,None,0,485 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu62418,rbu62418,Apartment,Antwerp,2000,None,Excellent,51,0,2,None,0,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd45471,vbd45471,Apartment,Sint-Gillis,1060,1977,Normal,40,0,1,1,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu65016,rbu65016,Apartment,Antwerp,2000,1961,Normal,51,0,1,None,0,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd45783,vbd45783,Apartment,Sint-Gillis,1060,2024,Excellent,103,0,2,1,1,2,0,None,0,550 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3500/hasselt/rbu62018,rbu62018,Apartment,Hasselt,3500,1990,None,62,None,1,None,1,None,0,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu65295,rbu65295,Apartment,Antwerp,2000,1965,Normal,121,0,2,None,1,2,0,None,0,435 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd45951,vbd45951,Apartment,Sint-Gillis,1060,1877,Excellent,100,0,1,1,0,None,0,None,0,425 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3510/kermt/rbu56945,rbu56945,Apartment,Kermt,3510,1991,None,None,None,2,None,1,None,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd45966,vbd45966,Apartment,Sint-Gillis,1060,1908,Fully renovated,28,0,1,None,1,2,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu65723,rbu65723,Apartment,Antwerp,2000,None,None,181,None,3,None,1,None,0,None,0,599 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3511/kuringen/rbu42352,rbu42352,Apartment,Kuringen,3511,1972,None,90,None,3,None,1,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd47774,vbd47774,Apartment,Sint-Gillis,1060,2010,Normal,102,0,2,None,1,2,0,None,0,490 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rbu66937,rbu66937,Apartment,Antwerp,2000,2003,Excellent,102,0,2,1,1,2,0,None,0,465 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3511/kuringen/rbu51312,rbu51312,Apartment,Kuringen,3511,2002,Normal,89,0,2,None,1,None,0,None,0,270 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd47820,vbd47820,Apartment,Sint-Gillis,1060,1897,Normal,57,0,1,None,0,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rwc41082,rwc41082,Apartment,Antwerp,2000,None,Excellent,95,None,2,None,1,None,0,None,0,389 500 €
+https://immovlan.be/en/detail/apartment/for-sale/3520/zonhoven/rbu36835,rbu36835,Apartment,Zonhoven,3520,1993,Normal,80,0,2,None,1,None,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2000/antwerp/rwc41083,rwc41083,Apartment,Antwerp,2000,None,Excellent,115,None,3,None,1,None,0,None,0,659 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd47825,vbd47825,Apartment,Sint-Gillis,1060,1929,Normal,96,0,1,None,1,2,0,None,0,435 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3530/houthalen-helchteren/rbu40436,rbu40436,Apartment,Houthalen-Helchteren,3530,1999,Normal,None,0,2,None,None,3,1,None,0,205 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu48998,rbu48998,Apartment,Antwerp,2018,None,Normal,40,0,1,None,0,None,0,None,0,194 900 €
+https://immovlan.be/en/detail/apartment/for-sale/3530/houthalen-helchteren/rbu49702,rbu49702,Apartment,Houthalen-Helchteren,3530,2025,None,112,None,2,None,1,None,1,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd47950,vbd47950,Apartment,Sint-Gillis,1060,1952,Normal,108,0,3,None,1,2,0,None,0,565 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3530/houthalen-helchteren/rbu49703,rbu49703,Apartment,Houthalen-Helchteren,3530,2025,None,112,None,2,None,1,None,1,None,0,345 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd48313,vbd48313,Apartment,Sint-Gillis,1060,1970,Normal,45,0,1,1,1,2,0,None,0,230 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu56110,rbu56110,Apartment,Antwerp,2018,2021,Excellent,116,None,3,None,1,None,1,None,0,499 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3530/houthalen-helchteren/rbu49704,rbu49704,Apartment,Houthalen-Helchteren,3530,2025,None,147,None,3,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd48315,vbd48315,Apartment,Sint-Gillis,1060,1930,Normal,73,0,2,1,0,3,0,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu59372,rbu59372,Apartment,Antwerp,2018,1952,None,60,None,2,None,1,None,0,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3530/houthalen-helchteren/rbu49705,rbu49705,Apartment,Houthalen-Helchteren,3530,2025,None,147,None,3,None,1,None,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu62357,rbu62357,Apartment,Antwerp,2018,1970,Excellent,105,None,3,None,1,2,0,None,0,419 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd49064,vbd49064,Apartment,Sint-Gillis,1060,1968,Excellent,83,0,2,1,1,2,0,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3530/houthalen-helchteren/rbu51140,rbu51140,Apartment,Houthalen-Helchteren,3530,1977,None,None,None,3,None,1,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu64430,rbu64430,Apartment,Antwerp,2018,2025,Excellent,91,None,2,None,1,None,1,None,0,489 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd49155,vbd49155,Apartment,Sint-Gillis,1060,1906,To be renovated,113,0,4,1,1,3,0,None,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu64431,rbu64431,Apartment,Antwerp,2018,2025,Excellent,96,None,2,None,1,None,1,None,0,570 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3540/herk-de-stad/rbu58862,rbu58862,Apartment,Herk-de-Stad,3540,None,None,490,None,3,None,None,3,1,None,0,385 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd49156,vbd49156,Apartment,Sint-Gillis,1060,1906,To be renovated,52,0,1,1,1,3,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu66931,rbu66931,Apartment,Antwerp,2018,1975,To be renovated,77,0,2,None,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbt71715,rbt71715,Apartment,Heusden-Zolder,3550,1998,None,101,None,None,None,1,2,1,None,0,318 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd49541,vbd49541,Apartment,Sint-Gillis,1060,None,None,70,0,1,None,0,None,0,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu30711,rbu30711,Apartment,Heusden-Zolder,3550,2022,Excellent,190,0,3,None,1,3,0,None,0,459 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu66939,rbu66939,Apartment,Antwerp,2018,2025,Normal,116,0,2,None,1,3,0,None,0,440 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd49882,vbd49882,Apartment,Sint-Gillis,1060,None,To be renovated,113,0,3,None,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu66940,rbu66940,Apartment,Antwerp,2018,2025,New,116,0,2,None,1,2,0,None,0,450 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd49883,vbd49883,Apartment,Sint-Gillis,1060,None,To be renovated,113,0,3,None,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu34586,rbu34586,Apartment,Heusden-Zolder,3550,1933,None,None,None,None,None,1,2,1,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu37452,rbu37452,Apartment,Heusden-Zolder,3550,2024,New,88,0,1,1,1,2,1,21,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu66941,rbu66941,Apartment,Antwerp,2018,2025,New,116,0,2,None,1,2,0,None,0,465 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd49884,vbd49884,Apartment,Sint-Gillis,1060,None,To be renovated,113,0,3,None,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2018/antwerp/rbu66944,rbu66944,Apartment,Antwerp,2018,1974,To be renovated,100,0,3,None,1,3,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu37453,rbu37453,Apartment,Heusden-Zolder,3550,2024,New,80,0,2,1,1,2,0,None,0,283 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vbd49942,vbd49942,Apartment,Sint-Gillis,1060,None,None,100,0,3,None,1,3,0,None,0,390 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu37454,rbu37454,Apartment,Heusden-Zolder,3550,2024,New,102,0,2,1,1,2,0,None,0,349 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2020/antwerp/rbu56961,rbu56961,Apartment,Antwerp,2020,1954,None,67,None,2,None,1,None,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vwd15253,vwd15253,Apartment,Sint-Gillis,1060,1953,Normal,133,None,2,None,1,None,0,None,0,Make offer from 440 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu40842,rbu40842,Apartment,Heusden-Zolder,3550,2024,None,104,None,2,None,1,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2020/antwerp/rbu58568,rbu58568,Apartment,Antwerp,2020,None,Normal,59,None,1,None,0,None,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1060/sint-gillis/vwd15254,vwd15254,Apartment,Sint-Gillis,1060,1953,Normal,133,None,2,None,1,None,0,None,0,Make offer from 440 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu40844,rbu40844,Apartment,Heusden-Zolder,3550,2024,None,92,None,2,None,1,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2020/antwerp/rbu62431,rbu62431,Apartment,Antwerp,2020,None,Normal,73,0,2,None,1,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/rbu36692,rbu36692,Apartment,Anderlecht,1070,1974,To be renovated,101,None,3,1,1,None,0,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu40845,rbu40845,Apartment,Heusden-Zolder,3550,2024,None,92,None,2,None,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2020/antwerp/rbu66644,rbu66644,Apartment,Antwerp,2020,1970,Normal,84,0,2,None,1,2,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/rbu61937,rbu61937,Apartment,Anderlecht,1070,1932,To be renovated,80,None,2,None,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2050/antwerp/rbu56042,rbu56042,Apartment,Antwerp,2050,1967,None,90,None,2,None,1,None,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu45272,rbu45272,Apartment,Heusden-Zolder,3550,1949,None,None,None,None,None,1,None,0,None,0,475 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/rbu62351,rbu62351,Apartment,Anderlecht,1070,2007,None,None,None,2,None,1,None,1,None,0,340 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2050/antwerp/rbu57830,rbu57830,Apartment,Antwerp,2050,1964,None,110,None,3,None,1,None,0,None,0,280 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu45307,rbu45307,Apartment,Heusden-Zolder,3550,2021,New,98,0,2,1,1,2,0,None,0,309 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd29425,vbd29425,Apartment,Anderlecht,1070,2003,Normal,68,0,2,1,1,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu47858,rbu47858,Apartment,Heusden-Zolder,3550,2022,None,105,None,2,None,1,None,0,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2050/antwerp/rbu60097,rbu60097,Apartment,Antwerp,2050,1960,None,105,0,2,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd29770,vbd29770,Apartment,Anderlecht,1070,1966,Normal,52,0,1,None,1,4,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu58841,rbu58841,Apartment,Heusden-Zolder,3550,2000,None,95,None,2,1,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2050/antwerp/rbu60750,rbu60750,Apartment,Antwerp,2050,2021,Normal,107,0,2,None,1,None,0,None,0,375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd36436,vbd36436,Apartment,Anderlecht,1070,1939,Normal,77,None,2,1,1,None,1,None,0,Make offer from 259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu58857,rbu58857,Apartment,Heusden-Zolder,3550,None,Normal,69,None,1,1,1,None,1,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2050/antwerp/rbu62567,rbu62567,Apartment,Antwerp,2050,1970,Normal,81,None,2,None,1,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd44608,vbd44608,Apartment,Anderlecht,1070,2024,New,107,None,2,1,1,4,0,None,0,329 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2050/antwerp/rbu64926,rbu64926,Apartment,Antwerp,2050,2024,To renovate,130,None,2,None,1,None,0,None,0,599 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu58858,rbu58858,Apartment,Heusden-Zolder,3550,1988,Normal,None,None,3,None,1,None,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd45058,vbd45058,Apartment,Anderlecht,1070,None,Normal,None,0,1,None,None,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu61357,rbu61357,Apartment,Heusden-Zolder,3550,2022,Excellent,110,0,2,1,1,3,0,None,0,354 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd45515,vbd45515,Apartment,Anderlecht,1070,1964,Normal,75,0,2,None,1,None,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2050/antwerp/rbu65015,rbu65015,Apartment,Antwerp,2050,1969,Normal,108,0,3,None,1,2,0,None,0,270 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu61358,rbu61358,Apartment,Heusden-Zolder,3550,2000,Normal,73,0,2,1,1,4,0,None,0,240 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd45673,vbd45673,Apartment,Anderlecht,1070,1963,To renovate,48,1,1,1,1,None,0,None,0,120 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2050/antwerp/rbu66868,rbu66868,Apartment,Antwerp,2050,None,None,None,None,3,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu55929,rbu55929,Apartment,Antwerp,2060,None,Normal,70,0,2,None,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd45757,vbd45757,Apartment,Anderlecht,1070,1991,Normal,100,None,3,None,1,3,0,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu61359,rbu61359,Apartment,Heusden-Zolder,3550,2008,Excellent,160,0,3,None,1,3,0,None,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu64219,rbu64219,Apartment,Heusden-Zolder,3550,2024,New,129,None,3,1,1,None,1,28,0,354 750 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu55930,rbu55930,Apartment,Antwerp,2060,None,Normal,41,0,1,None,0,2,0,None,0,139 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd45805,vbd45805,Apartment,Anderlecht,1070,2010,Normal,87,0,2,None,1,2,0,None,0,Make offer from 275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden-zolder/rbu64221,rbu64221,Apartment,Heusden-Zolder,3550,2024,New,115,0,2,1,1,2,1,25,0,332 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu56078,rbu56078,Apartment,Antwerp,2060,None,None,68,0,1,None,1,2,1,None,0,197 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd46387,vbd46387,Apartment,Anderlecht,1070,None,Normal,109,0,2,None,1,2,0,None,0,280 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden/rbu46700,rbu46700,Apartment,Heusden,3550,2023,New,90,0,2,None,1,None,0,None,0,299 950 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu56080,rbu56080,Apartment,Antwerp,2060,None,None,46,0,1,None,0,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd46623,vbd46623,Apartment,Anderlecht,1070,1952,Normal,113,0,2,1,0,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3550/heusden/rbu46701,rbu46701,Apartment,Heusden,3550,2023,New,90,0,2,None,1,None,0,None,0,299 950 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd47291,vbd47291,Apartment,Anderlecht,1070,1973,Normal,46,0,1,None,1,None,0,None,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu56081,rbu56081,Apartment,Antwerp,2060,None,None,47,0,1,None,0,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu56084,rbu56084,Apartment,Antwerp,2060,None,None,47,0,1,None,1,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu29209,rbu29209,Apartment,Beringen,3580,2022,New,123,None,None,None,1,3,0,None,0,330 185 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd47299,vbd47299,Apartment,Anderlecht,1070,2003,None,84,0,1,None,0,None,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu60695,rbu60695,Apartment,Antwerp,2060,1965,Normal,64,0,2,None,1,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu42878,rbu42878,Apartment,Beringen,3580,2025,New,105,0,2,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd47765,vbd47765,Apartment,Anderlecht,1070,2018,Normal,117,0,3,1,1,None,0,None,0,420 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu42879,rbu42879,Apartment,Beringen,3580,2025,New,113,0,2,None,1,None,0,None,0,309 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu61489,rbu61489,Apartment,Antwerp,2060,1900,None,58,None,1,None,0,None,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd48186,vbd48186,Apartment,Anderlecht,1070,1963,Normal,61,0,1,None,1,None,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu42880,rbu42880,Apartment,Beringen,3580,2025,New,105,0,2,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu63003,rbu63003,Apartment,Antwerp,2060,None,None,105,None,3,None,1,None,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd48345,vbd48345,Apartment,Anderlecht,1070,2018,Excellent,99,0,3,1,1,2,0,None,0,Make offer from 299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu42882,rbu42882,Apartment,Beringen,3580,None,New,126,0,2,None,1,None,0,None,0,389 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu63004,rbu63004,Apartment,Antwerp,2060,None,None,70,None,2,None,0,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd48498,vbd48498,Apartment,Anderlecht,1070,1974,Excellent,None,None,1,None,1,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu64371,rbu64371,Apartment,Antwerp,2060,2013,None,125,None,3,None,1,None,0,None,0,375 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd48970,vbd48970,Apartment,Anderlecht,1070,1966,To renovate,73,0,2,1,1,2,0,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu42883,rbu42883,Apartment,Beringen,3580,None,New,126,0,2,None,1,None,0,None,0,499 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd48981,vbd48981,Apartment,Anderlecht,1070,2019,Excellent,91,0,2,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu45300,rbu45300,Apartment,Beringen,3580,None,Excellent,None,None,2,1,1,None,1,None,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu64984,rbu64984,Apartment,Antwerp,2060,None,Normal,62,0,1,None,0,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd49038,vbd49038,Apartment,Anderlecht,1070,None,None,70,0,1,None,1,None,1,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu45308,rbu45308,Apartment,Beringen,3580,2022,New,107,None,2,1,1,4,0,None,0,449 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu64985,rbu64985,Apartment,Antwerp,2060,None,Normal,62,0,1,None,0,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd49112,vbd49112,Apartment,Anderlecht,1070,1964,To be renovated,65,0,1,None,1,None,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu64986,rbu64986,Apartment,Antwerp,2060,None,Normal,62,0,1,None,0,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu51301,rbu51301,Apartment,Beringen,3580,2004,Normal,None,0,1,None,1,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2060/antwerp/rbu65237,rbu65237,Apartment,Antwerp,2060,None,Normal,65,0,1,None,0,None,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd49330,vbd49330,Apartment,Anderlecht,1070,1984,Fully renovated,95,0,3,1,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu56943,rbu56943,Apartment,Beringen,3580,1960,None,116,None,2,None,0,None,0,None,0,170 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu59457,rbu59457,Apartment,Deurne,2100,1974,Normal,57,0,1,None,1,3,0,None,0,198 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd49368,vbd49368,Apartment,Anderlecht,1070,1978,Normal,77,0,2,None,1,2,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu58860,rbu58860,Apartment,Beringen,3580,1973,None,85,0,2,1,0,2,0,None,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vbd49709,vbd49709,Apartment,Anderlecht,1070,1973,Excellent,89,0,2,1,1,2,1,52,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu60741,rbu60741,Apartment,Deurne,2100,1957,Normal,60,0,2,None,1,None,0,None,0,199 900 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu58866,rbu58866,Apartment,Beringen,3580,1995,None,132,None,3,1,1,None,0,None,0,296 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vwd15545,vwd15545,Apartment,Anderlecht,1070,1965,Normal,74,None,2,None,1,None,0,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu60742,rbu60742,Apartment,Deurne,2100,1957,Normal,60,0,2,None,1,None,0,None,0,199 900 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu58997,rbu58997,Apartment,Beringen,3580,2023,Normal,108,0,2,None,1,None,0,None,0,329 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1070/anderlecht/vwd15546,vwd15546,Apartment,Anderlecht,1070,1967,Normal,74,None,2,None,1,None,0,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu60748,rbu60748,Apartment,Deurne,2100,1966,Normal,96,0,2,None,1,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3580/beringen/rbu62413,rbu62413,Apartment,Beringen,3580,2021,New,86,None,2,1,1,2,0,None,0,329 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/rbu59606,rbu59606,Apartment,Sint-Jans-Molenbeek,1080,1962,Normal,104,0,1,1,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu61511,rbu61511,Apartment,Deurne,2100,1993,Normal,110,0,3,1,1,2,0,None,0,264 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbk55922,rbk55922,Apartment,Koersel,3582,2024,None,77,None,1,1,1,None,0,None,0,254 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/rbu64974,rbu64974,Apartment,Sint-Jans-Molenbeek,1080,1972,Normal,110,0,3,None,1,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu45262,rbu45262,Apartment,Koersel,3582,1986,None,96,None,2,None,0,None,0,None,0,198 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu62158,rbu62158,Apartment,Deurne,2100,1990,Excellent,139,0,2,None,1,2,0,None,0,309 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu62340,rbu62340,Apartment,Deurne,2100,1976,None,60,None,2,None,1,None,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd28392,vbd28392,Apartment,Sint-Jans-Molenbeek,1080,1968,To be renovated,45,0,1,None,1,2,0,None,0,139 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu49778,rbu49778,Apartment,Koersel,3582,2024,None,72,0,1,1,1,None,0,None,0,266 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd28393,vbd28393,Apartment,Sint-Jans-Molenbeek,1080,1968,To be renovated,51,0,1,None,1,2,0,None,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu63116,rbu63116,Apartment,Deurne,2100,1968,Excellent,86,0,2,None,0,3,0,None,0,219 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu49779,rbu49779,Apartment,Koersel,3582,2024,None,90,0,2,1,1,None,0,None,0,332 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu64933,rbu64933,Apartment,Deurne,2100,1980,To be renovated,101,0,2,None,1,None,0,None,0,174 900 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu50285,rbu50285,Apartment,Koersel,3582,2007,Normal,132,0,3,None,1,3,0,None,0,339 950 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd28597,vbd28597,Apartment,Sint-Jans-Molenbeek,1080,1968,To be renovated,96,0,2,None,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu65033,rbu65033,Apartment,Deurne,2100,None,None,91,None,2,None,1,None,0,None,0,214 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu56326,rbu56326,Apartment,Koersel,3582,1950,None,177,None,2,None,1,None,1,None,0,385 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd30000,vbd30000,Apartment,Sint-Jans-Molenbeek,1080,1930,To be renovated,70,0,2,None,1,2,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu57246,rbu57246,Apartment,Koersel,3582,2024,New,73,0,1,None,1,3,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu65721,rbu65721,Apartment,Deurne,2100,1965,None,100,None,2,None,1,None,0,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd37293,vbd37293,Apartment,Sint-Jans-Molenbeek,1080,None,None,110,None,3,None,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu65745,rbu65745,Apartment,Deurne,2100,2006,Normal,80,None,2,None,1,None,0,None,0,266 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd41328,vbd41328,Apartment,Sint-Jans-Molenbeek,1080,None,To renovate,60,0,1,1,0,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu57247,rbu57247,Apartment,Koersel,3582,2024,New,100,0,2,None,1,3,0,None,0,379 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu65948,rbu65948,Apartment,Deurne,2100,1970,To be renovated,84,None,2,None,1,2,1,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd44604,vbd44604,Apartment,Sint-Jans-Molenbeek,1080,2020,Excellent,60,None,1,1,1,2,0,None,0,210 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu57249,rbu57249,Apartment,Koersel,3582,2024,New,73,0,1,None,1,3,0,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu66331,rbu66331,Apartment,Deurne,2100,1960,Normal,71,0,1,None,0,3,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu57250,rbu57250,Apartment,Koersel,3582,2024,New,73,0,1,None,1,3,0,None,0,305 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd44605,vbd44605,Apartment,Sint-Jans-Molenbeek,1080,2020,Excellent,63,None,1,1,1,2,0,None,0,225 500 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu66332,rbu66332,Apartment,Deurne,2100,1965,Normal,97,0,3,None,1,3,0,None,0,183 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu57251,rbu57251,Apartment,Koersel,3582,2024,New,110,0,3,None,1,3,0,None,0,324 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd44606,vbd44606,Apartment,Sint-Jans-Molenbeek,1080,2020,Excellent,71,None,1,1,1,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu60172,rbu60172,Apartment,Koersel,3582,1984,None,90,None,2,None,1,None,0,None,0,230 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu66596,rbu66596,Apartment,Deurne,2100,1979,Normal,67,0,1,None,1,None,0,None,0,145 900 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd44607,vbd44607,Apartment,Sint-Jans-Molenbeek,1080,2020,Excellent,60,None,1,1,1,2,0,None,0,210 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rbu66601,rbu66601,Apartment,Deurne,2100,1979,Normal,67,0,1,None,1,None,0,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd45011,vbd45011,Apartment,Sint-Jans-Molenbeek,1080,1930,To be renovated,65,0,1,None,1,2,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3582/koersel/rbu64215,rbu64215,Apartment,Koersel,3582,2024,None,90,0,2,1,1,None,0,None,0,330 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd45291,vbd45291,Apartment,Sint-Jans-Molenbeek,1080,1965,Normal,84,0,2,1,1,None,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rwc40842,rwc40842,Apartment,Deurne,2100,None,Normal,71,None,2,1,1,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3583/paal/rbu51750,rbu51750,Apartment,Paal,3583,1992,None,136,None,3,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd45555,vbd45555,Apartment,Sint-Jans-Molenbeek,1080,1975,To be renovated,115,0,3,None,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2100/deurne/rwc41053,rwc41053,Apartment,Deurne,2100,1963,Excellent,92,None,2,1,None,2,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3590/diepenbeek/rbu31947,rbu31947,Apartment,Diepenbeek,3590,2021,New,157,0,3,None,1,2,0,None,0,464 260 €
+https://immovlan.be/en/detail/apartment/for-sale/3590/diepenbeek/rbu52119,rbu52119,Apartment,Diepenbeek,3590,2002,None,112,None,3,None,1,3,1,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd45674,vbd45674,Apartment,Sint-Jans-Molenbeek,1080,1975,To renovate,92,0,2,1,1,2,0,None,0,210 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/antwerp/rbu60149,rbu60149,Apartment,Antwerp,2140,1974,None,107,None,2,None,1,None,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu45800,rbu45800,Apartment,Borgerhout,2140,None,Normal,70,0,1,None,1,None,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3590/diepenbeek/rbu57010,rbu57010,Apartment,Diepenbeek,3590,1971,Fully renovated,94,0,3,1,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd45755,vbd45755,Apartment,Sint-Jans-Molenbeek,1080,1974,To renovate,69,0,1,None,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu55556,rbu55556,Apartment,Borgerhout,2140,None,None,57,None,1,None,1,None,0,None,0,139 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3590/diepenbeek/rbu57564,rbu57564,Apartment,Diepenbeek,3590,2022,None,89,0,2,None,1,2,0,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd45758,vbd45758,Apartment,Sint-Jans-Molenbeek,1080,None,Normal,85,None,2,1,1,2,0,None,0,Make offer from 209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu56086,rbu56086,Apartment,Borgerhout,2140,1950,None,75,None,2,1,0,2,0,None,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3590/diepenbeek/rbu58371,rbu58371,Apartment,Diepenbeek,3590,2023,Normal,99,0,2,None,1,2,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd45870,vbd45870,Apartment,Sint-Jans-Molenbeek,1080,1974,Normal,60,0,1,None,0,4,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3600/genk/rbu30103,rbu30103,Apartment,Genk,3600,1967,None,65,None,2,None,1,3,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu60126,rbu60126,Apartment,Borgerhout,2140,2017,Normal,78,0,2,None,1,2,0,None,0,227 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd45978,vbd45978,Apartment,Sint-Jans-Molenbeek,1080,None,Excellent,83,None,2,1,1,2,0,None,0,Make offer from 209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3600/genk/rbu37370,rbu37370,Apartment,Genk,3600,1974,Normal,86,None,3,None,None,2,0,None,0,169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd46235,vbd46235,Apartment,Sint-Jans-Molenbeek,1080,1924,Normal,67,0,2,1,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu60893,rbu60893,Apartment,Borgerhout,2140,2017,Normal,55,0,1,None,1,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3600/genk/rbu42909,rbu42909,Apartment,Genk,3600,2021,Normal,127,0,2,None,1,None,1,None,0,749 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd46237,vbd46237,Apartment,Sint-Jans-Molenbeek,1080,1924,Normal,67,0,2,1,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu64286,rbu64286,Apartment,Borgerhout,2140,1978,Normal,55,0,1,None,1,2,0,None,0,155 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3600/genk/rbu45310,rbu45310,Apartment,Genk,3600,1963,Normal,109,0,3,1,1,None,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu64370,rbu64370,Apartment,Borgerhout,2140,1870,None,103,None,2,None,1,None,0,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd46333,vbd46333,Apartment,Sint-Jans-Molenbeek,1080,None,To renovate,135,0,3,None,1,None,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu65014,rbu65014,Apartment,Borgerhout,2140,1979,Normal,100,0,2,None,1,2,0,None,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3600/genk/rbu48921,rbu48921,Apartment,Genk,3600,1930,None,132,None,3,None,1,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd46334,vbd46334,Apartment,Sint-Jans-Molenbeek,1080,None,To renovate,135,0,3,None,1,None,0,None,0,270 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rbu65236,rbu65236,Apartment,Borgerhout,2140,None,Normal,97,0,2,None,1,None,0,None,0,208 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3600/genk/rbu51013,rbu51013,Apartment,Genk,3600,2016,Normal,58,0,1,None,1,2,0,None,0,167 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd46553,vbd46553,Apartment,Sint-Jans-Molenbeek,1080,1963,To renovate,91,None,2,None,1,None,0,None,0,Bunch price 150 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3600/genk/rbu51018,rbu51018,Apartment,Genk,3600,1968,Normal,36,0,1,None,1,2,0,None,0,97 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd46634,vbd46634,Apartment,Sint-Jans-Molenbeek,1080,None,Normal,104,0,2,1,1,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2140/borgerhout/rwc40600,rwc40600,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/3600/genk/rbu58999,rbu58999,Apartment,Genk,3600,2003,Normal,119,0,3,None,1,None,0,None,0,309 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd47053,vbd47053,Apartment,Sint-Jans-Molenbeek,1080,2007,Excellent,93,0,2,1,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2150/borsbeek/rbu60113,rbu60113,Apartment,Borsbeek,2150,1979,Normal,86,0,2,None,1,3,0,None,0,289 900 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd47239,vbd47239,Apartment,Sint-Jans-Molenbeek,1080,1958,None,50,0,1,1,1,2,0,None,0,155 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2150/borsbeek/rbu62485,rbu62485,Apartment,Borsbeek,2150,2004,Excellent,85,0,2,None,1,2,1,91,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3630/maasmechelen/rbu46234,rbu46234,Apartment,Maasmechelen,3630,1978,Normal,103,0,2,None,1,2,0,None,0,309 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2150/borsbeek/rbu64481,rbu64481,Apartment,Borsbeek,2150,1978,Excellent,228,None,6,None,1,None,1,None,0,680 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd47312,vbd47312,Apartment,Sint-Jans-Molenbeek,1080,None,None,150,0,3,None,1,None,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3630/maasmechelen/rbu46235,rbu46235,Apartment,Maasmechelen,3630,None,Normal,55,0,1,None,1,2,1,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3630/maasmechelen/rbu56153,rbu56153,Apartment,Maasmechelen,3630,None,New,80,1,2,None,1,None,1,42,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd47583,vbd47583,Apartment,Sint-Jans-Molenbeek,1080,1970,Excellent,108,0,2,1,1,2,0,None,0,273 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu55926,rbu55926,Apartment,Merksem,2170,None,Normal,54,0,1,None,1,2,0,None,0,169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd47585,vbd47585,Apartment,Sint-Jans-Molenbeek,1080,1965,Excellent,167,0,4,None,1,3,0,None,0,Make offer from 299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3630/maasmechelen/rbu60141,rbu60141,Apartment,Maasmechelen,3630,2009,Normal,68,0,1,None,1,2,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu55927,rbu55927,Apartment,Merksem,2170,None,Normal,55,0,1,None,1,2,0,None,0,169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu55938,rbu55938,Apartment,Merksem,2170,1987,None,50,None,1,None,0,None,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd47770,vbd47770,Apartment,Sint-Jans-Molenbeek,1080,2006,Excellent,84,0,2,1,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3640/kinrooi/rbu35273,rbu35273,Apartment,Kinrooi,3640,2023,New,116,0,2,None,1,2,0,None,0,292 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu56818,rbu56818,Apartment,Merksem,2170,None,Normal,55,0,1,None,1,2,0,None,0,169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd48092,vbd48092,Apartment,Sint-Jans-Molenbeek,1080,1939,Normal,65,0,2,1,1,2,0,None,0,169 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3640/kinrooi/rbu35275,rbu35275,Apartment,Kinrooi,3640,2023,New,110,0,2,None,1,2,0,None,0,277 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu44637,rbu44637,Apartment,Dilsen-Stokkem,3650,2018,None,78,None,2,None,1,None,1,None,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu57410,rbu57410,Apartment,Merksem,2170,None,New,88,0,2,None,1,2,0,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd48982,vbd48982,Apartment,Sint-Jans-Molenbeek,1080,1970,Normal,95,0,2,1,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62045,rbu62045,Apartment,Dilsen-Stokkem,3650,None,None,137,None,3,None,1,None,1,36,0,342 480 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu57411,rbu57411,Apartment,Merksem,2170,None,New,88,0,2,None,1,2,0,None,0,310 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd48987,vbd48987,Apartment,Sint-Jans-Molenbeek,1080,None,To renovate,100,0,2,1,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62046,rbu62046,Apartment,Dilsen-Stokkem,3650,None,None,124,None,2,None,1,None,1,34,0,310 560 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu57413,rbu57413,Apartment,Merksem,2170,None,New,88,0,2,None,1,2,0,None,0,305 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd48988,vbd48988,Apartment,Sint-Jans-Molenbeek,1080,None,To renovate,100,0,2,1,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62047,rbu62047,Apartment,Dilsen-Stokkem,3650,None,None,101,None,2,None,1,None,1,44,0,287 280 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu58380,rbu58380,Apartment,Merksem,2170,1959,Normal,81,0,2,None,1,2,0,None,0,205 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd48989,vbd48989,Apartment,Sint-Jans-Molenbeek,1080,1967,To renovate,120,0,3,1,1,2,0,None,0,290 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62048,rbu62048,Apartment,Dilsen-Stokkem,3650,None,None,88,None,2,None,1,None,1,38,0,261 660 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd49110,vbd49110,Apartment,Sint-Jans-Molenbeek,1080,2005,Normal,90,0,2,None,1,None,0,None,0,255 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu59391,rbu59391,Apartment,Merksem,2170,1991,Normal,112,0,2,None,1,None,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd49201,vbd49201,Apartment,Sint-Jans-Molenbeek,1080,1967,None,120,0,2,None,1,2,0,None,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62049,rbu62049,Apartment,Dilsen-Stokkem,3650,None,None,95,None,2,None,1,None,1,33,0,272 700 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu61590,rbu61590,Apartment,Merksem,2170,None,None,85,None,2,None,1,4,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62050,rbu62050,Apartment,Dilsen-Stokkem,3650,None,None,95,None,2,None,1,None,1,29,0,272 700 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd49222,vbd49222,Apartment,Sint-Jans-Molenbeek,1080,1969,Normal,87,0,2,1,1,2,0,None,0,Make offer from 229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu62486,rbu62486,Apartment,Merksem,2170,None,Excellent,117,0,3,None,1,2,0,None,0,309 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62051,rbu62051,Apartment,Dilsen-Stokkem,3650,None,None,104,None,2,None,1,None,1,None,0,284 336 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd49287,vbd49287,Apartment,Sint-Jans-Molenbeek,1080,None,None,170,0,3,None,0,None,1,None,0,345 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu62715,rbu62715,Apartment,Merksem,2170,1974,Normal,99,0,2,None,1,3,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd49531,vbd49531,Apartment,Sint-Jans-Molenbeek,1080,1975,To be renovated,101,0,2,None,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2170/merksem/rbu64417,rbu64417,Apartment,Merksem,2170,1975,Normal,100,0,3,None,1,3,0,None,0,268 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62052,rbu62052,Apartment,Dilsen-Stokkem,3650,None,None,99,None,2,None,1,None,1,None,0,274 580 €
+https://immovlan.be/en/detail/apartment/for-sale/2180/ekeren/rbu57424,rbu57424,Apartment,Ekeren,2180,1971,Excellent,101,0,2,None,1,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62053,rbu62053,Apartment,Dilsen-Stokkem,3650,None,None,116,None,2,None,1,None,1,None,0,311 792 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd49617,vbd49617,Apartment,Sint-Jans-Molenbeek,1080,2008,Excellent,90,0,2,None,1,None,0,None,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd49708,vbd49708,Apartment,Sint-Jans-Molenbeek,1080,1973,Excellent,89,0,2,1,1,2,1,52,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2200/herentals/rbu02851,rbu02851,Apartment,Herentals,2200,1930,To be renovated,99,0,2,None,1,2,0,None,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62054,rbu62054,Apartment,Dilsen-Stokkem,3650,None,None,86,None,2,None,1,None,1,None,0,246 400 €
+https://immovlan.be/en/detail/apartment/for-sale/1080/sint-jans-molenbeek/vbd50103,vbd50103,Apartment,Sint-Jans-Molenbeek,1080,1968,Normal,140,0,3,1,1,4,0,None,0,329 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2200/herentals/rbu05582,rbu05582,Apartment,Herentals,2200,1975,Normal,50,0,1,None,1,2,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62055,rbu62055,Apartment,Dilsen-Stokkem,3650,None,None,91,None,2,None,1,None,1,None,0,257 881 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/rbu32136,rbu32136,Apartment,Koekelberg,1081,None,Normal,182,0,3,None,1,2,0,None,0,430 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2200/herentals/rbu32487,rbu32487,Apartment,Herentals,2200,1995,Normal,108,0,2,None,1,3,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62056,rbu62056,Apartment,Dilsen-Stokkem,3650,None,None,89,None,2,None,1,None,0,None,0,258 020 €
+https://immovlan.be/en/detail/apartment/for-sale/2200/herentals/rbu55849,rbu55849,Apartment,Herentals,2200,None,Normal,70,None,2,None,1,None,0,None,0,276 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/rbu62024,rbu62024,Apartment,Koekelberg,1081,1997,Normal,80,0,2,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3650/dilsen-stokkem/rbu62057,rbu62057,Apartment,Dilsen-Stokkem,3650,None,None,102,None,2,None,1,None,1,None,0,277 030 €
+https://immovlan.be/en/detail/apartment/for-sale/2200/herentals/rbu65755,rbu65755,Apartment,Herentals,2200,None,Normal,157,0,3,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3665/as/rbu52135,rbu52135,Apartment,As,3665,1993,None,120,0,2,None,1,None,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd00516,vbd00516,Apartment,Koekelberg,1081,None,Excellent,116,None,3,1,1,None,0,None,0,Make offer from 349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2200/herentals/rbu65818,rbu65818,Apartment,Herentals,2200,2020,Excellent,89,0,2,None,1,2,0,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu33294,rbu33294,Apartment,Maaseik,3680,None,None,105,None,3,None,1,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd23043,vbd23043,Apartment,Koekelberg,1081,None,None,71,None,1,None,1,3,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2200/morkhoven/rbu62113,rbu62113,Apartment,Morkhoven,2200,2023,Normal,76,0,2,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35981,rbu35981,Apartment,Maaseik,3680,None,None,88,None,2,None,1,None,0,None,0,340 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd44898,vbd44898,Apartment,Koekelberg,1081,None,To renovate,60,0,1,1,0,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2220/heist-op-den-berg/rbu56959,rbu56959,Apartment,Heist-op-den-Berg,2220,2022,New,91,0,2,None,1,3,0,None,0,398 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd44899,vbd44899,Apartment,Koekelberg,1081,None,To renovate,60,0,1,1,0,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35983,rbu35983,Apartment,Maaseik,3680,None,None,91,None,2,None,1,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd44901,vbd44901,Apartment,Koekelberg,1081,None,To renovate,60,0,1,1,0,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35985,rbu35985,Apartment,Maaseik,3680,None,None,91,None,2,None,1,None,0,None,0,310 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2221/booischot/rbu66591,rbu66591,Apartment,Booischot,2221,2022,New,103,0,2,None,1,None,1,36,0,305 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd45414,vbd45414,Apartment,Koekelberg,1081,1926,Normal,143,0,3,1,1,2,0,None,0,339 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35986,rbu35986,Apartment,Maaseik,3680,None,None,93,None,2,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2221/booischot/rbu66593,rbu66593,Apartment,Booischot,2221,2022,New,98,0,2,None,1,None,0,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd46455,vbd46455,Apartment,Koekelberg,1081,1965,Normal,69,0,2,1,1,2,0,None,0,Make offer from 199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35988,rbu35988,Apartment,Maaseik,3680,None,None,87,None,2,None,1,None,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2235/hulshout/rbu64438,rbu64438,Apartment,Hulshout,2235,2017,Excellent,123,0,2,None,1,4,1,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd47913,vbd47913,Apartment,Koekelberg,1081,1960,Excellent,87,None,2,1,1,2,1,80,0,260 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2240/zandhoven/rbu66668,rbu66668,Apartment,Zandhoven,2240,2023,New,80,0,1,None,1,2,1,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35989,rbu35989,Apartment,Maaseik,3680,None,None,92,None,2,None,1,None,0,None,0,300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd48091,vbd48091,Apartment,Koekelberg,1081,None,Normal,87,0,2,1,1,2,0,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35990,rbu35990,Apartment,Maaseik,3680,None,None,101,None,2,None,1,None,0,None,0,345 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2240/zandhoven/rbu66669,rbu66669,Apartment,Zandhoven,2240,2023,New,91,0,2,None,1,2,0,None,0,332 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd48176,vbd48176,Apartment,Koekelberg,1081,1970,Normal,85,0,2,None,1,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35991,rbu35991,Apartment,Maaseik,3680,None,None,91,None,2,None,1,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2240/zandhoven/rbu66670,rbu66670,Apartment,Zandhoven,2240,2023,New,103,0,2,None,1,2,1,None,0,359 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd48488,vbd48488,Apartment,Koekelberg,1081,1968,To be renovated,91,None,2,None,1,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2240/zandhoven/rbu66671,rbu66671,Apartment,Zandhoven,2240,2023,New,95,0,2,None,1,2,0,None,0,400 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35992,rbu35992,Apartment,Maaseik,3680,None,None,91,None,2,None,1,None,0,None,0,315 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd48962,vbd48962,Apartment,Koekelberg,1081,1933,Excellent,89,None,1,1,1,2,1,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35994,rbu35994,Apartment,Maaseik,3680,None,None,71,None,1,None,1,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2240/zandhoven/rbu66672,rbu66672,Apartment,Zandhoven,2240,2023,New,85,0,1,None,1,2,0,None,0,321 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2240/zandhoven/rbu66673,rbu66673,Apartment,Zandhoven,2240,2023,New,90,0,1,None,1,2,0,None,0,400 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd49126,vbd49126,Apartment,Koekelberg,1081,1964,To be renovated,107,None,2,None,1,2,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35997,rbu35997,Apartment,Maaseik,3680,None,None,87,None,2,None,1,None,0,None,0,295 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd49363,vbd49363,Apartment,Koekelberg,1081,None,Normal,102,None,2,None,0,2,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu35999,rbu35999,Apartment,Maaseik,3680,None,None,99,None,2,None,1,None,0,None,0,345 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2260/westerlo/rbu57469,rbu57469,Apartment,Westerlo,2260,2023,New,130,0,3,1,1,3,1,None,0,369 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1081/koekelberg/vbd50041,vbd50041,Apartment,Koekelberg,1081,1970,To be renovated,42,0,1,None,0,2,0,None,0,Make offer from 130 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu42627,rbu42627,Apartment,Maaseik,3680,1994,None,None,None,2,None,1,None,0,None,0,229 500 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/rbu44066,rbu44066,Apartment,Berchem-Sainte-Agathe,1082,None,To be renovated,80,0,1,None,0,None,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2270/herenthout/rbr93807,rbr93807,Apartment,Herenthout,2270,2022,New,82,0,1,1,1,3,0,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu62074,rbu62074,Apartment,Maaseik,3680,2015,None,151,None,3,None,1,None,1,None,0,319 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2270/herenthout/rbu60722,rbu60722,Apartment,Herenthout,2270,2008,Normal,85,0,1,None,1,3,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/rbu60601,rbu60601,Apartment,Berchem-Sainte-Agathe,1082,1958,Fully renovated,74,None,1,None,1,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3680/maaseik/rbu64331,rbu64331,Apartment,Maaseik,3680,1979,None,110,None,2,None,0,None,1,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2280/grobbendonk/rbu61422,rbu61422,Apartment,Grobbendonk,2280,2007,Normal,100,None,2,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/3690/zutendaal/rbu51011,rbu51011,Apartment,Zutendaal,3690,1984,Normal,190,0,3,None,1,3,1,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/rbu61401,rbu61401,Apartment,Berchem-Sainte-Agathe,1082,None,Normal,195,0,3,None,1,None,0,None,0,575 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2290/vorselaar/rbu62776,rbu62776,Apartment,Vorselaar,2290,2010,Normal,65,0,2,None,1,2,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3690/zutendaal/rbu52273,rbu52273,Apartment,Zutendaal,3690,1992,None,96,None,2,None,0,None,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd39393,vbd39393,Apartment,Berchem-Sainte-Agathe,1082,None,Excellent,116,None,3,1,1,None,0,None,0,Make offer from 349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36026,rbu36026,Apartment,Turnhout,2300,2024,New,64,0,1,None,1,3,0,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3700/berg/rbu28472,rbu28472,Apartment,Berg,3700,None,None,None,None,1,None,1,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd42460,vbd42460,Apartment,Berchem-Sainte-Agathe,1082,1994,Excellent,96,0,2,None,0,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36029,rbu36029,Apartment,Turnhout,2300,2024,New,65,0,1,None,1,3,0,None,0,207 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3700/berg/rbu33640,rbu33640,Apartment,Berg,3700,2014,Excellent,86,None,1,None,1,None,1,None,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd46772,vbd46772,Apartment,Berchem-Sainte-Agathe,1082,1965,Normal,None,0,1,None,1,2,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36053,rbu36053,Apartment,Turnhout,2300,2024,New,61,0,1,None,1,3,0,None,0,192 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3700/berg/rbu58336,rbu58336,Apartment,Berg,3700,2018,None,None,None,2,None,1,None,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd47290,vbd47290,Apartment,Berchem-Sainte-Agathe,1082,None,None,68,0,2,None,1,4,0,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36054,rbu36054,Apartment,Turnhout,2300,2024,New,59,0,1,None,1,3,0,None,0,192 000 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd47859,vbd47859,Apartment,Berchem-Sainte-Agathe,1082,2025,None,114,0,3,1,1,3,1,11,0,380 000 €
+https://immovlan.be/en/detail/apartment/for-sale/3700/koninksem/rbs87868,rbs87868,Apartment,Koninksem,3700,None,New,None,None,2,None,1,2,0,None,0,331 147 €
+https://immovlan.be/en/detail/apartment/for-sale/1082/berchem-sainte-agathe/vbd47860,vbd47860,Apartment,Berchem-Sainte-Agathe,1082,2025,New,97,0,2,1,1,3,0,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/2300/turnhout/rbu36057,rbu36057,Apartment,Turnhout,2300,2024,New,68,0,1,None,1,3,0,None,0,217 000 €
