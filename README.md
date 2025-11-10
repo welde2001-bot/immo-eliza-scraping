@@ -71,9 +71,9 @@ Several steps must be completed to develop a fully functional web scraper, as il
 A Python-based web scraper for collecting real estate property data from **ImmoVlan**, designed for use in **data analysis** and **machine learning pipelines**.  
 This tool can scrape **10,000+ property listings** and export them as clean CSV datasets for further processing.
 
-## ⚙️ 1. Clone the Repository
+### ⚙️ 1. Clone the Repository
 
-## 🧩 2. Set Up the Environment
+### 🧩 2. Set Up the Environment
 
 Make sure you have Python 3.10+ installed.
 
@@ -83,7 +83,7 @@ Install all required dependencies:
 
 pip install -r requirements.txt
 ```
-## 🕹️ 3. Run the Scraper
+### 🕹️ 3. Run the Scraper
 
 Run the main script in the terminal to start collecting property URLs and scrape detailed property information:
 
@@ -93,7 +93,7 @@ python main.py
 
 ```
 
-## 🧰 4. Configuration
+### 🧰 4. Configuration
 
 You can adjust scraping parameters directly in main.py:
 
@@ -106,7 +106,7 @@ scrape_properties_from_file(input_file="data/urls.csv", output_file="data/proper
 Increase max_pages to scrape more URLs (e.g., for 10,000+ properties).
 
 
-## 5. Sources used for the project
+### 5. Sources used for the project
 
 - https://www.selenium.dev/
 - https://geckodriver.org/
