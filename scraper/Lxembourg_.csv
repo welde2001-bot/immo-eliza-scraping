@@ -1,0 +1,997 @@
+url,property_id,property_type,locality_name,postal_code,build_year,state,living_area,furnished,number_rooms,equipped_kitchen,terrace,facades,garden,garden_area,swimming_pool,price
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd42697,vbd42697,Residence,Bastogne,6600,1979,To be renovated,122,None,3,None,0,2,1,None,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/6860/leglise/vbd34252,vbd34252,Residence,Léglise,6860,None,Normal,None,0,3,None,1,4,1,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6600/bastogne/vbc73546,vbc73546,Apartment,Bastogne,6600,1993,Normal,None,0,2,1,0,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/residence/for-sale/6860/leglise/vbd46401,vbd46401,Residence,Léglise,6860,None,Normal,509,0,7,None,1,None,1,None,0,530 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd49629,vbd49629,Residence,Bastogne,6600,None,Fully renovated,371,0,4,None,0,None,0,None,0,550 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6600/bastogne/vbd17972,vbd17972,Apartment,Bastogne,6600,None,New,90,None,2,None,1,None,0,None,0,272 500 €
+https://immovlan.be/en/detail/residence/for-sale/6860/leglise/vbd48542,vbd48542,Residence,Léglise,6860,1995,Normal,238,0,3,1,1,3,1,794,0,348 500 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vwd13909,vwd13909,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/6600/bastogne/vbd18878,vbd18878,Apartment,Bastogne,6600,None,None,97,0,2,None,None,None,0,None,0,315 000 €
+https://immovlan.be/en/detail/residence/for-sale/6860/leglise/vwd03452,vwd03452,Residence,Léglise,6860,None,Normal,180,None,3,None,None,None,1,None,0,Make offer from 160 000 €
+https://immovlan.be/en/detail/residence/for-sale/6630/martelange/vbb63662,vbb63662,Residence,Martelange,6630,None,None,137,0,6,None,0,3,1,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6600/bastogne/vbd28725,vbd28725,Apartment,Bastogne,6600,2025,New,98,0,2,None,1,None,0,None,0,278 256 €
+https://immovlan.be/en/detail/residence/for-sale/6870/arville/vbd39067,vbd39067,Residence,Arville,6870,None,To renovate,176,None,4,None,0,None,1,None,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/6630/martelange/vbc53423,vbc53423,Residence,Martelange,6630,None,To be renovated,165,None,3,1,None,None,0,None,0,79 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6600/bastogne/vbd28726,vbd28726,Apartment,Bastogne,6600,2025,New,100,0,2,None,1,None,0,None,0,303 256 €
+https://immovlan.be/en/detail/residence/for-sale/6870/hatrival/vbd34027,vbd34027,Residence,Hatrival,6870,1971,To renovate,230,0,5,1,1,4,1,None,0,320 000 €
+https://immovlan.be/en/detail/residence/for-sale/6630/martelange/vbc77383,vbc77383,Residence,Martelange,6630,2008,Normal,292,0,6,1,0,4,1,None,0,570 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6600/bastogne/vbd43155,vbd43155,Apartment,Bastogne,6600,None,Normal,90,None,2,None,1,None,1,150,0,349 000 €
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbb80214,vbb80214,Residence,Saint-Hubert,6870,1850,Normal,135,0,4,1,1,2,1,None,0,135 000 €
+https://immovlan.be/en/detail/residence/for-sale/6630/martelange/vbc91439,vbc91439,Residence,Martelange,6630,None,None,None,None,None,None,None,None,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6640/sibret/vbc19054,vbc19054,Apartment,Sibret,6640,2023,New,85,0,2,1,1,4,1,110,0,260 000 €
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbc89151,vbc89151,Residence,Saint-Hubert,6870,1850,To renovate,142,0,3,1,1,3,1,None,0,170 000 €
+https://immovlan.be/en/detail/residence/for-sale/6630/martelange/vbc91440,vbc91440,Residence,Martelange,6630,None,None,None,None,None,None,None,None,0,None,0,450 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6640/vaux-sur-sure/vbc62597,vbc62597,Apartment,Vaux-sur-Sûre,6640,2018,Normal,95,0,3,1,1,4,0,None,0,280 000 €
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbc96491,vbc96491,Residence,Saint-Hubert,6870,None,Normal,80,0,2,1,1,2,1,46,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6630/martelange/vbd36955,vbd36955,Residence,Martelange,6630,1973,Normal,None,0,2,None,1,4,1,None,0,300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6640/vaux-sur-sure/vbd47392,vbd47392,Apartment,Vaux-sur-Sûre,6640,2024,None,89,0,2,None,1,None,1,None,0,229 900 €
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbd26054,vbd26054,Residence,Saint-Hubert,6870,1900,To be renovated,150,0,3,None,0,4,1,410,0,159 000 €
+https://immovlan.be/en/detail/residence/for-sale/6630/martelange/vbd44246,vbd44246,Residence,Martelange,6630,None,None,203,0,4,None,1,3,1,None,0,280 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6690/vielsalm/vbc19283,vbc19283,Apartment,Vielsalm,6690,1979,Excellent,50,1,1,1,1,None,1,None,0,Make offer from 140 000 €
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbd35181,vbd35181,Residence,Saint-Hubert,6870,1968,To be renovated,75,0,2,None,1,3,0,None,0,Make offer from 30 000 €
+https://immovlan.be/en/detail/residence/for-sale/6630/martelange/vbd45436,vbd45436,Residence,Martelange,6630,None,To be renovated,160,0,2,None,1,None,1,None,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6690/vielsalm/vbd04539,vbd04539,Apartment,Vielsalm,6690,1966,Normal,86,None,1,None,1,None,1,157,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbd35933,vbd35933,Residence,Saint-Hubert,6870,1850,Fully renovated,178,0,4,1,1,4,1,30,0,230 000 €
+https://immovlan.be/en/detail/residence/for-sale/6637/fauvillers/vbd47164,vbd47164,Residence,Fauvillers,6637,1996,Normal,258,None,3,None,1,None,1,1100,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6690/vielsalm/vbd04540,vbd04540,Apartment,Vielsalm,6690,1966,Normal,78,None,1,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbd41534,vbd41534,Residence,Saint-Hubert,6870,1965,To renovate,140,0,3,1,1,4,1,1700,0,Make offer from 265 000 €
+https://immovlan.be/en/detail/residence/for-sale/6640/morhet/vbd22776,vbd22776,Residence,Morhet,6640,2007,Normal,None,0,3,None,0,4,0,None,0,300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6690/vielsalm/vbd20127,vbd20127,Apartment,Vielsalm,6690,2018,New,86,None,2,1,1,None,0,None,0,292 000 €
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbd45192,vbd45192,Residence,Saint-Hubert,6870,None,To be renovated,None,0,4,1,1,2,1,None,0,109 000 €
+https://immovlan.be/en/detail/residence/for-sale/6640/sibret/vbc69630,vbc69630,Residence,Sibret,6640,1992,None,482,0,8,1,1,4,1,3440,0,1 200 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6698/grand-halleux/vbd24100,vbd24100,Apartment,Grand-Halleux,6698,1898,None,25,None,1,None,0,None,1,21500,0,59 000 €
+https://immovlan.be/en/detail/residence/for-sale/6870/saint-hubert/vbd47071,vbd47071,Residence,Saint-Hubert,6870,2015,Normal,200,None,3,None,1,3,1,None,0,349 000 €
+https://immovlan.be/en/detail/residence/for-sale/6640/sibret/vbc69631,vbc69631,Residence,Sibret,6640,1992,Normal,482,0,8,1,1,4,1,3440,0,1 200 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6698/grand-halleux/vbd30367,vbd30367,Apartment,Grand-Halleux,6698,1898,None,55,None,2,None,0,None,1,21500,0,97 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/auby-sur-semois/vbc02590,vbc02590,Residence,Auby-sur-Semois,6880,None,None,176,0,4,None,1,3,1,None,0,210 000 €
+https://immovlan.be/en/detail/residence/for-sale/6640/vaux-sur-sure/vbc67254,vbc67254,Residence,Vaux-sur-Sûre,6640,1999,Normal,149,0,3,1,1,4,1,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc35028,vbc35028,Apartment,Arlon,6700,None,To renovate,88,0,2,1,1,None,0,None,0,189 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/auby-sur-semois/vbc02591,vbc02591,Residence,Auby-sur-Semois,6880,None,None,88,0,4,None,1,2,1,None,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/6640/vaux-sur-sure/vbd09526,vbd09526,Residence,Vaux-sur-Sûre,6640,1939,To be renovated,None,0,3,None,0,3,1,None,0,200 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc67377,vbc67377,Apartment,Arlon,6700,None,Normal,52,0,1,1,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/auby-sur-semois/vbd31824,vbd31824,Residence,Auby-sur-Semois,6880,None,Normal,257,None,3,None,0,None,1,1557,0,224 999 €
+https://immovlan.be/en/detail/residence/for-sale/6640/vaux-sur-sure/vbd39855,vbd39855,Residence,Vaux-sur-Sûre,6640,1931,To be renovated,None,0,3,None,0,4,1,None,0,95 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc72553,vbc72553,Apartment,Arlon,6700,2025,New,38,0,1,1,1,2,1,None,0,155 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/auby-sur-semois/vbd39071,vbd39071,Residence,Auby-sur-Semois,6880,1850,To renovate,337,0,7,1,1,4,1,20,0,282 000 €
+https://immovlan.be/en/detail/residence/for-sale/6640/vaux-sur-sure/vbd44269,vbd44269,Residence,Vaux-sur-Sûre,6640,2019,New,None,0,4,None,1,4,0,None,0,400 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc72554,vbc72554,Apartment,Arlon,6700,2025,New,56,0,1,1,1,2,1,None,0,225 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbc81088,vbc81088,Residence,Bertrix,6880,1957,To be renovated,115,0,4,None,1,2,1,100,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbb80194,vbb80194,Residence,Houffalize,6660,None,To be renovated,475,0,12,1,0,4,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc72557,vbc72557,Apartment,Arlon,6700,2025,New,81,0,2,1,1,2,1,None,0,309 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbc97704,vbc97704,Residence,Bertrix,6880,1899,Normal,107,0,3,1,0,3,1,486,0,185 000 €
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbc74847,vbc74847,Residence,Houffalize,6660,None,Normal,None,0,2,1,1,2,1,None,0,180 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc72560,vbc72560,Apartment,Arlon,6700,2025,New,114,0,3,1,1,2,1,None,0,459 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd13522,vbd13522,Residence,Bertrix,6880,1899,Normal,107,0,3,1,0,3,1,486,0,185 000 €
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbc87496,vbc87496,Residence,Houffalize,6660,2023,New,124,0,4,1,1,3,1,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc72562,vbc72562,Apartment,Arlon,6700,2025,New,121,0,3,1,1,2,1,None,0,445 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd13876,vbd13876,Residence,Bertrix,6880,2013,None,None,None,5,None,0,4,1,None,0,Make offer from 375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd13852,vbd13852,Residence,Houffalize,6660,2009,Excellent,237,0,5,1,1,4,1,None,0,440 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc72563,vbc72563,Apartment,Arlon,6700,2025,New,118,0,3,1,1,2,1,None,0,439 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd14596,vbd14596,Residence,Bertrix,6880,1930,To renovate,150,0,3,1,1,2,1,50,0,179 000 €
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd26402,vbd26402,Residence,Houffalize,6660,1937,To renovate,171,None,3,None,0,None,1,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc73643,vbc73643,Apartment,Arlon,6700,2025,New,95,0,2,1,1,2,1,None,0,337 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd22634,vbd22634,Residence,Bertrix,6880,1930,To be renovated,250,0,3,None,1,3,1,200,0,149 000 €
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd27820,vbd27820,Residence,Houffalize,6660,None,To renovate,226,None,2,None,1,None,0,None,0,135 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc75854,vbc75854,Apartment,Arlon,6700,2007,Normal,61,0,1,1,None,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd23627,vbd23627,Residence,Bertrix,6880,None,Normal,264,None,5,None,0,None,1,350,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc79220,vbc79220,Apartment,Arlon,6700,1993,Normal,110,0,2,1,1,2,0,None,0,310 000 €
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd32655,vbd32655,Residence,Houffalize,6660,1950,Normal,447,None,5,None,0,None,1,None,0,220 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd24489,vbd24489,Residence,Bertrix,6880,None,Normal,292,0,6,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd38608,vbd38608,Residence,Houffalize,6660,1948,Fully renovated,139,None,3,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc83183,vbc83183,Apartment,Arlon,6700,2007,Normal,90,0,2,None,1,2,0,None,0,290 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd26563,vbd26563,Residence,Bertrix,6880,1919,Normal,200,0,3,1,1,3,1,170,0,310 000 €
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd41913,vbd41913,Residence,Houffalize,6660,1942,To renovate,254,0,6,1,1,3,1,342,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc93218,vbc93218,Apartment,Arlon,6700,2003,Normal,78,0,2,None,1,4,0,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd29985,vbd29985,Residence,Bertrix,6880,1970,None,140,0,5,1,1,4,1,1000,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd42727,vbd42727,Residence,Houffalize,6660,None,Normal,None,0,4,None,0,None,0,None,0,350 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbc99869,vbc99869,Apartment,Arlon,6700,2024,New,103,0,2,None,1,3,0,None,0,345 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd29986,vbd29986,Residence,Bertrix,6880,1915,None,190,0,5,1,1,4,1,1000,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd49420,vbd49420,Residence,Houffalize,6660,1931,To renovate,165,None,3,None,0,None,1,225,0,130 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd00877,vbd00877,Apartment,Arlon,6700,1966,To be renovated,70,0,1,None,0,3,0,None,0,Make offer from 160 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd30232,vbd30232,Residence,Bertrix,6880,1900,To be renovated,122,0,4,None,1,2,1,60,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6660/houffalize/vbd50314,vbd50314,Residence,Houffalize,6660,1934,Normal,None,0,3,None,0,4,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd01223,vbd01223,Apartment,Arlon,6700,None,None,70,0,2,None,0,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd32787,vbd32787,Residence,Bertrix,6880,1875,Normal,128,0,3,1,1,4,1,180,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6661/mont/vbd12526,vbd12526,Residence,Mont,6661,2000,Excellent,384,1,4,1,1,4,1,None,0,1 275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd03578,vbd03578,Apartment,Arlon,6700,None,Normal,87,0,2,None,1,4,0,None,0,330 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd39069,vbd39069,Residence,Bertrix,6880,2014,Excellent,150,0,5,1,1,4,1,800,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6663/mabompre/vbd41831,vbd41831,Residence,Mabompré,6663,1875,Excellent,623,1,9,1,1,4,1,None,1,1 250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd06554,vbd06554,Apartment,Arlon,6700,None,Normal,120,None,2,None,None,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd40768,vbd40768,Residence,Bertrix,6880,1890,Fully renovated,108,0,3,1,1,2,0,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6666/wibrin/vbc66825,vbc66825,Residence,Wibrin,6666,1950,To renovate,184,0,5,None,1,4,1,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd06555,vbd06555,Apartment,Arlon,6700,None,None,67,None,1,None,None,2,0,None,0,170 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd43151,vbd43151,Residence,Bertrix,6880,1830,To renovate,115,0,3,1,1,2,1,200,0,109 000 €
+https://immovlan.be/en/detail/residence/for-sale/6666/wibrin/vbd27768,vbd27768,Residence,Wibrin,6666,None,Excellent,562,1,9,1,1,4,1,None,0,980 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd09432,vbd09432,Apartment,Arlon,6700,2007,Normal,75,0,1,None,1,2,0,None,0,270 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd43175,vbd43175,Residence,Bertrix,6880,2002,Normal,240,None,3,None,1,None,1,None,0,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/6670/gouvy/vbd23623,vbd23623,Residence,Gouvy,6670,None,Normal,309,None,5,None,0,None,1,1414,0,349 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd10018,vbd10018,Apartment,Arlon,6700,2014,Normal,104,0,3,None,1,2,0,None,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd44175,vbd44175,Residence,Bertrix,6880,1972,None,205,0,4,None,1,4,1,None,0,329 000 €
+https://immovlan.be/en/detail/residence/for-sale/6670/gouvy/vbd24160,vbd24160,Residence,Gouvy,6670,None,To renovate,256,None,6,None,0,None,1,17809,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd17516,vbd17516,Apartment,Arlon,6700,2020,New,92,0,2,1,1,4,0,None,0,369 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vbd51450,vbd51450,Residence,Bertrix,6880,2014,Excellent,160,0,3,1,1,4,1,1200,0,329 000 €
+https://immovlan.be/en/detail/residence/for-sale/6670/gouvy/vbd25337,vbd25337,Residence,Gouvy,6670,None,To renovate,91,1,3,None,0,None,1,None,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/6880/bertrix/vwd15250,vwd15250,Residence,Bertrix,6880,None,To be renovated,110,None,3,1,None,2,1,None,0,199 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd26419,vbd26419,Apartment,Arlon,6700,1990,Normal,99,0,2,1,0,3,0,None,0,249 000 €
+https://immovlan.be/en/detail/residence/for-sale/6670/gouvy/vbd35840,vbd35840,Residence,Gouvy,6670,1890,To be renovated,115,0,2,None,1,4,1,560,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd29548,vbd29548,Apartment,Arlon,6700,1985,None,66,0,2,None,0,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/residence/for-sale/6887/herbeumont/vbc91173,vbc91173,Residence,Herbeumont,6887,2008,Normal,207,0,4,None,1,4,1,None,0,429 000 €
+https://immovlan.be/en/detail/residence/for-sale/6670/gouvy/vbd43180,vbd43180,Residence,Gouvy,6670,None,Normal,332,None,6,None,0,None,0,None,0,320 000 €
+https://immovlan.be/en/detail/residence/for-sale/6887/herbeumont/vbd11836,vbd11836,Residence,Herbeumont,6887,1954,Normal,431,None,6,None,0,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd32693,vbd32693,Apartment,Arlon,6700,2007,Normal,47,0,1,1,0,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/residence/for-sale/6670/gouvy/vbd45017,vbd45017,Residence,Gouvy,6670,1949,Normal,None,0,4,None,0,4,1,None,0,225 000 €
+https://immovlan.be/en/detail/residence/for-sale/6887/herbeumont/vbd20432,vbd20432,Residence,Herbeumont,6887,1850,To renovate,233,0,3,1,1,4,1,2500,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd32878,vbd32878,Apartment,Arlon,6700,1954,Normal,139,0,3,None,0,None,0,None,0,310 000 €
+https://immovlan.be/en/detail/residence/for-sale/6670/limerle/vbd36252,vbd36252,Residence,Limerlé,6670,1918,Normal,None,0,7,None,1,4,1,None,1,450 000 €
+https://immovlan.be/en/detail/residence/for-sale/6887/herbeumont/vbd48493,vbd48493,Residence,Herbeumont,6887,2020,Excellent,238,0,3,None,1,4,1,230,0,449 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd35296,vbd35296,Apartment,Arlon,6700,1979,Normal,102,None,2,None,0,None,0,None,0,350 000 €
+https://immovlan.be/en/detail/residence/for-sale/6671/bovigny/vbd35411,vbd35411,Residence,Bovigny,6671,1890,To renovate,115,0,2,None,1,4,1,560,0,149 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd35891,vbd35891,Apartment,Arlon,6700,1953,To renovate,75,1,1,1,0,3,0,None,0,148 000 €
+https://immovlan.be/en/detail/residence/for-sale/6887/herbeumont/vbd50716,vbd50716,Residence,Herbeumont,6887,2017,Excellent,249,0,4,1,1,4,1,2790,0,579 000 €
+https://immovlan.be/en/detail/residence/for-sale/6674/montleban/vbd30679,vbd30679,Residence,Montleban,6674,None,Normal,199,0,4,1,1,4,1,1113,0,495 000 €
+https://immovlan.be/en/detail/residence/for-sale/6887/herbeumont/vwd14584,vwd14584,Residence,Herbeumont,6887,None,None,200,None,3,None,None,None,1,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd36883,vbd36883,Apartment,Arlon,6700,2025,None,72,0,2,1,1,2,1,None,0,266 500 €
+https://immovlan.be/en/detail/residence/for-sale/6674/montleban/vbd34393,vbd34393,Residence,Montleban,6674,2025,New,98,0,3,None,0,4,1,3400,0,329 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd01714,vbd01714,Residence,Libin,6890,2007,Excellent,250,1,6,1,1,4,1,None,0,630 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd37672,vbd37672,Apartment,Arlon,6700,2007,Normal,82,0,2,None,1,2,0,None,0,260 000 €
+https://immovlan.be/en/detail/residence/for-sale/6680/sainte-ode/rwc40966,rwc40966,Residence,Sainte-Ode,6680,2025,Excellent,140,None,3,None,None,4,1,None,0,349 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd12470,vbd12470,Residence,Libin,6890,1874,Normal,143,0,4,1,1,4,1,341,0,240 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd38151,vbd38151,Apartment,Arlon,6700,None,Normal,92,0,2,None,0,2,0,None,0,240 000 €
+https://immovlan.be/en/detail/residence/for-sale/6680/sainte-ode/vbd34102,vbd34102,Residence,Sainte-Ode,6680,None,Normal,278,None,5,None,1,None,1,840,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd38610,vbd38610,Apartment,Arlon,6700,2016,Normal,67,None,2,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd19724,vbd19724,Residence,Libin,6890,1874,Normal,143,0,4,1,1,4,1,341,0,240 000 €
+https://immovlan.be/en/detail/residence/for-sale/6680/sainte-ode/vbd48492,vbd48492,Residence,Sainte-Ode,6680,1918,Normal,239,0,3,None,1,4,1,500,0,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd22679,vbd22679,Residence,Libin,6890,1870,Excellent,600,0,14,1,1,4,1,9500,0,2 300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd38786,vbd38786,Apartment,Arlon,6700,1967,To be renovated,127,None,3,None,1,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/residence/for-sale/6680/sainte-ode/vbd52613,vbd52613,Residence,Sainte-Ode,6680,None,Fully renovated,171,None,3,None,None,None,1,70,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd39848,vbd39848,Apartment,Arlon,6700,None,Normal,80,0,2,None,0,4,1,None,0,270 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd23331,vbd23331,Residence,Libin,6890,2011,Normal,400,0,5,1,1,4,1,1000,1,649 000 €
+https://immovlan.be/en/detail/residence/for-sale/6681/lavacherie/vbd05898,vbd05898,Residence,Lavacherie,6681,2005,None,120,0,2,None,1,3,1,740,1,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd23626,vbd23626,Residence,Libin,6890,None,To renovate,174,None,4,None,0,None,1,174,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd41051,vbd41051,Apartment,Arlon,6700,1973,None,74,0,2,None,0,2,0,None,0,239 000 €
+https://immovlan.be/en/detail/residence/for-sale/6687/bertogne/vbd07155,vbd07155,Residence,Bertogne,6687,2013,New,None,0,4,None,1,3,0,None,0,400 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd41946,vbd41946,Apartment,Arlon,6700,None,None,48,0,1,None,0,None,0,None,0,195 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd23903,vbd23903,Residence,Libin,6890,None,To be renovated,199,0,4,None,0,None,1,650,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6687/bertogne/vbd07771,vbd07771,Residence,Bertogne,6687,1976,To be renovated,60,0,1,None,0,4,1,None,0,80 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd42396,vbd42396,Apartment,Arlon,6700,1990,Normal,97,0,2,1,0,3,0,None,0,244 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd29453,vbd29453,Residence,Libin,6890,1980,Normal,176,None,3,None,1,None,1,53,0,330 000 €
+https://immovlan.be/en/detail/residence/for-sale/6687/bertogne/vbd40796,vbd40796,Residence,Bertogne,6687,1949,To renovate,274,None,3,None,0,None,1,118,0,199 000 €
+https://immovlan.be/en/detail/residence/for-sale/6687/bertogne/vbd40797,vbd40797,Residence,Bertogne,6687,1949,To renovate,310,None,4,None,1,None,1,1090,0,235 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd32785,vbd32785,Residence,Libin,6890,1830,Excellent,400,0,5,1,1,4,1,540,0,449 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd42449,vbd42449,Apartment,Arlon,6700,2025,New,73,None,2,None,1,None,0,None,0,315 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd42608,vbd42608,Residence,Libin,6890,1994,None,165,0,3,None,1,4,1,4727,0,479 000 €
+https://immovlan.be/en/detail/residence/for-sale/6690/vielsalm/vbd07762,vbd07762,Residence,Vielsalm,6690,1814,To be renovated,222,0,4,None,0,3,1,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd42450,vbd42450,Apartment,Arlon,6700,2025,New,72,None,2,None,1,None,0,None,0,265 000 €
+https://immovlan.be/en/detail/residence/for-sale/6690/vielsalm/vbd10953,vbd10953,Residence,Vielsalm,6690,None,Normal,617,None,9,1,1,4,1,1992,0,545 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd44510,vbd44510,Residence,Libin,6890,2015,Excellent,109,0,3,1,1,4,1,800,0,379 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd43930,vbd43930,Apartment,Arlon,6700,1994,To be renovated,100,None,2,None,0,None,1,None,0,235 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd46743,vbd46743,Residence,Libin,6890,2001,Excellent,290,0,5,1,1,4,1,800,1,499 000 €
+https://immovlan.be/en/detail/residence/for-sale/6690/vielsalm/vbd12566,vbd12566,Residence,Vielsalm,6690,None,To be renovated,235,None,5,None,0,2,1,None,0,150 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd44529,vbd44529,Apartment,Arlon,6700,2016,Normal,70,0,2,1,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/6690/vielsalm/vbd13848,vbd13848,Residence,Vielsalm,6690,2012,Normal,260,0,3,None,1,None,1,17940,0,649 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd47491,vbd47491,Residence,Libin,6890,1950,Normal,70,0,2,1,1,2,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd44751,vbd44751,Apartment,Arlon,6700,2021,Excellent,93,0,2,1,0,3,0,None,0,325 000 €
+https://immovlan.be/en/detail/residence/for-sale/6690/vielsalm/vbd49161,vbd49161,Residence,Vielsalm,6690,1890,To be renovated,115,0,2,None,1,4,1,560,0,149 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd52237,vbd52237,Residence,Libin,6890,2024,New,159,0,3,1,1,3,1,512,0,310 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd45228,vbd45228,Apartment,Arlon,6700,None,Excellent,75,0,2,None,1,None,0,None,0,272 000 €
+https://immovlan.be/en/detail/residence/for-sale/6690/vielsalm/vbd51806,vbd51806,Residence,Vielsalm,6690,None,Fully renovated,130,1,2,None,1,4,1,None,0,265 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/libin/vbd52301,vbd52301,Residence,Libin,6890,1950,To renovate,None,0,5,None,1,3,0,None,0,180 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd45317,vbd45317,Apartment,Arlon,6700,2004,Excellent,61,0,1,1,1,4,0,None,0,219 000 €
+https://immovlan.be/en/detail/residence/for-sale/6890/transinne/vbd42745,vbd42745,Residence,Transinne,6890,None,None,240,0,5,None,1,4,1,None,0,495 000 €
+https://immovlan.be/en/detail/residence/for-sale/6690/vielsalm/vbd52612,vbd52612,Residence,Vielsalm,6690,None,To be renovated,672,None,7,None,None,None,0,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd45318,vbd45318,Apartment,Arlon,6700,1850,To renovate,54,0,1,None,0,None,0,None,0,125 500 €
+https://immovlan.be/en/detail/residence/for-sale/6900/aye/vbd31823,vbd31823,Residence,Aye,6900,None,To renovate,373,None,4,None,0,None,1,750,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6690/vielsalm/vwd10324,vwd10324,Residence,Vielsalm,6690,None,To be renovated,195,None,4,1,None,None,1,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd45653,vbd45653,Apartment,Arlon,6700,1970,Excellent,144,0,2,1,0,2,0,None,0,319 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/aye/vbd42653,vbd42653,Residence,Aye,6900,2006,To renovate,143,None,2,None,1,None,0,None,0,245 000 €
+https://immovlan.be/en/detail/residence/for-sale/6692/petit-thier/vbd27973,vbd27973,Residence,Petit-Thier,6692,2016,To be renovated,174,0,3,1,1,4,1,4589,0,279 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd45830,vbd45830,Apartment,Arlon,6700,2019,Excellent,118,0,3,None,1,None,0,None,0,485 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd47662,vbd47662,Apartment,Arlon,6700,2004,Excellent,92,0,2,1,1,3,0,None,0,399 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd47901,vbd47901,Apartment,Arlon,6700,2007,Excellent,83,0,1,None,1,2,0,None,0,259 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd48741,vbd48741,Apartment,Arlon,6700,2025,None,100,0,2,None,1,2,0,None,0,359 900 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd50065,vbd50065,Apartment,Arlon,6700,2024,New,62,0,1,None,0,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vbd51195,vbd51195,Apartment,Arlon,6700,1974,Normal,80,None,2,None,0,None,0,None,0,240 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vwd10759,vwd10759,Apartment,Arlon,6700,None,None,98,None,2,None,1,None,1,None,0,347 500 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vwd10761,vwd10761,Apartment,Arlon,6700,2025,None,89,None,2,None,1,None,1,None,0,337 300 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vwd10764,vwd10764,Apartment,Arlon,6700,None,None,80,None,2,None,1,None,1,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6700/arlon/vwd12862,vwd12862,Apartment,Arlon,6700,2012,None,88,None,2,1,None,3,0,None,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6717/nothomb/vbd49490,vbd49490,Apartment,Nothomb,6717,2007,None,72,0,1,None,1,None,1,12,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6720/habay-la-neuve/vbd32023,vbd32023,Apartment,Habay-la-Neuve,6720,2024,None,93,None,2,1,1,None,1,None,0,299 256 €
+https://immovlan.be/en/detail/apartment/for-sale/6720/habay/vbd47393,vbd47393,Apartment,Habay,6720,None,None,90,None,1,None,1,None,1,65,0,269 900 €
+https://immovlan.be/en/detail/apartment/for-sale/6730/tintigny/vbd33304,vbd33304,Apartment,Tintigny,6730,2026,None,61,None,1,None,1,None,1,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6730/tintigny/vbd33743,vbd33743,Apartment,Tintigny,6730,None,None,83,0,2,None,0,None,0,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6730/tintigny/vbd33744,vbd33744,Apartment,Tintigny,6730,None,None,65,0,1,None,0,None,0,None,0,145 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6730/tintigny/vbd33745,vbd33745,Apartment,Tintigny,6730,None,None,74,0,2,None,0,None,0,None,0,140 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6730/tintigny/vbd33746,vbd33746,Apartment,Tintigny,6730,None,None,86,0,2,None,0,None,0,None,0,150 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6730/tintigny/vbd50952,vbd50952,Apartment,Tintigny,6730,2022,Excellent,89,1,2,1,0,3,1,None,0,265 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6740/etalle/vbd03200,vbd03200,Apartment,Étalle,6740,2025,New,88,0,2,None,1,4,0,None,0,285 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6740/etalle/vbd37196,vbd37196,Apartment,Étalle,6740,2025,None,92,0,2,None,1,2,1,None,0,322 109 €
+https://immovlan.be/en/detail/apartment/for-sale/6740/etalle/vbd48225,vbd48225,Apartment,Étalle,6740,2025,None,86,0,2,None,1,2,1,None,0,338 847 €
+https://immovlan.be/en/detail/apartment/for-sale/6747/chatillon/vbd19774,vbd19774,Apartment,Châtillon,6747,2020,None,84,0,2,None,1,None,1,87,0,325 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6747/saint-leger/vbd12552,vbd12552,Apartment,Saint-Léger,6747,None,Normal,94,0,1,None,0,3,1,78,0,180 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6750/musson/vbd31441,vbd31441,Apartment,Musson,6750,1900,Normal,77,0,2,None,0,3,1,50,0,238 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6760/virton/vbc89600,vbc89600,Apartment,Virton,6760,None,To renovate,184,0,5,None,1,2,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6760/virton/vbd50719,vbd50719,Apartment,Virton,6760,1995,Normal,144,0,2,1,1,2,1,70,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6762/saint-mard/vbd29389,vbd29389,Apartment,Saint-Mard,6762,1973,To restore,119,None,1,None,0,None,0,None,0,109 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6769/meix-devant-virton/vbd31590,vbd31590,Apartment,Meix-devant-Virton,6769,None,None,82,0,2,None,0,None,0,None,0,236 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6769/meix-devant-virton/vbd46609,vbd46609,Apartment,Meix-devant-Virton,6769,None,None,82,0,2,None,0,None,0,None,0,236 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6780/messancy/vbd06566,vbd06566,Apartment,Messancy,6780,2001,Normal,47,None,1,1,None,None,1,None,0,160 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6790/aubange/vbc80161,vbc80161,Apartment,Aubange,6790,None,None,75,0,1,None,0,4,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6790/aubange/vbd02481,vbd02481,Apartment,Aubange,6790,2015,Excellent,95,0,1,1,0,3,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6790/aubange/vbd34109,vbd34109,Apartment,Aubange,6790,2013,Excellent,77,0,2,1,0,4,0,None,0,229 900 €
+https://immovlan.be/en/detail/apartment/for-sale/6790/aubange/vbd39005,vbd39005,Apartment,Aubange,6790,2008,Normal,125,0,3,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6790/aubange/vbd47808,vbd47808,Apartment,Aubange,6790,None,Normal,78,0,2,None,0,4,0,None,0,245 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbb26174,vbb26174,Apartment,Athus,6791,None,Normal,152,0,2,1,0,None,0,None,0,270 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbc78541,vbc78541,Apartment,Athus,6791,2008,Excellent,98,0,2,1,0,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbc79033,vbc79033,Apartment,Athus,6791,2008,To renovate,91,0,2,1,0,None,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbc99975,vbc99975,Apartment,Athus,6791,None,Normal,300,None,7,None,1,2,1,30,0,548 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd06488,vbd06488,Apartment,Athus,6791,None,None,101,None,3,None,None,2,0,None,0,190 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd06489,vbd06489,Apartment,Athus,6791,None,None,86,None,1,1,1,2,0,None,0,110 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd06490,vbd06490,Apartment,Athus,6791,None,None,119,None,1,None,None,2,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd06491,vbd06491,Apartment,Athus,6791,None,None,101,None,3,1,None,2,0,None,0,195 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd17878,vbd17878,Apartment,Athus,6791,2013,Excellent,102,0,2,1,1,2,0,None,0,269 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6791/athus/vbd48236,vbd48236,Apartment,Athus,6791,2011,Normal,92,0,2,None,0,None,0,None,0,235 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vba51895,vba51895,Apartment,Libramont-Chevigny,6800,None,None,50,0,2,1,0,2,0,None,0,120 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbc39123,vbc39123,Apartment,Libramont-Chevigny,6800,2022,Normal,103,0,2,1,1,None,0,None,0,289 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbc62057,vbc62057,Apartment,Libramont-Chevigny,6800,None,Normal,42,0,1,1,0,2,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbc82435,vbc82435,Apartment,Libramont-Chevigny,6800,1918,Normal,50,0,2,1,0,2,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbc82436,vbc82436,Apartment,Libramont-Chevigny,6800,None,Normal,51,0,2,1,0,2,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbd01381,vbd01381,Apartment,Libramont-Chevigny,6800,1980,Normal,None,0,2,None,1,None,0,None,0,175 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbd36711,vbd36711,Apartment,Libramont-Chevigny,6800,1980,To renovate,80,0,2,1,1,3,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbd38674,vbd38674,Apartment,Libramont-Chevigny,6800,None,None,80,0,2,None,1,3,1,335,0,275 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbd39281,vbd39281,Apartment,Libramont-Chevigny,6800,2017,Normal,80,0,2,1,1,2,1,None,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbd40535,vbd40535,Apartment,Libramont-Chevigny,6800,None,None,78,0,2,None,1,None,1,42,0,246 900 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbd46741,vbd46741,Apartment,Libramont-Chevigny,6800,1998,Normal,75,0,2,1,1,2,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont-chevigny/vbd52619,vbd52619,Apartment,Libramont-Chevigny,6800,2018,Excellent,61,0,1,1,1,3,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont/vbd36709,vbd36709,Apartment,Libramont,6800,None,Normal,93,0,2,1,1,4,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont/vbd46769,vbd46769,Apartment,Libramont,6800,2011,Normal,110,None,2,None,0,None,0,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6800/libramont/vbd49610,vbd49610,Apartment,Libramont,6800,2006,Excellent,80,0,3,1,0,4,1,None,0,189 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6820/florenville/vbd50306,vbd50306,Apartment,Florenville,6820,None,Normal,None,None,2,None,0,None,1,None,0,150 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6830/bouillon/rbi13335,rbi13335,Apartment,Bouillon,6830,None,None,None,0,2,None,0,3,0,None,0,135 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6830/bouillon/vbb58267,vbb58267,Apartment,Bouillon,6830,2012,None,98,0,3,None,0,3,0,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6830/bouillon/vwd13096,vwd13096,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/apartment/for-sale/6830/poupehan/vbd42448,vbd42448,Apartment,Poupehan,6830,1964,To be renovated,363,None,0,None,1,None,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6840/neufchateau/vbd46395,vbd46395,Apartment,Neufchâteau,6840,None,Fully renovated,80,None,2,None,0,None,0,None,0,209 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6850/paliseul/vbd21060,vbd21060,Apartment,Paliseul,6850,2015,New,74,0,2,None,0,2,1,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6870/saint-hubert/vbd07601,vbd07601,Apartment,Saint-Hubert,6870,2024,None,83,0,2,None,1,3,1,None,0,209 270 €
+https://immovlan.be/en/detail/apartment/for-sale/6870/saint-hubert/vbd32094,vbd32094,Apartment,Saint-Hubert,6870,2025,None,91,0,2,None,1,2,0,None,0,239 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd16631,vbd16631,Apartment,Bertrix,6880,2015,Excellent,78,0,2,1,1,2,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd22637,vbd22637,Apartment,Bertrix,6880,1992,None,76,0,1,1,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd25883,vbd25883,Apartment,Bertrix,6880,2015,None,83,0,2,None,1,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd26564,vbd26564,Apartment,Bertrix,6880,None,New,90,0,2,1,1,2,1,5,0,226 800 €
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd29452,vbd29452,Apartment,Bertrix,6880,2020,Normal,80,0,2,1,1,2,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd45195,vbd45195,Apartment,Bertrix,6880,None,Normal,99,0,2,1,0,2,0,None,0,125 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vbd46982,vbd46982,Apartment,Bertrix,6880,None,Normal,None,None,2,None,0,None,0,None,0,165 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6880/bertrix/vwd15220,vwd15220,Apartment,Bertrix,6880,2015,Excellent,80,None,2,1,1,1,0,None,0,210 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6890/libin/vbd32982,vbd32982,Apartment,Libin,6890,None,None,80,0,2,1,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6900/aye/vbd32067,vbd32067,Apartment,Aye,6900,None,Normal,75,0,2,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vaz81739,vaz81739,Apartment,Marche-en-Famenne,6900,None,None,None,0,0,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vaz81740,vaz81740,Apartment,Marche-en-Famenne,6900,None,None,None,0,0,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vaz81741,vaz81741,Apartment,Marche-en-Famenne,6900,None,None,None,0,0,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vba38852,vba38852,Apartment,Marche-en-Famenne,6900,None,Normal,216,None,2,None,1,4,1,1041,0,550 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09926,vbb09926,Apartment,Marche-en-Famenne,6900,2025,None,97,0,2,1,1,None,1,30,0,285 300 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09927,vbb09927,Apartment,Marche-en-Famenne,6900,2025,None,103,0,2,1,1,None,1,38,0,315 400 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09928,vbb09928,Apartment,Marche-en-Famenne,6900,2025,None,103,0,2,1,1,None,1,39,0,314 300 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09929,vbb09929,Apartment,Marche-en-Famenne,6900,2025,None,91,0,2,1,1,None,1,50,0,284 100 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09930,vbb09930,Apartment,Marche-en-Famenne,6900,2025,None,103,0,2,1,1,None,1,None,0,285 200 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09931,vbb09931,Apartment,Marche-en-Famenne,6900,2025,None,104,0,2,1,1,None,1,None,0,291 400 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09932,vbb09932,Apartment,Marche-en-Famenne,6900,2025,None,103,0,2,1,1,None,1,None,0,287 300 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09933,vbb09933,Apartment,Marche-en-Famenne,6900,2025,None,100,0,2,1,1,None,1,None,0,280 800 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09934,vbb09934,Apartment,Marche-en-Famenne,6900,2025,None,103,0,2,1,1,None,1,None,0,290 400 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09935,vbb09935,Apartment,Marche-en-Famenne,6900,2025,None,104,0,2,1,1,None,1,None,0,296 700 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09936,vbb09936,Apartment,Marche-en-Famenne,6900,2025,None,103,0,2,1,1,None,1,None,0,292 600 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09937,vbb09937,Apartment,Marche-en-Famenne,6900,2025,None,100,0,2,1,1,None,1,None,0,286 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09938,vbb09938,Apartment,Marche-en-Famenne,6900,2025,None,87,0,1,1,1,None,1,None,0,248 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09939,vbb09939,Apartment,Marche-en-Famenne,6900,2025,None,87,0,2,1,1,None,1,None,0,252 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbb09940,vbb09940,Apartment,Marche-en-Famenne,6900,2025,None,96,0,2,1,1,None,1,None,0,276 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbc48565,vbc48565,Apartment,Marche-en-Famenne,6900,2025,None,91,0,2,1,1,None,1,50,0,284 100 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbc51331,vbc51331,Apartment,Marche-en-Famenne,6900,None,None,98,0,2,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbd20126,vbd20126,Apartment,Marche-en-Famenne,6900,2017,Excellent,94,0,2,1,1,None,1,104,0,305 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbd20128,vbd20128,Apartment,Marche-en-Famenne,6900,None,None,132,0,3,None,1,None,1,None,0,435 377 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbd20433,vbd20433,Apartment,Marche-en-Famenne,6900,None,Fully renovated,92,0,2,1,0,2,1,226,0,249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbd25062,vbd25062,Apartment,Marche-en-Famenne,6900,2025,New,91,0,2,None,1,2,1,50,0,284 100 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbd35166,vbd35166,Apartment,Marche-en-Famenne,6900,None,None,84,0,2,None,1,2,1,None,0,274 900 €
+https://immovlan.be/en/detail/apartment/for-sale/6900/marche-en-famenne/vbd38200,vbd38200,Apartment,Marche-en-Famenne,6900,1951,Normal,70,None,2,None,0,2,0,None,0,Make offer from 160 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6920/wellin/vbd29384,vbd29384,Apartment,Wellin,6920,2015,Excellent,82,0,2,1,1,2,1,80,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6922/halma/vbd21290,vbd21290,Apartment,Halma,6922,2015,Excellent,82,0,2,1,1,2,1,80,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6927/bure/vbc98629,vbc98629,Apartment,Bure,6927,2016,Normal,80,0,2,None,1,3,1,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc29578,vbc29578,Apartment,Barvaux-sur-Ourthe,6940,2024,New,94,0,2,1,1,3,1,104,0,308 570 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc29579,vbc29579,Apartment,Barvaux-sur-Ourthe,6940,2024,New,92,0,2,1,1,3,1,86,0,285 380 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc29583,vbc29583,Apartment,Barvaux-sur-Ourthe,6940,2024,New,92,0,2,1,1,2,1,29,0,295 020 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc33284,vbc33284,Apartment,Barvaux-sur-Ourthe,6940,2023,None,63,0,1,None,1,None,0,None,0,174 600 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc33285,vbc33285,Apartment,Barvaux-sur-Ourthe,6940,2023,None,84,0,2,None,1,None,0,None,0,229 725 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc33286,vbc33286,Apartment,Barvaux-sur-Ourthe,6940,2023,None,90,0,2,None,1,None,0,None,0,227 625 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc33287,vbc33287,Apartment,Barvaux-sur-Ourthe,6940,2023,None,90,0,2,None,1,None,0,None,0,232 875 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc33288,vbc33288,Apartment,Barvaux-sur-Ourthe,6940,2023,None,84,0,2,None,1,None,0,None,0,227 625 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc33292,vbc33292,Apartment,Barvaux-sur-Ourthe,6940,2023,None,84,0,2,None,1,None,0,None,0,210 825 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc33293,vbc33293,Apartment,Barvaux-sur-Ourthe,6940,2023,None,84,0,2,None,1,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/barvaux-sur-ourthe/vbc33294,vbc33294,Apartment,Barvaux-sur-Ourthe,6940,2023,None,84,0,2,None,1,None,0,None,0,221 325 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/durbuy/vbc51843,vbc51843,Apartment,Durbuy,6940,2011,Normal,87,0,2,1,1,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/durbuy/vbc51844,vbc51844,Apartment,Durbuy,6940,2011,Excellent,94,0,2,None,1,2,0,None,0,267 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/durbuy/vbc69836,vbc69836,Apartment,Durbuy,6940,None,Excellent,45,1,1,1,None,None,0,None,0,Make offer from 249 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/durbuy/vbc99748,vbc99748,Apartment,Durbuy,6940,2007,None,72,0,2,None,1,3,0,None,0,159 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/durbuy/vbd02079,vbd02079,Apartment,Durbuy,6940,1993,None,77,0,2,None,1,None,0,None,0,179 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/durbuy/vbd10413,vbd10413,Apartment,Durbuy,6940,None,None,None,0,1,None,1,4,0,None,0,60 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/durbuy/vbd42304,vbd42304,Apartment,Durbuy,6940,None,None,231,0,5,None,0,2,0,None,0,300 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6940/durbuy/vbd46400,vbd46400,Apartment,Durbuy,6940,None,Normal,100,None,2,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/apartment/for-sale/6941/durbuy/vbd13426,vbd13426,Apartment,Durbuy,6941,None,Normal,139,0,2,1,0,2,1,None,0,160 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6970/tenneville/vbd32879,vbd32879,Apartment,Tenneville,6970,2023,New,91,None,2,None,1,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6970/tenneville/vbd34536,vbd34536,Apartment,Tenneville,6970,2023,New,101,None,2,None,1,None,0,None,0,247 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6970/tenneville/vbd44220,vbd44220,Apartment,Tenneville,6970,2024,None,91,0,2,None,1,3,1,None,0,234 900 €
+https://immovlan.be/en/detail/apartment/for-sale/6970/tenneville/vbd44347,vbd44347,Apartment,Tenneville,6970,2023,New,91,None,2,None,1,None,0,None,0,229 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6970/tenneville/vbd44349,vbd44349,Apartment,Tenneville,6970,2023,New,101,None,2,None,1,None,0,None,0,247 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6980/la-roche-en-ardenne/vbc74362,vbc74362,Apartment,La Roche-en-Ardenne,6980,None,Excellent,86,1,2,None,1,4,1,None,0,185 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6980/la-roche-en-ardenne/vbd26001,vbd26001,Apartment,La Roche-en-Ardenne,6980,None,Normal,281,0,2,None,0,None,1,None,0,230 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6980/la-roche-en-ardenne/vbd31740,vbd31740,Apartment,La Roche-en-Ardenne,6980,None,New,172,0,2,None,1,4,1,None,0,320 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6980/la-roche-en-ardenne/vbd31741,vbd31741,Apartment,La Roche-en-Ardenne,6980,None,New,167,0,3,None,1,4,0,None,0,395 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6980/la-roche-en-ardenne/vbd31742,vbd31742,Apartment,La Roche-en-Ardenne,6980,None,New,130,0,3,None,1,4,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6980/la-roche-en-ardenne/vbd31743,vbd31743,Apartment,La Roche-en-Ardenne,6980,None,New,118,0,2,None,1,4,0,None,0,365 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6980/la-roche-en-ardenne/vbd45855,vbd45855,Apartment,La Roche-en-Ardenne,6980,None,Normal,47,None,0,None,0,None,0,None,0,89 000 €
+https://immovlan.be/en/detail/apartment/for-sale/6990/hotton/vbd26854,vbd26854,Apartment,Hotton,6990,1996,Fully renovated,96,None,2,None,1,None,1,71,0,Price on request
+https://immovlan.be/en/detail/bungalow/for-sale/6820/florenville/vwd08325,vwd08325,Bungalow,Florenville,6820,None,Excellent,38,None,2,None,1,4,0,None,0,77 500 €
+https://immovlan.be/en/detail/bungalow/for-sale/6820/florenville/vwd08939,vwd08939,Bungalow,Florenville,6820,None,None,40,None,2,None,None,None,0,None,0,84 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/6830/poupehan/vwd14600,vwd14600,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/bungalow/for-sale/6927/resteigne/vbd30184,vbd30184,Bungalow,Resteigne,6927,1981,None,50,1,2,None,1,4,1,307,0,95 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/6927/tellin/vbd19113,vbd19113,Bungalow,Tellin,6927,1975,None,70,1,3,None,1,4,1,None,0,115 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/6940/durbuy/vba54991,vba54991,Bungalow,Durbuy,6940,1974,None,74,1,2,None,1,4,0,None,0,59 500 €
+https://immovlan.be/en/detail/bungalow/for-sale/6940/durbuy/vbc20315,vbc20315,Bungalow,Durbuy,6940,1970,None,74,1,3,None,1,4,0,None,0,65 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/6940/durbuy/vbc46332,vbc46332,Bungalow,Durbuy,6940,1970,None,54,1,2,1,1,4,0,None,0,50 000 €
+https://immovlan.be/en/detail/bungalow/for-sale/6940/durbuy/vbd30887,vbd30887,Bungalow,Durbuy,6940,1970,None,74,1,3,None,1,4,0,None,0,90 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6600/bastogne/vbd45324,vbd45324,Chalet,Bastogne,6600,1954,To be renovated,50,None,2,None,1,None,0,None,0,225 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6630/martelange/vbd46768,vbd46768,Chalet,Martelange,6630,1981,Normal,79,None,2,None,0,None,1,800,0,Price on request
+https://immovlan.be/en/detail/chalet/for-sale/6670/gouvy/vbd35295,vbd35295,Chalet,Gouvy,6670,1980,Normal,111,None,4,None,1,None,1,400,0,Price on request
+https://immovlan.be/en/detail/chalet/for-sale/6686/flamierge/vbd26003,vbd26003,Chalet,Flamierge,6686,1967,To renovate,83,None,3,None,1,None,1,1357,0,Price on request
+https://immovlan.be/en/detail/chalet/for-sale/6690/vielsalm/vwd09980,vwd09980,Chalet,Vielsalm,6690,None,To be renovated,81,None,1,1,1,4,1,None,0,140 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6720/habay/vbd43150,vbd43150,Chalet,Habay,6720,1958,To be renovated,105,0,2,None,1,4,1,2000,0,165 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6760/virton/vbd19376,vbd19376,Chalet,Virton,6760,1980,To renovate,78,0,5,1,1,4,1,None,0,135 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6820/florenville/vwd15371,vwd15371,Chalet,Florenville,6820,2022,Excellent,34,None,2,None,1,4,0,None,1,61 157 €
+https://immovlan.be/en/detail/chalet/for-sale/6830/bouillon/vwd13292,vwd13292,Chalet,Bouillon,6830,None,None,40,None,3,None,None,None,0,None,0,66 950 €
+https://immovlan.be/en/detail/chalet/for-sale/6870/arville/vbd46360,vbd46360,Chalet,Arville,6870,None,To restore,45,0,1,None,1,4,1,None,0,159 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6880/bertrix/vwd15438,vwd15438,Chalet,Bertrix,6880,None,Normal,50,None,2,1,1,4,1,None,0,134 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/barvaux-sur-ourthe/vbd21525,vbd21525,Chalet,Barvaux-sur-Ourthe,6940,None,None,98,0,5,None,1,4,1,615,0,310 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/barvaux-sur-ourthe/vbd40656,vbd40656,Chalet,Barvaux-sur-Ourthe,6940,1983,None,148,1,5,None,1,4,1,None,0,295 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/durbuy/rbu09200,rbu09200,Chalet,Durbuy,6940,1998,Excellent,100,1,3,None,1,4,1,1184,0,299 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/durbuy/vbc74357,vbc74357,Chalet,Durbuy,6940,None,Normal,74,1,2,1,1,4,0,None,1,75 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/durbuy/vbc81774,vbc81774,Chalet,Durbuy,6940,None,Normal,60,1,2,1,1,4,0,None,1,59 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/durbuy/vbc86809,vbc86809,Chalet,Durbuy,6940,None,Normal,55,1,2,1,1,4,0,None,1,70 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/durbuy/vbd01528,vbd01528,Chalet,Durbuy,6940,2005,To be renovated,230,0,6,None,1,4,1,600,0,299 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/durbuy/vbd32404,vbd32404,Chalet,Durbuy,6940,None,To renovate,75,0,2,1,1,4,1,None,0,150 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/durbuy/vbd50957,vbd50957,Chalet,Durbuy,6940,2006,Excellent,210,0,6,1,1,4,1,800,0,550 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6940/weris/rwc39162,rwc39162,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/chalet/for-sale/6940/weris/vbc84108,vbc84108,Chalet,Wéris,6940,1975,To be renovated,95,1,4,None,1,4,1,None,0,175 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6980/la-roche-en-ardenne/vbd15138,vbd15138,Chalet,La Roche-en-Ardenne,6980,None,Excellent,53,0,2,1,1,4,1,None,0,280 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6980/la-roche-en-ardenne/vbd16660,vbd16660,Chalet,La Roche-en-Ardenne,6980,1969,Normal,None,0,1,1,1,4,1,None,0,129 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6983/ortho/vbc77241,vbc77241,Chalet,Ortho,6983,1974,Normal,None,0,2,1,0,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6987/beffe/vbc31428,vbc31428,Chalet,Beffe,6987,1974,None,55,1,2,None,1,3,0,None,0,129 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6987/beffe/vbc66823,vbc66823,Chalet,Beffe,6987,1977,None,59,1,2,1,1,3,0,None,0,99 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6987/beffe/vbd09664,vbd09664,Chalet,Beffe,6987,1975,None,66,None,2,None,1,4,0,None,0,129 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6987/beffe/vbd09665,vbd09665,Chalet,Beffe,6987,None,Excellent,69,None,2,1,1,4,0,None,0,110 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6987/beffe/vbd27161,vbd27161,Chalet,Beffe,6987,None,None,58,None,2,None,1,2,0,None,0,129 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6987/hodister/rbt29420,rbt29420,Chalet,Hodister,6987,1974,Excellent,60,1,2,None,1,4,1,76,0,109 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6997/amonines/vba90125,vba90125,Chalet,Amonines,6997,None,To be renovated,40,1,1,1,None,4,1,None,1,63 500 €
+https://immovlan.be/en/detail/chalet/for-sale/6997/amonines/vbd42191,vbd42191,Chalet,Amonines,6997,1970,Normal,102,None,2,None,0,None,1,560,0,179 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6997/amonines/vbd52559,vbd52559,Chalet,Amonines,6997,None,To be renovated,22,None,1,None,1,4,1,None,0,55 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6997/erezee/rbu12311,rbu12311,Chalet,Érezée,6997,1997,Excellent,161,1,3,None,1,4,1,2375,0,249 000 €
+https://immovlan.be/en/detail/chalet/for-sale/6997/erezee/vba23501,vba23501,Chalet,Érezée,6997,None,Normal,79,None,3,1,1,4,0,None,0,199 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6660/houffalize/vbc92972,vbc92972,Cottage,Houffalize,6660,None,Normal,323,0,5,1,1,4,1,None,0,599 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6660/houffalize/vbd22160,vbd22160,Cottage,Houffalize,6660,1938,Normal,204,0,4,1,1,4,1,None,0,295 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6661/mont/vbd47992,vbd47992,Cottage,Mont,6661,None,To be renovated,219,0,5,1,1,4,1,None,0,225 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6680/sainte-ode/vbd29590,vbd29590,Cottage,Sainte-Ode,6680,1875,Normal,None,0,4,None,0,4,1,None,0,395 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6687/bertogne/vbd21049,vbd21049,Cottage,Bertogne,6687,None,To renovate,228,None,4,None,0,None,0,None,0,210 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6698/grand-halleux/vbb55905,vbb55905,Cottage,Grand-Halleux,6698,None,None,470,None,5,None,1,None,1,5193,0,950 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6780/messancy/vbd13159,vbd13159,Cottage,Messancy,6780,None,To be renovated,280,None,4,None,0,None,1,None,0,250 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6850/paliseul/vwd15088,vwd15088,Cottage,Paliseul,6850,1850,To be renovated,160,None,3,None,1,2,1,None,0,110 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6860/leglise/vwd13389,vwd13389,Cottage,Léglise,6860,None,To be renovated,1,None,1,None,None,None,1,None,0,189 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6870/saint-hubert/vbd45441,vbd45441,Cottage,Saint-Hubert,6870,None,Normal,None,0,4,None,0,3,1,None,0,315 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6900/marche-en-famenne/vbd43009,vbd43009,Cottage,Marche-en-Famenne,6900,1850,To be renovated,None,0,3,None,1,4,1,None,0,200 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6980/beausaint/vbd30753,vbd30753,Cottage,Beausaint,6980,None,To be renovated,136,1,3,None,1,4,1,None,0,179 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6987/rendeux/vbd07749,vbd07749,Cottage,Rendeux,6987,1918,None,326,0,6,None,1,4,1,None,0,400 000 €
+https://immovlan.be/en/detail/cottage/for-sale/6997/amonines/vba55851,vba55851,Cottage,Amonines,6997,None,To be renovated,None,None,5,None,None,4,1,None,0,175 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6600/bastogne/vbd11052,vbd11052,Duplex,Bastogne,6600,None,Excellent,99,0,2,None,1,None,0,None,0,210 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6690/vielsalm/vbd04536,vbd04536,Duplex,Vielsalm,6690,1966,Normal,113,None,2,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/duplex/for-sale/6690/vielsalm/vbd42613,vbd42613,Duplex,Vielsalm,6690,None,Excellent,115,0,3,1,1,2,0,None,0,Bunch price 25 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6730/tintigny/vbd33747,vbd33747,Duplex,Tintigny,6730,None,None,91,0,3,None,0,None,0,None,0,160 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6747/chatillon/vbd20053,vbd20053,Duplex,Châtillon,6747,2020,None,148,0,3,None,1,None,1,None,0,375 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6750/musson/vwd14692,vwd14692,Duplex,Musson,6750,1995,Normal,110,None,3,None,1,3,0,None,0,240 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6780/messancy/vbd06495,vbd06495,Duplex,Messancy,6780,2011,Excellent,110,0,3,None,1,None,0,None,0,299 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6791/athus/vbc78542,vbc78542,Duplex,Athus,6791,2008,To renovate,155,0,3,1,1,None,0,None,0,255 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6830/bouillon/vbd23329,vbd23329,Duplex,Bouillon,6830,2014,Excellent,128,0,2,1,0,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6830/bouillon/vbd29162,vbd29162,Duplex,Bouillon,6830,None,Excellent,120,None,2,1,0,None,0,None,0,169 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6900/hargimont/vbd50209,vbd50209,Duplex,Hargimont,6900,None,Normal,75,0,2,1,0,2,1,None,0,139 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6900/hargimont/vbd50211,vbd50211,Duplex,Hargimont,6900,None,Normal,46,0,2,1,0,2,1,None,0,109 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6900/hargimont/vbd50212,vbd50212,Duplex,Hargimont,6900,None,Normal,52,0,1,1,1,2,1,None,0,129 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6900/marche-en-famenne/vbd46465,vbd46465,Duplex,Marche-en-Famenne,6900,1920,Normal,102,0,2,1,1,None,1,81,0,220 000 €
+https://immovlan.be/en/detail/duplex/for-sale/6940/barvaux-sur-ourthe/vbc29576,vbc29576,Duplex,Barvaux-sur-Ourthe,6940,2024,New,131,0,3,1,1,3,0,None,0,414 800 €
+https://immovlan.be/en/detail/duplex/for-sale/6940/barvaux-sur-ourthe/vbc29577,vbc29577,Duplex,Barvaux-sur-Ourthe,6940,2024,New,127,0,3,1,1,2,0,None,0,409 600 €
+https://immovlan.be/en/detail/duplex/for-sale/6940/barvaux-sur-ourthe/vbc29580,vbc29580,Duplex,Barvaux-sur-Ourthe,6940,2024,New,122,0,3,1,1,3,0,None,0,391 500 €
+https://immovlan.be/en/detail/duplex/for-sale/6940/barvaux-sur-ourthe/vbc29581,vbc29581,Duplex,Barvaux-sur-Ourthe,6940,2024,New,123,0,3,1,1,3,0,None,0,396 700 €
+https://immovlan.be/en/detail/ground-floor/for-sale/6690/vielsalm/vbd04538,vbd04538,Ground,Vielsalm,6690,1966,Normal,81,None,2,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/ground-floor/for-sale/6700/arlon/vbd11711,vbd11711,Ground,Arlon,6700,2020,Excellent,71,0,1,1,1,2,1,27,0,310 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/6700/arlon/vwd10758,vwd10758,Ground,Arlon,6700,2025,None,89,None,2,None,1,None,0,None,0,335 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/6860/leglise/vbd34537,vbd34537,Ground,Léglise,6860,2023,New,101,None,2,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/ground-floor/for-sale/6880/bertrix/vbc82917,vbc82917,Ground,Bertrix,6880,2022,Normal,111,0,3,1,1,2,0,None,0,285 000 €
+https://immovlan.be/en/detail/ground-floor/for-sale/6940/barvaux-sur-ourthe/vbc29574,vbc29574,Ground,Barvaux-sur-Ourthe,6940,2024,New,90,0,2,1,1,3,1,281,0,283 280 €
+https://immovlan.be/en/detail/ground-floor/for-sale/6940/barvaux-sur-ourthe/vbc29575,vbc29575,Ground,Barvaux-sur-Ourthe,6940,2024,New,92,0,2,1,1,2,1,29,0,295 020 €
+https://immovlan.be/en/detail/loft/for-sale/6940/durbuy/vbc89527,vbc89527,Loft,Durbuy,6940,2015,None,155,0,2,None,0,None,0,None,0,230 000 €
+https://immovlan.be/en/detail/mansion/for-sale/6700/arlon/vbb54282,vbb54282,Mansion,Arlon,6700,None,Excellent,209,0,2,None,1,4,1,None,0,Price on request
+https://immovlan.be/en/detail/mansion/for-sale/6940/durbuy/rbm32738,rbm32738,Mansion,Durbuy,6940,1875,To renovate,None,0,7,1,1,4,1,None,1,1 600 000 €
+https://immovlan.be/en/detail/mansion/for-sale/6987/rendeux/vbb48633,vbb48633,Mansion,Rendeux,6987,1646,Normal,None,1,17,None,1,4,1,734674,0,2 500 000 €
+https://immovlan.be/en/detail/master-house/for-sale/6700/arlon/vbd41935,vbd41935,Master,Arlon,6700,None,None,171,0,4,None,1,2,0,None,0,320 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6660/houffalize/vbd02023,vbd02023,Mixed,Houffalize,6660,1950,Normal,467,0,None,None,None,4,0,None,0,260 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6700/arlon/vbb47812,vbb47812,Mixed,Arlon,6700,1963,To be renovated,200,0,4,None,1,2,1,100,0,420 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6700/arlon/vbc92883,vbc92883,Mixed,Arlon,6700,1940,Normal,215,None,4,1,0,2,1,None,0,399 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6700/arlon/vwd13551,vwd13551,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/mixed-building/for-sale/6760/virton/vbd23648,vbd23648,Mixed,Virton,6760,None,Normal,None,1,1,None,0,2,0,None,0,295 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6790/aubange/vbd45549,vbd45549,Mixed,Aubange,6790,None,To be renovated,287,0,4,1,1,4,1,407,0,335 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6791/athus/vbc73277,vbc73277,Mixed,Athus,6791,None,To be renovated,360,0,7,1,1,3,1,20,0,310 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6791/athus/vbc73278,vbc73278,Mixed,Athus,6791,None,To be renovated,320,0,6,1,1,3,1,100,0,190 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6791/athus/vbd00876,vbd00876,Mixed,Athus,6791,None,Normal,300,None,7,None,1,2,1,30,0,548 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6800/libramont-chevigny/vbc87224,vbc87224,Mixed,Libramont-Chevigny,6800,None,Normal,175,0,8,1,1,3,1,131,0,349 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6800/libramont/vaz85821,vaz85821,Mixed,Libramont,6800,None,Normal,None,0,8,None,1,2,1,360,0,599 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6820/florenville/vbd50310,vbd50310,Mixed,Florenville,6820,None,None,None,None,2,None,0,None,0,None,0,390 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6830/bouillon/vbb13486,vbb13486,Mixed,Bouillon,6830,1949,None,250,0,6,None,0,2,0,None,0,295 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6830/bouillon/vbc60716,vbc60716,Mixed,Bouillon,6830,None,None,125,0,4,None,0,2,0,None,0,160 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6870/awenne/vbc99696,vbc99696,Mixed,Awenne,6870,None,None,None,None,None,None,0,None,0,None,0,Make offer from 495 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6880/bertrix/vbc64856,vbc64856,Mixed,Bertrix,6880,1993,Normal,900,0,15,1,1,2,0,None,0,1 310 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6880/bertrix/vbd42419,vbd42419,Mixed,Bertrix,6880,None,Normal,400,0,3,1,1,3,1,350,0,349 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6900/marche-en-famenne/vbc27162,vbc27162,Mixed,Marche-en-Famenne,6900,1900,To renovate,356,0,6,1,1,2,1,206,0,395 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6900/marche-en-famenne/vbd14646,vbd14646,Mixed,Marche-en-Famenne,6900,None,To be renovated,550,None,6,None,1,4,1,None,0,Make offer from 550 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6900/marche-en-famenne/vbd16222,vbd16222,Mixed,Marche-en-Famenne,6900,1958,Normal,500,0,3,1,1,3,0,None,0,369 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6900/marche-en-famenne/vbd23158,vbd23158,Mixed,Marche-en-Famenne,6900,1899,Normal,379,0,7,1,1,2,0,None,0,439 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6960/manhay/vbd35973,vbd35973,Mixed,Manhay,6960,1967,Normal,510,1,2,1,1,3,1,60,0,270 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6980/la-roche-en-ardenne/vbc98147,vbc98147,Mixed,La Roche-en-Ardenne,6980,None,To renovate,458,0,8,None,1,4,1,None,0,335 000 €
+https://immovlan.be/en/detail/mixed-building/for-sale/6980/la-roche-en-ardenne/vbd34689,vbd34689,Mixed,La Roche-en-Ardenne,6980,1850,To be renovated,179,0,4,1,0,2,0,None,0,159 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/6690/vielsalm/vbd48059,vbd48059,Penthouse,Vielsalm,6690,2012,Normal,138,None,0,None,0,None,0,None,0,519 000 €
+https://immovlan.be/en/detail/penthouse/for-sale/6940/durbuy/vba30385,vba30385,Penthouse,Durbuy,6940,2020,None,111,0,2,1,1,2,0,None,0,1 150 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbc44416,vbc44416,Residence,Bastogne,6600,1980,Normal,None,0,3,1,1,4,0,None,0,300 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbc50429,vbc50429,Residence,Bastogne,6600,None,To renovate,325,None,5,None,None,2,1,None,0,290 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbc67253,vbc67253,Residence,Bastogne,6600,1949,Normal,None,0,3,1,0,3,0,None,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbc86993,vbc86993,Residence,Bastogne,6600,None,Normal,None,0,3,None,0,2,1,None,0,200 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbc95681,vbc95681,Residence,Bastogne,6600,1850,To be renovated,None,0,3,None,0,4,0,None,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd11417,vbd11417,Residence,Bastogne,6600,1979,Normal,None,0,3,None,1,3,0,None,0,260 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd23972,vbd23972,Residence,Bastogne,6600,2021,New,None,0,4,None,1,None,0,None,0,425 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd24162,vbd24162,Residence,Bastogne,6600,2017,Normal,220,None,3,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd25331,vbd25331,Residence,Bastogne,6600,1952,To renovate,62,None,3,None,0,None,0,None,0,210 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd32653,vbd32653,Residence,Bastogne,6600,2024,Excellent,180,None,4,None,1,None,0,None,0,415 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd32721,vbd32721,Residence,Bastogne,6600,2025,New,210,0,4,None,0,3,1,None,0,395 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd37399,vbd37399,Residence,Bastogne,6600,None,Normal,117,None,3,None,1,3,1,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6600/bastogne/vbd39066,vbd39066,Residence,Bastogne,6600,1994,Normal,112,0,3,1,1,4,1,890,0,365 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/hargimont/vbd42337,vbd42337,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6900/hargimont/vbd48544,vbd48544,Residence,Hargimont,6900,1948,Normal,155,0,4,1,1,3,1,210,0,210 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vba32953,vba32953,Residence,Marche-en-Famenne,6900,1957,Normal,135,0,3,1,1,2,1,729,0,249 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbc06623,vbc06623,Residence,Marche-en-Famenne,6900,None,To be renovated,118,0,4,1,None,None,1,None,0,298 500 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbc81220,vbc81220,Residence,Marche-en-Famenne,6900,None,To be renovated,427,0,4,None,1,2,0,None,0,210 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbc83564,vbc83564,Residence,Marche-en-Famenne,6900,None,Normal,130,0,4,1,1,None,1,None,0,398 500 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbc84376,vbc84376,Residence,Marche-en-Famenne,6900,1967,Normal,136,None,3,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd02861,vbd02861,Residence,Marche-en-Famenne,6900,1960,Normal,196,0,3,1,1,4,1,952,0,279 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd08297,vbd08297,Residence,Marche-en-Famenne,6900,1930,To renovate,122,0,2,1,1,2,1,575,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd08298,vbd08298,Residence,Marche-en-Famenne,6900,1930,To renovate,140,0,3,1,1,2,1,535,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd12851,vbd12851,Residence,Marche-en-Famenne,6900,1899,To be renovated,180,0,4,None,0,4,1,1379,0,189 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd16017,vbd16017,Residence,Marche-en-Famenne,6900,2022,Excellent,447,0,6,None,0,None,1,217,0,950 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd16284,vbd16284,Residence,Marche-en-Famenne,6900,1946,To be renovated,514,None,8,None,1,4,1,118000,0,1 200 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd19362,vbd19362,Residence,Marche-en-Famenne,6900,None,Normal,250,0,7,None,1,None,1,None,0,525 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd19607,vbd19607,Residence,Marche-en-Famenne,6900,None,Normal,205,0,5,None,1,None,1,None,0,298 500 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd23156,vbd23156,Residence,Marche-en-Famenne,6900,2010,Normal,232,0,4,1,1,4,1,1491,0,Make offer from 399 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd23620,vbd23620,Residence,Marche-en-Famenne,6900,None,Normal,120,None,3,None,0,None,1,20,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd24961,vbd24961,Residence,Marche-en-Famenne,6900,1919,Normal,148,0,3,1,1,3,1,474,0,170 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd26300,vbd26300,Residence,Marche-en-Famenne,6900,1977,To renovate,156,0,4,1,1,4,1,1621,0,279 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd27179,vbd27179,Residence,Marche-en-Famenne,6900,1948,None,200,None,5,None,0,None,1,None,0,275 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd27808,vbd27808,Residence,Marche-en-Famenne,6900,None,To renovate,65,None,1,None,0,None,1,366,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd28267,vbd28267,Residence,Marche-en-Famenne,6900,1910,To be renovated,130,None,4,None,1,3,0,None,0,Make offer from 220 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd29539,vbd29539,Residence,Marche-en-Famenne,6900,1941,Normal,172,None,2,None,0,None,1,818,0,260 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd38806,vbd38806,Residence,Marche-en-Famenne,6900,None,To be renovated,130,None,1,None,None,4,1,None,0,99 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd45105,vbd45105,Residence,Marche-en-Famenne,6900,1966,Normal,240,None,4,None,1,4,1,None,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd45307,vbd45307,Residence,Marche-en-Famenne,6900,2024,New,283,0,6,1,1,4,1,2300,0,750 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd45542,vbd45542,Residence,Marche-en-Famenne,6900,1915,None,83,0,2,None,0,2,0,None,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd45847,vbd45847,Residence,Marche-en-Famenne,6900,2023,Excellent,157,0,3,1,1,2,1,115,0,370 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd46305,vbd46305,Residence,Marche-en-Famenne,6900,2000,None,384,0,4,None,1,4,1,None,0,395 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd46466,vbd46466,Residence,Marche-en-Famenne,6900,1920,Normal,102,0,2,1,1,3,1,81,0,220 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd46611,vbd46611,Residence,Marche-en-Famenne,6900,2025,None,130,0,4,None,1,4,1,None,0,349 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd46698,vbd46698,Residence,Marche-en-Famenne,6900,1962,To renovate,167,0,3,1,0,3,1,301,0,Make offer from 249 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd47162,vbd47162,Residence,Marche-en-Famenne,6900,None,None,210,0,5,None,1,3,0,None,0,480 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd47654,vbd47654,Residence,Marche-en-Famenne,6900,1919,Normal,375,0,5,1,1,4,1,None,0,Make offer from 550 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd51312,vbd51312,Residence,Marche-en-Famenne,6900,1900,To renovate,125,0,2,1,1,4,1,None,0,Make offer from 229 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd51884,vbd51884,Residence,Marche-en-Famenne,6900,None,To renovate,177,0,4,1,1,4,1,1100,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6900/marche-en-famenne/vbd52054,vbd52054,Residence,Marche-en-Famenne,6900,1997,Normal,150,0,4,1,1,4,1,None,0,Make offer from 375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6900/waha/vbd15345,vbd15345,Residence,Waha,6900,1948,Normal,258,0,4,1,0,4,1,1778,0,269 000 €
+https://immovlan.be/en/detail/residence/for-sale/6698/grand-halleux/vbd07769,vbd07769,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6920/sohier/vbd26715,vbd26715,Residence,Sohier,6920,1965,To be renovated,150,0,5,None,1,4,1,2810,0,359 000 €
+https://immovlan.be/en/detail/residence/for-sale/6698/grand-halleux/vbd10952,vbd10952,Residence,Grand-Halleux,6698,None,Normal,617,None,9,1,1,4,1,1992,0,545 000 €
+https://immovlan.be/en/detail/residence/for-sale/6920/sohier/vbd47293,vbd47293,Residence,Sohier,6920,1980,Excellent,153,0,3,1,1,4,1,None,0,Make offer from 290 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbc19992,vbc19992,Residence,Arlon,6700,None,To be renovated,439,0,11,None,1,4,1,877,0,Make offer from 449 000 €
+https://immovlan.be/en/detail/residence/for-sale/6920/wellin/vbc85425,vbc85425,Residence,Wellin,6920,2015,Excellent,325,0,5,None,1,4,1,2236,0,Make offer from 595 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbc56198,vbc56198,Residence,Arlon,6700,None,Normal,125,0,4,1,1,2,1,None,0,350 000 €
+https://immovlan.be/en/detail/residence/for-sale/6920/wellin/vbd26682,vbd26682,Residence,Wellin,6920,1972,To be renovated,155,0,3,None,1,4,1,None,0,269 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbc66389,vbc66389,Residence,Arlon,6700,1831,None,270,0,5,None,1,2,1,800,0,580 000 €
+https://immovlan.be/en/detail/residence/for-sale/6920/wellin/vbd45803,vbd45803,Residence,Wellin,6920,2007,Excellent,170,None,3,None,1,4,0,None,0,369 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbc73280,vbc73280,Residence,Arlon,6700,None,To be renovated,210,0,4,1,1,2,1,500,0,280 000 €
+https://immovlan.be/en/detail/residence/for-sale/6921/chanly/vbd05628,vbd05628,Residence,Chanly,6921,1850,Normal,226,0,4,1,1,3,0,None,0,229 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbc74868,vbc74868,Residence,Arlon,6700,None,To be renovated,322,0,5,1,1,2,1,427,0,420 000 €
+https://immovlan.be/en/detail/residence/for-sale/6921/chanly/vbd25899,vbd25899,Residence,Chanly,6921,None,To be renovated,115,0,3,None,0,4,0,None,0,90 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbc86335,vbc86335,Residence,Arlon,6700,None,None,100,0,3,None,1,3,1,400,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6922/halma/vbd44303,vbd44303,Residence,Halma,6922,None,Normal,220,0,5,1,1,2,1,262,0,289 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbc92895,vbc92895,Residence,Arlon,6700,None,None,380,0,7,None,1,3,1,420,0,595 000 €
+https://immovlan.be/en/detail/residence/for-sale/6927/resteigne/vbc94780,vbc94780,Residence,Resteigne,6927,2003,None,217,0,6,None,1,4,1,4455,0,455 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd03823,vbd03823,Residence,Arlon,6700,None,None,157,0,3,None,0,2,0,None,0,275 000 €
+https://immovlan.be/en/detail/residence/for-sale/6927/tellin/vbd40553,vbd40553,Residence,Tellin,6927,2024,None,204,1,6,None,1,3,1,519,0,495 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd08012,vbd08012,Residence,Arlon,6700,1967,To be renovated,116,None,3,None,1,3,1,None,0,399 000 €
+https://immovlan.be/en/detail/residence/for-sale/6927/tellin/vbd52155,vbd52155,Residence,Tellin,6927,1999,Excellent,198,0,4,1,1,4,1,1126,0,Make offer from 395 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd16229,vbd16229,Residence,Arlon,6700,1956,To be renovated,146,0,3,None,1,2,1,267,0,310 000 €
+https://immovlan.be/en/detail/residence/for-sale/6929/daverdisse/vbd03978,vbd03978,Residence,Daverdisse,6929,None,None,37,None,1,None,1,3,1,5,0,Make offer from 99 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd21236,vbd21236,Residence,Arlon,6700,2002,Normal,282,0,6,None,1,4,1,None,0,840 000 €
+https://immovlan.be/en/detail/residence/for-sale/6929/daverdisse/vbd05398,vbd05398,Residence,Daverdisse,6929,1960,None,58,1,1,None,1,4,1,1044,0,249 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd22082,vbd22082,Residence,Arlon,6700,1955,Excellent,212,None,4,1,1,2,1,125,0,515 000 €
+https://immovlan.be/en/detail/residence/for-sale/6929/daverdisse/vbd37289,vbd37289,Residence,Daverdisse,6929,2022,Normal,150,0,4,None,0,3,1,None,0,320 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd23525,vbd23525,Residence,Arlon,6700,None,Normal,336,None,4,None,1,None,1,2000,1,625 000 €
+https://immovlan.be/en/detail/residence/for-sale/6929/daverdisse/vbd41440,vbd41440,Residence,Daverdisse,6929,1968,To be renovated,94,0,3,None,1,4,1,5902,0,229 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd29109,vbd29109,Residence,Arlon,6700,None,To be renovated,186,0,3,None,0,4,1,2246,0,365 000 €
+https://immovlan.be/en/detail/residence/for-sale/6929/daverdisse/vbd43179,vbd43179,Residence,Daverdisse,6929,1948,To be renovated,273,None,5,None,0,None,1,None,0,249 999 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd30744,vbd30744,Residence,Arlon,6700,None,To be renovated,170,0,3,None,0,3,1,None,0,255 000 €
+https://immovlan.be/en/detail/residence/for-sale/6929/daverdisse/vbd52346,vbd52346,Residence,Daverdisse,6929,1963,To be renovated,104,0,3,None,0,4,1,1130,0,195 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd32096,vbd32096,Residence,Arlon,6700,1970,Normal,189,0,5,1,1,3,1,78,0,450 000 €
+https://immovlan.be/en/detail/residence/for-sale/6929/haut-fays/vbd48877,vbd48877,Residence,Haut-Fays,6929,1948,To be renovated,180,0,5,None,1,3,1,720,0,195 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd32756,vbd32756,Residence,Arlon,6700,1936,None,180,0,3,None,1,4,1,51,1,770 000 €
+https://immovlan.be/en/detail/residence/for-sale/6929/haut-fays/vwd15597,vwd15597,Residence,Haut-Fays,6929,None,None,174,None,2,None,1,4,1,None,0,240 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd33850,vbd33850,Residence,Arlon,6700,None,None,225,0,3,None,1,4,1,200,1,595 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/barvaux-sur-ourthe/vbc70065,vbc70065,Residence,Barvaux-sur-Ourthe,6940,None,Normal,1280,1,26,1,1,4,1,None,0,1 190 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd36053,vbd36053,Residence,Arlon,6700,1965,Normal,202,0,5,None,1,4,1,None,0,1 170 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/barvaux-sur-ourthe/vbd39417,vbd39417,Residence,Barvaux-sur-Ourthe,6940,1935,To be renovated,100,None,2,None,1,3,1,350,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd36665,vbd36665,Residence,Arlon,6700,2025,None,165,0,4,1,1,4,1,374,0,489 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/barvaux-sur-ourthe/vbd49657,vbd49657,Residence,Barvaux-sur-Ourthe,6940,2008,Excellent,100,None,3,None,1,2,1,180,0,Bunch price 40 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd38057,vbd38057,Residence,Arlon,6700,2025,New,175,0,3,None,1,2,1,None,0,590 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vaz44906,vaz44906,Residence,Durbuy,6940,None,None,30,None,0,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd38059,vbd38059,Residence,Arlon,6700,2025,New,175,0,3,None,1,3,1,None,0,610 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vba84810,vba84810,Residence,Durbuy,6940,2004,Excellent,1250,1,11,1,1,4,1,2600,1,1 590 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd38061,vbd38061,Residence,Arlon,6700,2025,New,175,0,3,None,1,3,1,None,0,610 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbb04276,vbb04276,Residence,Durbuy,6940,None,New,131,0,3,None,1,4,1,None,0,378 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd38062,vbd38062,Residence,Arlon,6700,2025,New,175,0,3,None,1,2,1,None,0,590 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbb04277,vbb04277,Residence,Durbuy,6940,None,None,140,0,4,None,1,4,1,None,0,415 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd38287,vbd38287,Residence,Arlon,6700,1912,None,156,0,3,None,1,2,1,None,0,355 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbb04278,vbb04278,Residence,Durbuy,6940,None,New,140,0,4,None,1,4,1,None,0,398 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd38950,vbd38950,Residence,Arlon,6700,None,Normal,174,None,5,None,1,2,0,None,0,320 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd39359,vbd39359,Residence,Arlon,6700,None,To be renovated,219,0,4,None,0,4,0,None,0,440 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc27953,vbc27953,Residence,Durbuy,6940,None,To renovate,444,None,7,None,0,None,1,2600,0,450 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd39670,vbd39670,Residence,Arlon,6700,None,Normal,200,0,3,None,1,4,1,320,0,350 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc69375,vbc69375,Residence,Durbuy,6940,2011,Excellent,270,1,4,1,1,4,1,None,1,925 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd42566,vbd42566,Residence,Arlon,6700,None,To be renovated,121,0,2,None,0,2,0,None,0,225 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc70067,vbc70067,Residence,Durbuy,6940,None,Normal,170,None,5,None,None,3,1,None,0,160 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc85519,vbc85519,Residence,Durbuy,6940,None,To be renovated,700,0,13,None,0,4,1,None,0,980 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd42638,vbd42638,Residence,Arlon,6700,None,To be renovated,225,0,4,None,0,4,1,560,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc86564,vbc86564,Residence,Durbuy,6940,1999,None,296,0,5,None,1,4,1,2976,0,1 200 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd44309,vbd44309,Residence,Arlon,6700,1977,To renovate,145,0,4,1,1,4,1,861,0,440 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc88342,vbc88342,Residence,Durbuy,6940,None,None,497,1,4,None,1,3,1,None,1,945 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd46074,vbd46074,Residence,Arlon,6700,1972,To be renovated,240,0,4,1,1,4,1,2700,0,629 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc88344,vbc88344,Residence,Durbuy,6940,None,None,309,0,5,None,1,4,1,1078,1,585 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd46142,vbd46142,Residence,Arlon,6700,None,To be renovated,200,0,3,None,0,3,1,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd47814,vbd47814,Residence,Arlon,6700,None,Fully renovated,176,1,4,None,0,2,1,None,0,450 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc88547,vbc88547,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd48237,vbd48237,Residence,Arlon,6700,1997,Normal,193,0,3,None,1,4,1,550,1,695 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc91432,vbc91432,Residence,Durbuy,6940,1971,Normal,150,0,5,1,1,4,1,None,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd48428,vbd48428,Residence,Arlon,6700,1977,Normal,143,0,3,1,1,3,1,927,0,420 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc91912,vbc91912,Residence,Durbuy,6940,None,None,177,0,4,None,1,4,1,2023,0,645 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd50253,vbd50253,Residence,Arlon,6700,1988,None,231,0,4,None,1,4,1,None,1,810 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc92912,vbc92912,Residence,Durbuy,6940,2000,To be renovated,147,0,3,None,1,4,1,None,0,249 500 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbc99749,vbc99749,Residence,Durbuy,6940,2001,None,176,0,4,None,1,4,1,855,1,599 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd50937,vbd50937,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd00589,vbd00589,Residence,Durbuy,6940,1918,To renovate,100,0,2,1,None,3,1,250,0,169 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd51284,vbd51284,Residence,Arlon,6700,None,None,143,0,4,None,1,4,1,250,0,Make offer from 299 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd00700,vbd00700,Residence,Durbuy,6940,None,To be renovated,85,0,3,None,None,3,1,150,0,139 000 €
+https://immovlan.be/en/detail/residence/for-sale/6700/arlon/vbd51440,vbd51440,Residence,Arlon,6700,None,Normal,220,0,4,None,0,2,1,None,0,380 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd01573,vbd01573,Residence,Durbuy,6940,1999,Normal,291,None,6,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6700/heinsch/vwd15212,vwd15212,Residence,Heinsch,6700,None,Normal,200,None,5,None,1,None,1,None,0,449 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd01880,vbd01880,Residence,Durbuy,6940,1850,Excellent,330,1,5,1,1,4,1,None,0,675 000 €
+https://immovlan.be/en/detail/residence/for-sale/6717/attert/vbd12614,vbd12614,Residence,Attert,6717,1920,To be renovated,151,0,4,1,1,2,1,None,0,205 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd06691,vbd06691,Residence,Durbuy,6940,1983,To renovate,200,0,3,None,1,4,1,None,0,Make offer from 298 000 €
+https://immovlan.be/en/detail/residence/for-sale/6717/attert/vbd45321,vbd45321,Residence,Attert,6717,2024,New,242,None,3,None,1,None,1,None,0,650 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd09861,vbd09861,Residence,Durbuy,6940,2000,Excellent,160,0,4,1,1,4,1,None,1,595 000 €
+https://immovlan.be/en/detail/residence/for-sale/6717/attert/vbd45322,vbd45322,Residence,Attert,6717,2024,New,259,None,3,None,1,None,1,None,0,690 000 €
+https://immovlan.be/en/detail/residence/for-sale/6717/attert/vbd45550,vbd45550,Residence,Attert,6717,None,To restore,98,0,3,None,1,3,1,138,0,125 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd10233,vbd10233,Residence,Durbuy,6940,2021,Excellent,154,1,4,1,1,4,1,None,1,595 000 €
+https://immovlan.be/en/detail/residence/for-sale/6717/nobressart/vbd26997,vbd26997,Residence,Nobressart,6717,1985,To be renovated,156,None,5,None,1,3,1,None,0,430 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd11750,vbd11750,Residence,Durbuy,6940,2024,None,105,0,3,None,1,3,1,616,0,348 000 €
+https://immovlan.be/en/detail/residence/for-sale/6720/habay-la-neuve/vbb70258,vbb70258,Residence,Habay-la-Neuve,6720,None,New,163,0,3,1,1,2,1,None,0,345 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd11751,vbd11751,Residence,Durbuy,6940,2024,None,105,0,3,None,0,3,1,606,0,354 480 €
+https://immovlan.be/en/detail/residence/for-sale/6720/habay-la-neuve/vbd31793,vbd31793,Residence,Habay-la-Neuve,6720,1987,To be renovated,171,0,4,None,1,4,1,1159,1,460 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd13610,vbd13610,Residence,Durbuy,6940,1962,To renovate,277,0,5,None,0,None,1,125,0,210 000 €
+https://immovlan.be/en/detail/residence/for-sale/6720/habay-la-neuve/vbd45025,vbd45025,Residence,Habay-la-Neuve,6720,None,New,133,0,3,None,1,2,0,None,0,349 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd16418,vbd16418,Residence,Durbuy,6940,None,Normal,530,1,11,1,1,4,1,None,0,745 000 €
+https://immovlan.be/en/detail/residence/for-sale/6720/habay/vbd02464,vbd02464,Residence,Habay,6720,None,Normal,280,0,4,None,1,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd20297,vbd20297,Residence,Durbuy,6940,2021,Excellent,110,1,2,None,1,None,1,None,1,798 000 €
+https://immovlan.be/en/detail/residence/for-sale/6723/habay-la-vieille/vwd15263,vwd15263,Residence,Habay-la-Vieille,6723,None,Normal,95,None,3,1,None,3,1,None,0,262 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd24010,vbd24010,Residence,Durbuy,6940,1968,Normal,600,None,6,1,1,4,1,None,0,725 000 €
+https://immovlan.be/en/detail/residence/for-sale/6724/houdemont/vbd41767,vbd41767,Residence,Houdemont,6724,1960,Normal,212,0,4,None,1,3,1,None,0,310 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd25449,vbd25449,Residence,Durbuy,6940,None,Normal,380,None,7,1,1,4,1,None,1,795 000 €
+https://immovlan.be/en/detail/residence/for-sale/6724/houdemont/vbd48239,vbd48239,Residence,Houdemont,6724,2025,New,120,0,3,None,0,2,1,None,0,340 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd28254,vbd28254,Residence,Durbuy,6940,None,Fully renovated,230,1,5,1,1,4,1,None,0,569 000 €
+https://immovlan.be/en/detail/residence/for-sale/6724/houdemont/vbd48241,vbd48241,Residence,Houdemont,6724,2025,New,120,0,3,None,0,2,1,None,0,340 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd29181,vbd29181,Residence,Durbuy,6940,1960,To be renovated,140,0,3,1,1,4,1,None,0,275 000 €
+https://immovlan.be/en/detail/residence/for-sale/6724/houdemont/vbd48242,vbd48242,Residence,Houdemont,6724,2025,New,120,0,3,None,0,2,1,None,0,340 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd29798,vbd29798,Residence,Durbuy,6940,1911,Excellent,522,None,7,1,1,3,1,3569,0,795 000 €
+https://immovlan.be/en/detail/residence/for-sale/6724/houdemont/vbd48243,vbd48243,Residence,Houdemont,6724,2025,New,141,0,3,None,0,3,1,None,0,369 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd29891,vbd29891,Residence,Durbuy,6940,1850,Excellent,370,0,8,1,1,3,1,800,0,540 000 €
+https://immovlan.be/en/detail/residence/for-sale/6724/rulles/vwd15475,vwd15475,Residence,Rulles,6724,2003,Normal,180,None,5,None,1,4,1,None,0,450 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd30005,vbd30005,Residence,Durbuy,6940,1850,Normal,505,0,7,1,1,3,1,None,0,Make offer from 679 000 €
+https://immovlan.be/en/detail/residence/for-sale/6730/bellefontaine/vbd39270,vbd39270,Residence,Bellefontaine,6730,None,To be renovated,158,0,4,None,1,3,1,None,0,290 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd32257,vbd32257,Residence,Durbuy,6940,2007,Excellent,143,0,3,1,1,4,1,None,0,345 000 €
+https://immovlan.be/en/detail/residence/for-sale/6730/bellefontaine/vbd50175,vbd50175,Residence,Bellefontaine,6730,2013,Normal,200,0,3,None,1,3,1,None,0,430 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd32788,vbd32788,Residence,Durbuy,6940,1850,Excellent,171,0,4,1,1,2,0,None,0,Make offer from 299 000 €
+https://immovlan.be/en/detail/residence/for-sale/6730/tintigny/vbb71611,vbb71611,Residence,Tintigny,6730,1980,Normal,170,0,4,1,1,4,1,800,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd33651,vbd33651,Residence,Durbuy,6940,None,To be renovated,155,0,5,None,1,4,1,None,0,195 000 €
+https://immovlan.be/en/detail/residence/for-sale/6730/tintigny/vbd08293,vbd08293,Residence,Tintigny,6730,None,None,None,None,4,None,0,None,1,None,0,Make offer from 750 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd34543,vbd34543,Residence,Durbuy,6940,1979,New,193,0,3,None,0,None,1,None,0,550 000 €
+https://immovlan.be/en/detail/residence/for-sale/6730/tintigny/vbd32877,vbd32877,Residence,Tintigny,6730,None,Normal,230,0,3,None,1,4,1,250,0,398 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd35689,vbd35689,Residence,Durbuy,6940,None,Normal,510,1,7,None,1,None,1,1746,1,499 000 €
+https://immovlan.be/en/detail/residence/for-sale/6740/etalle/vbc72237,vbc72237,Residence,Étalle,6740,None,To be renovated,210,0,3,None,1,4,1,819,0,305 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd38681,vbd38681,Residence,Durbuy,6940,None,Normal,170,1,5,1,1,4,1,None,0,445 000 €
+https://immovlan.be/en/detail/residence/for-sale/6740/etalle/vbd21660,vbd21660,Residence,Étalle,6740,None,To be renovated,165,0,3,None,1,4,1,1400,0,498 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd40200,vbd40200,Residence,Durbuy,6940,2025,New,105,0,3,1,1,4,1,None,0,319 000 €
+https://immovlan.be/en/detail/residence/for-sale/6740/etalle/vbd33322,vbd33322,Residence,Étalle,6740,None,To be renovated,375,0,4,None,0,3,1,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd40201,vbd40201,Residence,Durbuy,6940,2025,New,128,0,3,1,1,3,1,None,0,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/6741/vance/vbd16572,vbd16572,Residence,Vance,6741,2024,New,271,0,5,None,0,4,1,None,0,770 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd40202,vbd40202,Residence,Durbuy,6940,2025,New,128,0,3,1,1,4,1,None,0,319 000 €
+https://immovlan.be/en/detail/residence/for-sale/6741/vance/vbd46802,vbd46802,Residence,Vance,6741,None,To be renovated,None,None,3,None,0,2,1,None,0,160 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd42210,vbd42210,Residence,Durbuy,6940,2025,New,140,0,3,1,1,4,1,None,0,309 000 €
+https://immovlan.be/en/detail/residence/for-sale/6747/chatillon/vbd44541,vbd44541,Residence,Châtillon,6747,1800,To be renovated,146,0,3,None,1,4,1,None,0,220 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd42693,vbd42693,Residence,Durbuy,6940,None,Normal,255,None,3,None,1,None,1,None,0,349 500 €
+https://immovlan.be/en/detail/residence/for-sale/6747/chatillon/vbd45893,vbd45893,Residence,Châtillon,6747,2026,New,348,None,4,None,1,None,1,346,0,499 900 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd42715,vbd42715,Residence,Durbuy,6940,None,None,231,0,5,None,0,2,0,None,0,300 000 €
+https://immovlan.be/en/detail/residence/for-sale/6747/chatillon/vbd45894,vbd45894,Residence,Châtillon,6747,2026,New,348,None,4,None,1,None,1,348,0,499 900 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd46147,vbd46147,Residence,Durbuy,6940,None,Normal,136,None,2,None,0,None,1,260,0,290 000 €
+https://immovlan.be/en/detail/residence/for-sale/6747/chatillon/vbd48226,vbd48226,Residence,Châtillon,6747,2025,None,147,0,3,1,1,3,1,216,0,399 900 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd46896,vbd46896,Residence,Durbuy,6940,1967,Normal,140,0,3,1,1,4,1,350,0,270 000 €
+https://immovlan.be/en/detail/residence/for-sale/6747/meix-le-tige/vbc65072,vbc65072,Residence,Meix-le-Tige,6747,None,None,290,0,2,1,1,4,1,2300,0,400 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd47429,vbd47429,Residence,Durbuy,6940,2006,Normal,240,0,4,1,1,3,1,None,0,415 000 €
+https://immovlan.be/en/detail/residence/for-sale/6747/meix-le-tige/vbd18981,vbd18981,Residence,Meix-le-Tige,6747,None,None,153,0,3,None,1,4,1,1077,0,590 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd49590,vbd49590,Residence,Durbuy,6940,2010,None,191,1,3,None,1,None,1,None,0,530 000 €
+https://immovlan.be/en/detail/residence/for-sale/6747/meix-le-tige/vwd15631,vwd15631,Residence,Meix-le-Tige,6747,1978,Excellent,165,None,4,1,1,4,1,None,0,525 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd49860,vbd49860,Residence,Durbuy,6940,1972,Normal,185,0,5,1,1,4,1,None,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6747/saint-leger/vbc93191,vbc93191,Residence,Saint-Léger,6747,None,To be renovated,55,0,3,None,0,2,0,None,0,65 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd50565,vbd50565,Residence,Durbuy,6940,1985,Excellent,207,0,3,1,1,4,1,None,0,Make offer from 399 000 €
+https://immovlan.be/en/detail/residence/for-sale/6747/saint-leger/vbd30971,vbd30971,Residence,Saint-Léger,6747,None,To be renovated,135,0,3,None,1,2,1,None,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vbd51225,vbd51225,Residence,Durbuy,6940,1900,Fully renovated,500,0,3,1,1,4,1,11000,0,1 200 000 €
+https://immovlan.be/en/detail/residence/for-sale/6750/musson/vbc65074,vbc65074,Residence,Musson,6750,None,None,210,0,3,1,1,3,1,200,0,365 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/durbuy/vwd12557,vwd12557,Residence,Durbuy,6940,2025,Excellent,162,None,3,1,1,4,1,None,0,349 950 €
+https://immovlan.be/en/detail/residence/for-sale/6750/musson/vbd17476,vbd17476,Residence,Musson,6750,2017,None,118,0,3,None,1,3,1,339,0,365 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/weris/vbc69335,vbc69335,Residence,Wéris,6940,None,None,290,None,5,None,1,4,0,None,0,895 000 €
+https://immovlan.be/en/detail/residence/for-sale/6750/musson/vbd18081,vbd18081,Residence,Musson,6750,None,Normal,129,0,3,1,1,3,1,242,0,374 000 €
+https://immovlan.be/en/detail/residence/for-sale/6940/weris/vbc89528,vbc89528,Residence,Wéris,6940,1850,None,355,1,7,None,1,3,1,274,0,580 000 €
+https://immovlan.be/en/detail/residence/for-sale/6750/musson/vbd24237,vbd24237,Residence,Musson,6750,1930,None,140,0,3,None,0,2,1,86,0,260 000 €
+https://immovlan.be/en/detail/residence/for-sale/6941/bende/rbt86674,rbt86674,Residence,Bende,6941,1850,Excellent,105,1,4,None,1,3,1,497,0,390 000 €
+https://immovlan.be/en/detail/residence/for-sale/6750/musson/vbd39358,vbd39358,Residence,Musson,6750,None,Normal,161,None,3,None,0,None,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6941/bomal/vbd29920,vbd29920,Residence,Bomal,6941,1987,None,75,1,2,None,1,4,0,None,0,100 000 €
+https://immovlan.be/en/detail/residence/for-sale/6750/mussy-la-ville/vbc26134,vbc26134,Residence,Mussy-la-Ville,6750,None,To be renovated,85,0,2,None,0,3,1,80,0,69 000 €
+https://immovlan.be/en/detail/residence/for-sale/6941/bomal/vbd51197,vbd51197,Residence,Bomal,6941,None,Fully renovated,112,None,2,None,1,None,1,450,0,239 000 €
+https://immovlan.be/en/detail/residence/for-sale/6750/mussy-la-ville/vbd46101,vbd46101,Residence,Mussy-la-Ville,6750,2018,None,164,0,4,None,1,4,1,None,0,600 000 €
+https://immovlan.be/en/detail/residence/for-sale/6941/durbuy/vbc98343,vbc98343,Residence,Durbuy,6941,1850,Normal,538,0,8,1,1,3,1,944,0,1 100 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/bleid/vbd23264,vbd23264,Residence,Bleid,6760,1967,To be renovated,82,0,3,None,1,3,1,None,0,280 000 €
+https://immovlan.be/en/detail/residence/for-sale/6941/durbuy/vbd32418,vbd32418,Residence,Durbuy,6941,None,Normal,110,None,3,None,1,None,0,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6760/bleid/vbd40457,vbd40457,Residence,Bleid,6760,None,Normal,180,0,4,None,1,4,1,None,0,480 000 €
+https://immovlan.be/en/detail/residence/for-sale/6941/durbuy/vbd44147,vbd44147,Residence,Durbuy,6941,1850,To renovate,120,0,4,1,1,4,1,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/ethe/vbd00267,vbd00267,Residence,Èthe,6760,None,To be renovated,90,0,2,None,0,2,1,None,0,135 000 €
+https://immovlan.be/en/detail/residence/for-sale/6941/durbuy/vbd46590,vbd46590,Residence,Durbuy,6941,None,To be renovated,227,0,3,None,0,None,0,None,0,270 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/ethe/vbd49716,vbd49716,Residence,Èthe,6760,1930,To be renovated,76,0,3,None,0,2,1,90,0,138 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/ethe/vbd51097,vbd51097,Residence,Èthe,6760,1966,To be renovated,185,0,6,None,1,4,1,None,0,350 000 €
+https://immovlan.be/en/detail/residence/for-sale/6941/durbuy/vbd52328,vbd52328,Residence,Durbuy,6941,2024,New,105,0,3,None,1,3,1,None,0,354 480 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vaz07615,vaz07615,Residence,Virton,6760,1830,None,300,None,None,None,None,None,0,None,0,202 000 €
+https://immovlan.be/en/detail/residence/for-sale/6941/durbuy/vbd52329,vbd52329,Residence,Durbuy,6941,2024,New,105,0,3,None,1,3,1,None,0,348 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbc39973,vbc39973,Residence,Virton,6760,2010,Excellent,329,None,5,1,1,None,1,4600,0,595 000 €
+https://immovlan.be/en/detail/residence/for-sale/6950/nassogne/vbb58758,vbb58758,Residence,Nassogne,6950,None,Normal,1500,None,25,None,1,4,1,None,1,1 950 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd11064,vbd11064,Residence,Virton,6760,None,Normal,220,0,3,None,0,2,0,None,0,350 000 €
+https://immovlan.be/en/detail/residence/for-sale/6950/nassogne/vbc81592,vbc81592,Residence,Nassogne,6950,2013,Normal,179,0,4,1,1,4,1,1110,0,419 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd29388,vbd29388,Residence,Virton,6760,1963,To be renovated,250,0,5,1,1,3,1,None,0,344 000 €
+https://immovlan.be/en/detail/residence/for-sale/6950/nassogne/vbd08199,vbd08199,Residence,Nassogne,6950,1963,None,133,0,3,1,1,4,1,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd33484,vbd33484,Residence,Virton,6760,None,To be renovated,205,0,4,None,1,4,1,1700,0,300 000 €
+https://immovlan.be/en/detail/residence/for-sale/6950/nassogne/vbd39016,vbd39016,Residence,Nassogne,6950,1899,Excellent,133,0,3,1,0,2,0,None,0,190 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd35918,vbd35918,Residence,Virton,6760,None,Normal,147,None,2,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6951/bande/vbd22656,vbd22656,Residence,Bande,6951,None,To be renovated,138,None,3,None,0,None,1,None,0,195 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd36666,vbd36666,Residence,Virton,6760,None,Normal,177,0,3,1,1,3,1,230,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6951/bande/vbd47356,vbd47356,Residence,Bande,6951,2005,Normal,185,0,5,None,1,4,1,None,0,475 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd37220,vbd37220,Residence,Virton,6760,1850,Normal,140,0,3,1,1,2,1,None,0,229 000 €
+https://immovlan.be/en/detail/residence/for-sale/6953/ambly/vbd47492,vbd47492,Residence,Ambly,6953,1850,To be renovated,180,0,3,None,1,4,1,None,0,Make offer from 230 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd37677,vbd37677,Residence,Virton,6760,1950,Fully renovated,316,0,6,1,1,4,1,None,0,425 000 €
+https://immovlan.be/en/detail/residence/for-sale/6953/lesterny/vbd11301,vbd11301,Residence,Lesterny,6953,None,To be renovated,175,0,4,1,None,3,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd41371,vbd41371,Residence,Virton,6760,None,To renovate,192,0,4,1,0,4,1,120,0,220 000 €
+https://immovlan.be/en/detail/residence/for-sale/6953/lesterny/vbd36087,vbd36087,Residence,Lesterny,6953,None,To be renovated,99,0,2,None,1,4,1,623,0,169 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd41566,vbd41566,Residence,Virton,6760,None,Normal,82,0,4,None,1,4,0,None,0,180 000 €
+https://immovlan.be/en/detail/residence/for-sale/6953/lesterny/vbd41901,vbd41901,Residence,Lesterny,6953,1970,Normal,220,0,4,1,1,4,1,800,0,325 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd44752,vbd44752,Residence,Virton,6760,1850,To renovate,170,0,4,None,1,3,1,None,0,198 000 €
+https://immovlan.be/en/detail/residence/for-sale/6960/malempre/vbd04996,vbd04996,Residence,Malempré,6960,2025,None,150,0,3,None,0,4,1,None,0,359 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd44755,vbd44755,Residence,Virton,6760,None,To renovate,171,0,4,None,1,3,1,1450,0,229 000 €
+https://immovlan.be/en/detail/residence/for-sale/6960/malempre/vwd14233,vwd14233,Residence,Malempré,6960,None,Normal,240,None,5,1,None,4,1,None,0,425 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd49026,vbd49026,Residence,Virton,6760,1995,None,265,1,5,None,1,4,1,None,1,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6960/manhay/vbc57275,vbc57275,Residence,Manhay,6960,2008,Normal,248,0,4,1,1,4,1,None,0,490 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd50116,vbd50116,Residence,Virton,6760,2007,Normal,600,0,12,1,1,4,1,None,0,698 000 €
+https://immovlan.be/en/detail/residence/for-sale/6960/manhay/vbc87668,vbc87668,Residence,Manhay,6960,1953,To renovate,100,0,0,None,None,None,0,None,0,150 000 €
+https://immovlan.be/en/detail/residence/for-sale/6760/virton/vbd51017,vbd51017,Residence,Virton,6760,1978,To be renovated,158,0,4,None,1,4,1,None,1,370 000 €
+https://immovlan.be/en/detail/residence/for-sale/6960/manhay/vbc88906,vbc88906,Residence,Manhay,6960,None,Normal,344,None,8,None,0,None,1,1500,0,450 000 €
+https://immovlan.be/en/detail/residence/for-sale/6762/saint-mard/vbd40835,vbd40835,Residence,Saint-Mard,6762,1850,Normal,167,0,3,1,1,3,1,115,0,285 000 €
+https://immovlan.be/en/detail/residence/for-sale/6960/manhay/vbd32605,vbd32605,Residence,Manhay,6960,1968,Normal,374,1,5,1,1,4,1,None,0,325 000 €
+https://immovlan.be/en/detail/residence/for-sale/6762/saint-mard/vbd43515,vbd43515,Residence,Saint-Mard,6762,None,To be renovated,112,0,3,None,0,2,0,None,0,180 000 €
+https://immovlan.be/en/detail/residence/for-sale/6960/manhay/vbd40308,vbd40308,Residence,Manhay,6960,None,Normal,166,0,4,1,1,4,1,994,0,255 000 €
+https://immovlan.be/en/detail/residence/for-sale/6767/dampicourt/vbd28169,vbd28169,Residence,Dampicourt,6767,1994,To be renovated,155,0,4,None,1,4,1,1795,0,325 000 €
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbc77384,vbc77384,Residence,Tenneville,6970,None,Normal,284,None,5,None,1,None,1,None,0,200 000 €
+https://immovlan.be/en/detail/residence/for-sale/6767/dampicourt/vbd37919,vbd37919,Residence,Dampicourt,6767,1900,To be renovated,157,0,2,None,0,4,1,None,0,150 000 €
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbc89732,vbc89732,Residence,Tenneville,6970,1976,To be renovated,1579,0,3,1,1,4,1,None,0,200 000 €
+https://immovlan.be/en/detail/residence/for-sale/6767/lamorteau/vbd32981,vbd32981,Residence,Lamorteau,6767,1850,Normal,89,0,2,1,1,2,1,240,0,235 000 €
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbd08626,vbd08626,Residence,Tenneville,6970,None,To be renovated,162,None,2,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6767/lamorteau/vbd45348,vbd45348,Residence,Lamorteau,6767,1956,None,125,0,4,None,1,2,1,None,0,170 000 €
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbd16038,vbd16038,Residence,Tenneville,6970,1981,Normal,138,0,4,1,1,4,1,1279,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6767/rouvroy/vbd27334,vbd27334,Residence,Rouvroy,6767,1965,To be renovated,105,0,3,None,1,4,1,None,0,220 000 €
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbd31148,vbd31148,Residence,Tenneville,6970,1918,To be renovated,None,0,3,None,1,3,1,None,0,200 000 €
+https://immovlan.be/en/detail/residence/for-sale/6767/torgny/vbd29953,vbd29953,Residence,Torgny,6767,1850,To be renovated,100,0,2,None,0,3,1,440,0,138 000 €
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbd44346,vbd44346,Residence,Tenneville,6970,2023,New,122,None,3,None,1,None,1,None,0,298 000 €
+https://immovlan.be/en/detail/residence/for-sale/6769/gerouville/vbd31791,vbd31791,Residence,Gérouville,6769,1918,Normal,129,0,4,None,1,4,1,1200,0,298 000 €
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbd44726,vbd44726,Residence,Tenneville,6970,1981,To be renovated,208,None,4,None,1,4,1,None,0,425 000 €
+https://immovlan.be/en/detail/residence/for-sale/6769/meix-devant-virton/vbc93438,vbc93438,Residence,Meix-devant-Virton,6769,1918,Excellent,225,0,4,1,1,2,0,None,0,260 000 €
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbd46770,vbd46770,Residence,Tenneville,6970,None,Normal,257,None,3,None,1,None,1,340,0,249 000 €
+https://immovlan.be/en/detail/residence/for-sale/6769/meix-devant-virton/vbd32786,vbd32786,Residence,Meix-devant-Virton,6769,1948,To renovate,126,0,2,None,1,2,1,120,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6970/tenneville/vbd51880,vbd51880,Residence,Tenneville,6970,1900,Normal,120,0,2,1,1,4,1,100,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6769/meix-devant-virton/vbd42691,vbd42691,Residence,Meix-devant-Virton,6769,1850,To be renovated,120,0,2,None,1,3,1,143,0,85 000 €
+https://immovlan.be/en/detail/residence/for-sale/6972/erneuville/vbd12636,vbd12636,Residence,Erneuville,6972,1850,None,307,None,5,None,1,4,1,None,0,845 000 €
+https://immovlan.be/en/detail/residence/for-sale/6972/erneuville/vbd23898,vbd23898,Residence,Erneuville,6972,2018,Normal,168,None,4,None,0,None,1,800,0,499 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vbc85121,vbc85121,Residence,Messancy,6780,None,To be renovated,200,0,4,None,0,4,1,None,0,495 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/beausaint/vbc84927,vbc84927,Residence,Beausaint,6980,None,To renovate,316,None,6,None,0,None,1,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vbc92934,vbc92934,Residence,Messancy,6780,None,To be renovated,189,0,3,None,1,3,1,None,0,299 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/beausaint/vbd28402,vbd28402,Residence,Beausaint,6980,None,To renovate,155,None,2,None,0,None,1,1431,0,255 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vbd20377,vbd20377,Residence,Messancy,6780,1899,To be renovated,None,0,6,1,1,4,1,654,0,Make offer from 595 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbc65031,vbc65031,Residence,La Roche-en-Ardenne,6980,None,Normal,127,None,3,1,1,2,0,None,0,179 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vbd33830,vbd33830,Residence,Messancy,6780,1800,Normal,438,0,5,1,1,3,1,7000,0,950 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vbd41210,vbd41210,Residence,Messancy,6780,2023,None,239,None,3,1,1,3,1,292,0,478 980 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd03984,vbd03984,Residence,La Roche-en-Ardenne,6980,None,Excellent,141,1,3,None,1,2,1,None,0,240 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vbd45016,vbd45016,Residence,Messancy,6780,1900,Normal,247,0,5,1,1,4,1,1400,1,599 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd05770,vbd05770,Residence,La Roche-en-Ardenne,6980,1850,Normal,651,0,11,1,1,4,1,1701,0,980 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd09527,vbd09527,Residence,La Roche-en-Ardenne,6980,1944,Normal,None,0,6,None,1,4,1,None,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vbd50744,vbd50744,Residence,Messancy,6780,None,Normal,185,0,3,None,0,3,1,None,0,380 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd10131,vbd10131,Residence,La Roche-en-Ardenne,6980,None,None,140,None,2,None,None,4,1,None,0,197 500 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vbd52093,vbd52093,Residence,Messancy,6780,None,Normal,212,0,3,None,1,4,1,None,0,495 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd18506,vbd18506,Residence,La Roche-en-Ardenne,6980,1978,To renovate,256,0,4,1,1,4,1,None,0,330 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vwd13155,vwd13155,Residence,Messancy,6780,2025,None,231,None,4,None,1,2,1,None,0,Make offer from 360 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd23887,vbd23887,Residence,La Roche-en-Ardenne,6980,None,Normal,514,None,4,None,0,None,1,4992,1,700 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vwd14983,vwd14983,Residence,Messancy,6780,None,None,200,None,4,None,1,3,1,None,0,398 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd25719,vbd25719,Residence,La Roche-en-Ardenne,6980,None,To be renovated,142,0,0,None,0,None,1,300,0,180 000 €
+https://immovlan.be/en/detail/residence/for-sale/6780/messancy/vwd15018,vwd15018,Residence,Messancy,6780,None,None,307,None,5,1,1,None,1,None,0,436 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd26090,vbd26090,Residence,La Roche-en-Ardenne,6980,None,To be renovated,258,0,5,None,1,None,1,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6782/habergy/vbd43347,vbd43347,Residence,Habergy,6782,None,New,147,0,3,None,0,2,1,None,0,379 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd29516,vbd29516,Residence,La Roche-en-Ardenne,6980,None,None,100,None,2,None,1,4,0,None,0,135 000 €
+https://immovlan.be/en/detail/residence/for-sale/6790/aubange/vbd06097,vbd06097,Residence,Aubange,6790,1993,None,205,0,3,None,1,4,1,None,0,560 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd30007,vbd30007,Residence,La Roche-en-Ardenne,6980,None,Fully renovated,216,None,3,1,1,4,0,None,0,399 000 €
+https://immovlan.be/en/detail/residence/for-sale/6790/aubange/vbd19310,vbd19310,Residence,Aubange,6790,2007,None,175,0,5,None,1,3,1,None,0,420 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd34545,vbd34545,Residence,La Roche-en-Ardenne,6980,2025,New,134,None,3,None,1,None,1,None,0,369 000 €
+https://immovlan.be/en/detail/residence/for-sale/6790/aubange/vbd34729,vbd34729,Residence,Aubange,6790,None,To be renovated,255,0,5,None,0,4,1,1000,0,210 000 €
+https://immovlan.be/en/detail/residence/for-sale/6790/aubange/vbd36856,vbd36856,Residence,Aubange,6790,None,To be renovated,250,0,4,None,1,4,1,650,0,275 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd34546,vbd34546,Residence,La Roche-en-Ardenne,6980,2025,New,132,None,3,None,1,None,1,None,0,415 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd42223,vbd42223,Residence,La Roche-en-Ardenne,6980,1951,Excellent,176,None,4,None,1,2,0,None,0,339 000 €
+https://immovlan.be/en/detail/residence/for-sale/6790/aubange/vbd42637,vbd42637,Residence,Aubange,6790,None,Normal,190,0,3,None,1,4,1,None,0,350 000 €
+https://immovlan.be/en/detail/residence/for-sale/6790/aubange/vbd50149,vbd50149,Residence,Aubange,6790,2021,New,175,0,3,None,1,2,1,150,0,550 000 €
+https://immovlan.be/en/detail/residence/for-sale/6980/la-roche-en-ardenne/vbd51002,vbd51002,Residence,La Roche-en-Ardenne,6980,2018,None,146,1,4,1,1,4,1,None,0,540 000 €
+https://immovlan.be/en/detail/residence/for-sale/6790/aubange/vbd51285,vbd51285,Residence,Aubange,6790,None,To be renovated,185,0,4,None,1,3,1,900,0,Make offer from 240 000 €
+https://immovlan.be/en/detail/residence/for-sale/6983/ortho/vbd13611,vbd13611,Residence,Ortho,6983,1964,To be renovated,486,0,10,None,0,None,1,2960,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6790/aubange/vwd13323,vwd13323,Residence,Aubange,6790,None,Normal,244,None,4,1,1,4,1,None,0,375 000 €
+https://immovlan.be/en/detail/residence/for-sale/6984/hives/vbd51442,vbd51442,Residence,Hives,6984,1900,Normal,422,None,3,None,1,None,1,159,0,450 000 €
+https://immovlan.be/en/detail/residence/for-sale/6791/athus/vbc89522,vbc89522,Residence,Athus,6791,None,None,80,0,2,None,0,3,0,None,0,170 000 €
+https://immovlan.be/en/detail/residence/for-sale/6986/halleux/vbc40983,vbc40983,Residence,Halleux,6986,1964,Normal,271,0,6,None,1,4,1,1688,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6791/athus/vbc93190,vbc93190,Residence,Athus,6791,None,Normal,120,0,3,None,0,2,0,None,0,190 000 €
+https://immovlan.be/en/detail/residence/for-sale/6987/beffe/vbd40539,vbd40539,Residence,Beffe,6987,1939,Normal,225,0,3,None,0,None,1,1411,0,325 000 €
+https://immovlan.be/en/detail/residence/for-sale/6791/athus/vbd11425,vbd11425,Residence,Athus,6791,None,Excellent,None,0,2,None,1,2,1,None,0,265 000 €
+https://immovlan.be/en/detail/residence/for-sale/6987/marcourt/vbd12637,vbd12637,Residence,Marcourt,6987,None,To be renovated,125,None,1,None,1,3,0,None,0,99 000 €
+https://immovlan.be/en/detail/residence/for-sale/6791/athus/vbd31102,vbd31102,Residence,Athus,6791,None,None,240,0,6,None,1,3,1,250,0,385 000 €
+https://immovlan.be/en/detail/residence/for-sale/6987/rendeux/vbc24203,vbc24203,Residence,Rendeux,6987,None,Normal,148,None,4,None,None,3,1,None,0,235 000 €
+https://immovlan.be/en/detail/residence/for-sale/6791/athus/vbd35290,vbd35290,Residence,Athus,6791,1959,Normal,226,None,6,None,0,None,1,670,0,515 000 €
+https://immovlan.be/en/detail/residence/for-sale/6987/rendeux/vbd38178,vbd38178,Residence,Rendeux,6987,None,Normal,236,0,7,None,1,None,1,None,0,625 000 €
+https://immovlan.be/en/detail/residence/for-sale/6791/athus/vbd45667,vbd45667,Residence,Athus,6791,None,To renovate,115,0,2,None,1,4,1,None,0,259 000 €
+https://immovlan.be/en/detail/residence/for-sale/6987/rendeux/vbd38179,vbd38179,Residence,Rendeux,6987,None,Normal,236,0,7,None,1,None,1,None,0,425 000 €
+https://immovlan.be/en/detail/residence/for-sale/6791/athus/vbd50831,vbd50831,Residence,Athus,6791,None,Normal,350,0,8,None,1,2,1,None,0,555 000 €
+https://immovlan.be/en/detail/residence/for-sale/6990/fronville/vbb32395,vbb32395,Residence,Fronville,6990,None,None,221,None,5,None,0,4,1,1600,0,70 000 €
+https://immovlan.be/en/detail/residence/for-sale/6791/athus/vwd13674,vwd13674,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6990/hotton/vba89659,vba89659,Residence,Hotton,6990,1930,Normal,244,0,5,1,1,4,1,1533,0,335 000 €
+https://immovlan.be/en/detail/residence/for-sale/6792/halanzy/vbd41369,vbd41369,Residence,Halanzy,6792,1971,To be renovated,112,0,3,None,1,4,1,None,0,380 000 €
+https://immovlan.be/en/detail/residence/for-sale/6990/hotton/vbd16633,vbd16633,Residence,Hotton,6990,1950,To be renovated,115,0,2,None,1,3,1,None,0,145 000 €
+https://immovlan.be/en/detail/residence/for-sale/6792/halanzy/vwd14465,vwd14465,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6990/hotton/vbd23901,vbd23901,Residence,Hotton,6990,None,Normal,146,0,3,None,0,None,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6800/bras/vbc70749,vbc70749,Residence,Bras,6800,None,None,150,1,3,None,1,4,1,None,0,450 000 €
+https://immovlan.be/en/detail/residence/for-sale/6990/hotton/vbd25578,vbd25578,Residence,Hotton,6990,1770,Normal,160,1,3,None,1,4,1,2000,0,599 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/bras/vbd35890,vbd35890,Residence,Bras,6800,None,Normal,160,0,3,1,1,4,1,1600,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6997/amonines/vbd39777,vbd39777,Residence,Amonines,6997,1982,To be renovated,90,None,2,None,1,4,1,1000,0,135 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/freux/vbd44217,vbd44217,Residence,Freux,6800,None,Normal,420,0,9,1,1,4,1,8000,0,749 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/rwc39389,rwc39389,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbc69490,vbc69490,Residence,Libramont-Chevigny,6800,1949,Normal,250,0,5,1,1,4,1,175,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbc79703,vbc79703,Residence,Érezée,6997,None,To be renovated,168,0,3,None,1,None,1,1539,0,325 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd15992,vbd15992,Residence,Libramont-Chevigny,6800,None,New,250,0,3,1,1,3,1,200,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbc79704,vbc79704,Residence,Érezée,6997,None,None,216,0,3,1,1,3,1,1464,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd17515,vbd17515,Residence,Libramont-Chevigny,6800,1999,To renovate,160,0,10,None,1,3,1,130,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbd06542,vbd06542,Residence,Érezée,6997,1961,Fully renovated,107,0,2,1,0,2,0,None,0,220 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd17713,vbd17713,Residence,Libramont-Chevigny,6800,1981,Normal,201,0,6,1,1,4,1,24,0,399 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbd16841,vbd16841,Residence,Érezée,6997,2014,To be renovated,164,0,5,1,0,4,1,1868,1,224 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd28132,vbd28132,Residence,Libramont-Chevigny,6800,1970,None,61,0,2,None,1,3,0,None,0,175 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbd18373,vbd18373,Residence,Érezée,6997,None,Normal,162,0,4,1,1,3,1,None,0,240 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd43338,vbd43338,Residence,Libramont-Chevigny,6800,2009,Normal,160,0,4,None,1,3,0,None,0,285 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbd19127,vbd19127,Residence,Érezée,6997,None,To renovate,175,0,3,1,1,2,1,None,0,229 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd43906,vbd43906,Residence,Libramont-Chevigny,6800,1920,To be renovated,150,0,4,1,1,3,0,None,0,219 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbd27945,vbd27945,Residence,Érezée,6997,None,None,168,0,3,None,0,3,1,None,0,325 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd45194,vbd45194,Residence,Libramont-Chevigny,6800,1967,Normal,137,0,5,1,1,4,1,900,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbd27946,vbd27946,Residence,Érezée,6997,None,None,120,0,3,None,1,3,1,None,0,249 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd45269,vbd45269,Residence,Libramont-Chevigny,6800,1953,None,110,0,4,1,1,3,1,200,0,189 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbd29080,vbd29080,Residence,Érezée,6997,1961,Fully renovated,110,0,2,1,0,2,0,None,0,199 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd45316,vbd45316,Residence,Libramont-Chevigny,6800,1950,To be renovated,84,0,3,None,1,2,1,150,0,159 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vbd48649,vbd48649,Residence,Érezée,6997,2023,None,95,0,2,None,1,4,1,None,0,255 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont-chevigny/vbd52068,vbd52068,Residence,Libramont-Chevigny,6800,None,Normal,400,0,3,1,1,3,1,300,0,399 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/erezee/vwd13085,vwd13085,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont/vbd30144,vbd30144,Residence,Libramont,6800,None,Normal,508,None,3,None,0,None,0,None,0,280 000 €
+https://immovlan.be/en/detail/residence/for-sale/6997/soy/vbb99803,vbb99803,Residence,Soy,6997,None,Normal,1300,0,19,1,0,4,0,None,0,1 500 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/libramont/vbd42420,vbd42420,Residence,Libramont,6800,1910,To be renovated,82,0,3,1,1,2,1,25,0,Price on request
+https://immovlan.be/en/detail/studio/for-sale/6700/arlon/vbc99178,vbc99178,Studio,Arlon,6700,None,To renovate,51,0,None,1,0,2,0,None,0,135 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/moircy/vwd12947,vwd12947,Residence,Moircy,6800,None,None,120,None,3,None,1,4,1,None,0,500 000 €
+https://immovlan.be/en/detail/studio/for-sale/6790/aubange/vbd47332,vbd47332,Studio,Aubange,6790,None,None,28,0,1,None,0,3,0,None,0,120 000 €
+https://immovlan.be/en/detail/residence/for-sale/6800/recogne/vbd16024,vbd16024,Residence,Recogne,6800,None,None,None,None,5,None,0,4,1,None,0,Make offer from 190 000 €
+https://immovlan.be/en/detail/triplex/for-sale/6760/virton/vbc58682,vbc58682,Triplex,Virton,6760,1918,None,126,0,3,1,0,2,0,None,0,155 000 €
+https://immovlan.be/en/detail/residence/for-sale/6810/chiny/vbc95337,vbc95337,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/triplex/for-sale/6900/hargimont/vbd50210,vbd50210,Triplex,Hargimont,6900,None,Normal,107,0,2,1,1,2,1,None,0,189 000 €
+https://immovlan.be/en/detail/residence/for-sale/6810/chiny/vbd39033,vbd39033,Residence,Chiny,6810,1930,None,96,0,2,None,0,3,0,None,0,170 000 €
+https://immovlan.be/en/detail/villa/for-sale/6640/vaux-sur-sure/vbc83130,vbc83130,Villa,Vaux-sur-Sûre,6640,1980,Normal,None,0,4,None,1,4,1,None,1,500 000 €
+https://immovlan.be/en/detail/residence/for-sale/6812/suxy/vbd22083,vbd22083,Residence,Suxy,6812,None,To be renovated,134,None,3,None,0,None,1,None,0,85 000 €
+https://immovlan.be/en/detail/villa/for-sale/6700/arlon/vwd15531,vwd15531,Villa,Arlon,6700,1953,Fully renovated,216,None,5,None,1,4,1,1200,0,549 000 €
+https://immovlan.be/en/detail/residence/for-sale/6812/suxy/vbd25151,vbd25151,Residence,Suxy,6812,None,Fully renovated,207,None,3,None,0,None,1,100,0,Price on request
+https://immovlan.be/en/detail/villa/for-sale/6747/saint-leger/vbd11390,vbd11390,Villa,Saint-Léger,6747,2020,New,221,0,3,None,1,4,1,None,0,499 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vbd22061,vbd22061,Residence,Florenville,6820,2026,None,112,0,3,None,1,3,1,223,0,199 900 €
+https://immovlan.be/en/detail/villa/for-sale/6792/halanzy/vwd14731,vwd14731,Villa,Halanzy,6792,2020,Excellent,262,None,3,None,1,4,1,800,0,925 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vbd47415,vbd47415,Residence,Florenville,6820,None,To be renovated,None,None,5,None,0,4,1,None,0,200 000 €
+https://immovlan.be/en/detail/villa/for-sale/6800/libramont-chevigny/vbd43267,vbd43267,Villa,Libramont-Chevigny,6800,2008,None,317,0,5,None,1,4,1,597,0,399 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vwd09643,vwd09643,Residence,Florenville,6820,None,None,120,None,3,None,1,2,0,None,0,115 000 €
+https://immovlan.be/en/detail/villa/for-sale/6800/libramont-chevigny/vbd47473,vbd47473,Villa,Libramont-Chevigny,6800,1981,Normal,None,0,5,None,1,4,1,None,0,495 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vwd09644,vwd09644,Residence,Florenville,6820,None,None,180,None,3,None,1,None,1,None,0,165 000 €
+https://immovlan.be/en/detail/villa/for-sale/6800/libramont/vbd12800,vbd12800,Villa,Libramont,6800,1976,To renovate,300,None,4,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vwd12986,vwd12986,Residence,Florenville,6820,None,None,200,None,4,None,1,None,1,None,0,205 000 €
+https://immovlan.be/en/detail/villa/for-sale/6800/saint-pierre/vbc42685,vbc42685,Villa,Saint-Pierre,6800,2015,New,None,0,3,1,0,4,0,None,0,500 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vwd13408,vwd13408,Residence,Florenville,6820,None,To be renovated,180,None,3,None,None,None,1,None,0,145 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vwd14538,vwd14538,Residence,Florenville,6820,None,None,200,None,4,None,1,None,1,None,0,375 000 €
+https://immovlan.be/en/detail/villa/for-sale/6820/florenville/vwd15075,vwd15075,Villa,Florenville,6820,None,Excellent,180,None,2,None,1,None,1,None,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vwd14591,vwd14591,Residence,Florenville,6820,None,To be renovated,140,None,3,None,1,2,0,None,0,96 000 €
+https://immovlan.be/en/detail/villa/for-sale/6820/sainte-cecile/vwd14570,vwd14570,Villa,Sainte-Cécile,6820,None,None,120,None,2,1,1,None,1,None,0,230 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/florenville/vwd15390,vwd15390,Residence,Florenville,6820,None,Excellent,200,None,4,1,1,4,1,None,0,8 600 002 €
+https://immovlan.be/en/detail/villa/for-sale/6838/corbion/vbd47161,vbd47161,Villa,Corbion,6838,1955,Normal,332,0,5,None,1,None,1,None,1,610 000 €
+https://immovlan.be/en/detail/residence/for-sale/6820/muno/vbd11775,vbd11775,Residence,Muno,6820,None,None,146,0,3,None,1,3,1,None,0,225 000 €
+https://immovlan.be/en/detail/villa/for-sale/6850/paliseul/vbd41596,vbd41596,Villa,Paliseul,6850,1986,None,192,0,4,None,1,None,1,None,0,449 000 €
+https://immovlan.be/en/detail/residence/for-sale/6821/lacuisine/vbc98106,vbc98106,Residence,Lacuisine,6821,None,To renovate,173,None,3,None,0,None,1,None,0,185 000 €
+https://immovlan.be/en/detail/villa/for-sale/6870/saint-hubert/vbc93063,vbc93063,Villa,Saint-Hubert,6870,None,Excellent,790,None,4,None,1,4,1,40730,1,1 950 000 €
+https://immovlan.be/en/detail/residence/for-sale/6823/villers-devant-orval/vaz75347,vaz75347,Residence,Villers-devant-Orval,6823,None,To be renovated,None,0,3,None,0,3,1,160,0,79 000 €
+https://immovlan.be/en/detail/villa/for-sale/6870/saint-hubert/vbd20347,vbd20347,Villa,Saint-Hubert,6870,2000,None,162,0,4,None,1,4,1,None,0,390 000 €
+https://immovlan.be/en/detail/residence/for-sale/6823/villers-devant-orval/vwd14123,vwd14123,Residence,Villers-devant-Orval,6823,None,To be renovated,120,None,3,1,None,3,1,None,0,79 000 €
+https://immovlan.be/en/detail/villa/for-sale/6880/auby-sur-semois/vwd15436,vwd15436,Villa,Auby-sur-Semois,6880,1920,Normal,350,None,7,1,1,4,1,None,0,750 000 €
+https://immovlan.be/en/detail/residence/for-sale/6824/chassepierre/vbc76434,vbc76434,Residence,Chassepierre,6824,1918,Normal,420,None,5,None,1,2,1,None,0,329 000 €
+https://immovlan.be/en/detail/villa/for-sale/6880/bertrix/vbd07768,vbd07768,Villa,Bertrix,6880,2024,None,140,0,3,None,1,4,0,None,0,330 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/rbu44553,rbu44553,Residence,Bouillon,6830,2025,None,24,None,2,None,None,None,0,None,0,44 950 €
+https://immovlan.be/en/detail/villa/for-sale/6900/marche-en-famenne/vbd21640,vbd21640,Villa,Marche-en-Famenne,6900,None,Normal,150,0,4,None,1,None,1,None,0,345 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/rbu44554,rbu44554,Residence,Bouillon,6830,2025,None,46,None,2,None,None,None,0,None,0,74 950 €
+https://immovlan.be/en/detail/villa/for-sale/6922/halma/vbc18683,vbc18683,Villa,Halma,6922,1997,None,359,0,6,None,1,4,1,None,1,975 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/rbu49424,rbu49424,Residence,Bouillon,6830,None,None,40,None,3,None,None,None,0,None,0,63 950 €
+https://immovlan.be/en/detail/villa/for-sale/6940/barvaux-sur-ourthe/vbc84086,vbc84086,Villa,Barvaux-sur-Ourthe,6940,None,Excellent,200,None,4,None,1,4,1,715,0,695 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/rbu62090,rbu62090,Residence,Bouillon,6830,None,Normal,127,1,2,None,1,4,1,None,0,158 000 €
+https://immovlan.be/en/detail/villa/for-sale/6940/durbuy/vbc82193,vbc82193,Villa,Durbuy,6940,2002,Excellent,230,1,5,None,1,4,1,848,0,429 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/rwc41113,rwc41113,Residence,Bouillon,6830,None,Fully renovated,127,None,2,1,1,4,1,None,0,158 000 €
+https://immovlan.be/en/detail/villa/for-sale/6940/durbuy/vbd04067,vbd04067,Villa,Durbuy,6940,2002,None,500,0,6,None,1,4,1,None,0,795 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbb40630,vbb40630,Residence,Bouillon,6830,None,None,170,0,4,None,1,4,1,None,0,400 000 €
+https://immovlan.be/en/detail/villa/for-sale/6940/durbuy/vbd40203,vbd40203,Villa,Durbuy,6940,2005,Excellent,160,0,3,1,1,4,1,None,0,369 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbb86521,vbb86521,Residence,Bouillon,6830,None,None,178,1,9,None,0,2,1,None,0,480 000 €
+https://immovlan.be/en/detail/villa/for-sale/6940/durbuy/vbd42582,vbd42582,Villa,Durbuy,6940,2011,None,180,None,3,1,1,4,1,None,0,595 000 €
+https://immovlan.be/en/detail/villa/for-sale/6980/beausaint/vbd34539,vbd34539,Villa,Beausaint,6980,2024,New,160,None,3,None,0,None,1,735,0,295 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbb87259,vbb87259,Residence,Bouillon,6830,None,None,125,1,3,None,0,2,0,None,0,175 000 €
+https://immovlan.be/en/detail/villa/for-sale/6980/la-roche-en-ardenne/vbc75259,vbc75259,Villa,La Roche-en-Ardenne,6980,2024,Excellent,287,None,6,None,0,None,0,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbc38054,vbc38054,Residence,Bouillon,6830,None,None,358,1,13,None,1,4,1,None,0,890 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbc41025,vbc41025,Residence,Bouillon,6830,1950,None,140,0,2,None,0,3,0,None,0,165 000 €
+https://immovlan.be/en/projectdetail/1154011-in00562624_om_7904,1154011-in00562624_om_7904,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,210 356 € - 478 598 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbc74923,vbc74923,Residence,Bouillon,6830,None,Normal,185,0,4,1,1,None,1,None,0,240 000 €
+https://immovlan.be/en/projectdetail/1154011-in00562624_om_8059,1154011-in00562624_om_8059,None,Habay-la-Neuve,6720,None,None,None,None,None,None,None,None,0,None,0,249 000 € - 469 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbc76232,vbc76232,Residence,Bouillon,6830,None,None,151,0,4,None,0,None,1,None,0,145 000 €
+https://immovlan.be/en/projectdetail/1154011-in00562624_om_8756,1154011-in00562624_om_8756,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,155 000 € - 459 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbc97703,vbc97703,Residence,Bouillon,6830,None,Normal,119,0,4,1,1,3,1,45,0,199 000 €
+https://immovlan.be/en/projectdetail/1154011-in00562624_om_9438,1154011-in00562624_om_9438,None,Habay-la-Neuve,6720,None,None,None,None,None,None,None,None,0,None,0,329 000 € - 369 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbc99251,vbc99251,Residence,Bouillon,6830,None,Normal,202,0,3,1,1,2,1,None,0,290 000 €
+https://immovlan.be/en/projectdetail/1304239-vi0001987,1304239-vi0001987,None,La Roche-en-Ardenne,6980,None,None,None,None,None,None,None,None,0,None,0,337 527 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd00687,vbd00687,Residence,Bouillon,6830,1967,None,307,0,4,None,1,4,1,None,0,750 000 €
+https://immovlan.be/en/projectdetail/1305341-7210201,1305341-7210201,None,Habay,6720,None,None,None,None,None,None,None,None,0,None,0,234 628 € - 324 256 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd01194,vbd01194,Residence,Bouillon,6830,None,None,122,0,4,None,0,3,0,None,0,145 000 €
+https://immovlan.be/en/projectdetail/1305341-7210250,1305341-7210250,None,Bastogne,6600,None,None,None,None,None,None,None,None,0,None,0,248 628 € - 318 256 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd11776,vbd11776,Residence,Bouillon,6830,None,None,142,0,5,None,1,3,1,None,0,190 000 €
+https://immovlan.be/en/projectdetail/1477687-in00563967_om_31432,1477687-in00563967_om_31432,None,Marche-en-Famenne,6900,None,None,None,None,None,None,None,None,0,None,0,359 000 € - 444 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd11793,vbd11793,Residence,Bouillon,6830,None,To be renovated,270,0,3,None,0,None,0,None,0,145 000 €
+https://immovlan.be/en/projectdetail/1477687-in00563967_om_35007,1477687-in00563967_om_35007,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,489 000 € - 519 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd19909,vbd19909,Residence,Bouillon,6830,None,Excellent,209,None,3,None,1,2,1,520,0,Make offer from 140 000 €
+https://immovlan.be/en/projectdetail/1477687-in00563967_om_35788,1477687-in00563967_om_35788,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,465 000 € - 506 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd22530,vbd22530,Residence,Bouillon,6830,1969,None,163,0,7,None,1,4,1,None,0,275 000 €
+https://immovlan.be/en/projectdetail/1477687-in00563967_om_36310,1477687-in00563967_om_36310,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,189 000 € - 479 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd29781,vbd29781,Residence,Bouillon,6830,None,Normal,131,0,3,None,0,3,0,None,0,129 000 €
+https://immovlan.be/en/projectdetail/1477687-in00563967_om_36636,1477687-in00563967_om_36636,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,429 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd38565,vbd38565,Residence,Bouillon,6830,None,None,125,0,3,None,1,4,1,None,0,360 000 €
+https://immovlan.be/en/projectdetail/1477687-in00563967_om_36741,1477687-in00563967_om_36741,None,Habay-la-Neuve,6720,None,None,None,None,None,None,None,None,0,None,0,345 000 € - 349 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd40696,vbd40696,Residence,Bouillon,6830,1964,None,78,1,2,None,1,None,1,None,0,225 000 €
+https://immovlan.be/en/projectdetail/1789752-5641293,1789752-5641293,None,Bastogne,6600,None,None,None,None,None,None,None,None,0,None,0,254 000 € - 329 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd41797,vbd41797,Residence,Bouillon,6830,None,None,76,0,2,None,0,None,0,None,0,90 000 €
+https://immovlan.be/en/projectdetail/1864942-5587464,1864942-5587464,None,Tenneville,6970,None,None,None,None,None,None,None,None,0,None,0,234 900 € - 264 900 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd43177,vbd43177,Residence,Bouillon,6830,None,To be renovated,71,None,1,None,0,None,1,None,0,99 000 €
+https://immovlan.be/en/projectdetail/1864942-5822507,1864942-5822507,None,Marche-en-Famenne,6900,None,None,None,None,None,None,None,None,0,None,0,254 900 € - 324 900 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd51910,vbd51910,Residence,Bouillon,6830,None,Normal,247,0,7,None,0,None,0,None,0,175 000 €
+https://immovlan.be/en/projectdetail/1864942-5824892,1864942-5824892,None,Marche-en-Famenne,6900,None,None,None,None,None,None,None,None,0,None,0,274 900 € - 324 900 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vbd51929,vbd51929,Residence,Bouillon,6830,1971,None,90,0,3,None,1,3,1,None,0,165 000 €
+https://immovlan.be/en/projectdetail/1864942-6811751,1864942-6811751,None,Harsin,6950,None,None,None,None,None,None,None,None,0,None,0,349 000 € - 369 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vwd14960,vwd14960,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/projectdetail/1864943-4421761,1864943-4421761,None,Virton,6760,None,None,None,None,None,None,None,None,0,None,0,238 000 € - 427 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vwd15243,vwd15243,Residence,Bouillon,6830,2011,Excellent,210,None,4,1,1,4,1,None,0,455 000 €
+https://immovlan.be/en/projectdetail/1864943-6372138,1864943-6372138,None,Meix-devant-Virton,6769,None,None,None,None,None,None,None,None,0,None,0,236 000 € - 398 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vwd15247,vwd15247,Residence,Bouillon,6830,None,Normal,270,None,6,1,1,2,0,None,0,149 500 €
+https://immovlan.be/en/projectdetail/1864943-6483682,1864943-6483682,None,Tintigny,6730,None,None,None,None,None,None,None,None,0,None,0,229 000 € - 299 900 €
+https://immovlan.be/en/detail/residence/for-sale/6830/bouillon/vwd15315,vwd15315,Residence,Bouillon,6830,None,Normal,140,None,4,1,None,2,1,None,0,145 000 €
+https://immovlan.be/en/projectdetail/1864943-6797505,1864943-6797505,None,Étalle,6740,None,None,None,None,None,None,None,None,0,None,0,338 847 € - 348 161 €
+https://immovlan.be/en/detail/residence/for-sale/6830/les-hayons/vwd15439,vwd15439,Residence,Les Hayons,6830,2025,Excellent,150,None,3,1,1,4,1,None,0,325 000 €
+https://immovlan.be/en/projectdetail/1864943-6799264,1864943-6799264,None,Virton,6760,None,None,None,None,None,None,None,None,0,None,0,179 000 € - 269 000 €
+https://immovlan.be/en/detail/residence/for-sale/6830/poupehan/vbc76411,vbc76411,Residence,Poupehan,6830,1948,None,400,0,7,None,0,None,0,None,0,149 000 €
+https://immovlan.be/en/projectdetail/1864943-7043222,1864943-7043222,None,Châtillon,6747,None,None,None,None,None,None,None,None,0,None,0,399 900 € - 429 900 €
+https://immovlan.be/en/detail/residence/for-sale/6830/poupehan/vbd20287,vbd20287,Residence,Poupehan,6830,1979,None,107,1,4,None,1,4,1,None,0,350 000 €
+https://immovlan.be/en/projectdetail/1864944-4800005,1864944-4800005,None,Habay,6720,None,None,None,None,None,None,None,None,0,None,0,256 500 € - 314 900 €
+https://immovlan.be/en/projectdetail/1864944-4976857,1864944-4976857,None,Messancy,6780,None,None,None,None,None,None,None,None,0,None,0,478 980 €
+https://immovlan.be/en/detail/residence/for-sale/6830/poupehan/vbd42447,vbd42447,Residence,Poupehan,6830,1964,To be renovated,363,None,0,None,1,None,0,None,0,179 000 €
+https://immovlan.be/en/projectdetail/1864944-6795310,1864944-6795310,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,266 500 € - 316 500 €
+https://immovlan.be/en/detail/residence/for-sale/6830/poupehan/vwd14860,vwd14860,Residence,Poupehan,6830,None,To be renovated,146,None,4,1,None,2,0,None,0,75 000 €
+https://immovlan.be/en/projectdetail/1864944-6797244,1864944-6797244,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,489 000 € - 543 000 €
+https://immovlan.be/en/detail/residence/for-sale/6831/noirefontaine/vbd39279,vbd39279,Residence,Noirefontaine,6831,1969,Normal,150,0,4,1,1,4,1,900,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6833/vivy/vbd19905,vbd19905,Residence,Vivy,6833,1968,To renovate,90,0,3,None,1,4,1,1400,0,Price on request
+https://immovlan.be/en/projectdetail/1865181-5277835,1865181-5277835,None,Bertrix,6880,None,None,None,None,None,None,None,None,0,None,0,246 500 € - 501 500 €
+https://immovlan.be/en/detail/residence/for-sale/6836/dohan/vax26586,vax26586,Residence,Dohan,6836,1996,None,202,0,3,None,1,4,1,None,0,450 000 €
+https://immovlan.be/en/projectdetail/1951882-7058023,1951882-7058023,None,Marche-en-Famenne,6900,None,None,None,None,None,None,None,None,0,None,0,284 100 € - 314 300 €
+https://immovlan.be/en/detail/residence/for-sale/6836/dohan/vbc62600,vbc62600,Residence,Dohan,6836,None,None,97,0,2,None,1,3,1,None,0,165 000 €
+https://immovlan.be/en/projectdetail/20611-5642507,20611-5642507,None,Vaux-sur-Sûre,6640,None,None,None,None,None,None,None,None,0,None,0,229 900 € - 253 900 €
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vbb03153,vbb03153,Residence,Corbion,6838,None,None,105,0,3,None,0,3,1,119,0,95 000 €
+https://immovlan.be/en/projectdetail/20611-6255906,20611-6255906,None,Libramont-Chevigny,6800,None,None,None,None,None,None,None,None,0,None,0,369 900 €
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vbb86522,vbb86522,Residence,Corbion,6838,None,None,135,0,4,None,1,3,1,None,0,175 000 €
+https://immovlan.be/en/projectdetail/20611-6345898,20611-6345898,None,Libramont-Chevigny,6800,None,None,None,None,None,None,None,None,0,None,0,259 900 €
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vbc96037,vbc96037,Residence,Corbion,6838,None,Excellent,200,0,3,None,1,3,1,180,0,369 000 €
+https://immovlan.be/en/projectdetail/20611-7069354,20611-7069354,None,Libramont-Chevigny,6800,None,None,None,None,None,None,None,None,0,None,0,246 400 € - 276 400 €
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vbd08213,vbd08213,Residence,Corbion,6838,1952,None,225,0,7,None,1,3,0,None,0,250 000 €
+https://immovlan.be/en/projectdetail/2067804-5946834,2067804-5946834,None,Marche-en-Famenne,6900,None,None,None,None,None,None,None,None,0,None,0,252 000 € - 315 400 €
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vbd18852,vbd18852,Residence,Corbion,6838,2024,New,220,0,3,None,1,3,1,150,0,349 000 €
+https://immovlan.be/en/projectdetail/2067804-6654464,2067804-6654464,None,Marche-en-Famenne,6900,None,None,None,None,None,None,None,None,0,None,0,284 100 € - 314 300 €
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vbd19902,vbd19902,Residence,Corbion,6838,None,Normal,131,0,3,None,0,3,0,None,0,129 000 €
+https://immovlan.be/en/projectdetail/21382-in00001363-9000008,21382-in00001363-9000008,None,Durbuy,6940,None,None,None,None,None,None,None,None,0,None,0,401 998 € - 995 000 €
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vbd38134,vbd38134,Residence,Corbion,6838,2024,New,220,0,3,None,1,3,1,150,0,349 000 €
+https://immovlan.be/en/projectdetail/21382-in00001363-9000009,21382-in00001363-9000009,None,Durbuy,6940,None,None,None,None,None,None,None,None,0,None,0,275 000 € - 515 000 €
+https://immovlan.be/en/detail/residence/for-sale/6838/corbion/vwd15080,vwd15080,Residence,Corbion,6838,None,Normal,120,None,2,1,None,2,0,None,0,139 000 €
+https://immovlan.be/en/projectdetail/21382-in00001363_om_3526,21382-in00001363_om_3526,None,Barvaux-sur-Ourthe,6940,None,None,None,None,None,None,None,None,0,None,0,156 500 € - 232 875 €
+https://immovlan.be/en/detail/residence/for-sale/6840/hamipre/vbd33321,vbd33321,Residence,Hamipré,6840,2020,None,130,0,4,None,1,4,1,600,0,420 000 €
+https://immovlan.be/en/projectdetail/27116-in00561061_om_545,27116-in00561061_om_545,None,Arlon,6700,None,None,None,None,None,None,None,None,0,None,0,252 500 € - 391 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/longlier/vbd06098,vbd06098,Residence,Longlier,6840,2021,Excellent,180,0,4,1,1,3,1,609,0,395 000 €
+https://immovlan.be/en/projectdetail/2725750-5711324,2725750-5711324,None,Bertrix,6880,None,None,None,None,None,None,None,None,0,None,0,249 900 € - 299 600 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbc76294,vbc76294,Residence,Neufchâteau,6840,None,Normal,130,0,3,1,None,2,0,None,0,215 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbc97564,vbc97564,Residence,Neufchâteau,6840,None,To be renovated,316,0,3,None,0,None,0,None,0,100 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbc97573,vbc97573,Residence,Neufchâteau,6840,None,To be renovated,600,0,5,None,0,None,0,None,0,250 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd12447,vbd12447,Residence,Neufchâteau,6840,1875,Fully renovated,195,0,3,1,1,4,1,1200,0,309 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd12942,vbd12942,Residence,Neufchâteau,6840,None,Normal,None,0,3,None,0,2,1,None,0,195 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd20488,vbd20488,Residence,Neufchâteau,6840,2008,Excellent,195,0,5,1,1,4,1,550,0,529 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd22021,vbd22021,Residence,Neufchâteau,6840,1990,Normal,310,0,6,None,0,4,1,None,0,425 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd34862,vbd34862,Residence,Neufchâteau,6840,None,None,369,0,4,None,1,4,1,None,0,595 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd35888,vbd35888,Residence,Neufchâteau,6840,1899,To be renovated,243,0,6,None,1,4,1,190,0,199 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd35889,vbd35889,Residence,Neufchâteau,6840,1934,Normal,270,0,3,None,1,4,1,250,0,259 000 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd46361,vbd46361,Residence,Neufchâteau,6840,None,Normal,115,0,3,None,1,2,0,None,0,174 900 €
+https://immovlan.be/en/detail/residence/for-sale/6840/neufchateau/vbd51752,vbd51752,Residence,Neufchâteau,6840,1918,To be renovated,140,0,5,None,1,3,1,None,0,130 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/carlsbourg/vax47655,vax47655,Residence,Carlsbourg,6850,1850,None,850,1,9,None,1,4,1,None,1,1 650 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/offagne/vbd51170,vbd51170,Residence,Offagne,6850,1970,To be renovated,145,0,4,None,0,4,1,1419,0,160 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/offagne/vwd15334,vwd15334,None,None,None,None,None,None,None,None,None,None,None,0,None,0,None
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbc79017,vbc79017,Residence,Paliseul,6850,None,Normal,150,0,3,1,None,None,1,None,0,245 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd05635,vbd05635,Residence,Paliseul,6850,None,Normal,82,0,2,None,1,None,1,None,0,150 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd15242,vbd15242,Residence,Paliseul,6850,2015,New,130,0,4,None,1,2,1,40,0,279 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd22062,vbd22062,Residence,Paliseul,6850,2015,New,130,0,3,None,1,2,1,40,0,279 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd23527,vbd23527,Residence,Paliseul,6850,1969,To renovate,210,None,7,None,1,None,1,None,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd27541,vbd27541,Residence,Paliseul,6850,1966,To be renovated,None,0,3,None,1,4,1,None,0,235 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd38593,vbd38593,Residence,Paliseul,6850,2015,New,130,0,4,None,1,2,1,40,0,279 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd41310,vbd41310,Residence,Paliseul,6850,1850,None,206,0,4,None,1,3,1,None,0,217 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd47158,vbd47158,Residence,Paliseul,6850,1918,To be renovated,150,0,3,1,1,4,1,640,0,219 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd51340,vbd51340,Residence,Paliseul,6850,1970,Fully renovated,62,0,2,1,1,3,1,50,0,139 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vbd52432,vbd52432,Residence,Paliseul,6850,2020,Excellent,135,0,3,1,1,3,1,300,0,309 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vwd15058,vwd15058,Residence,Paliseul,6850,None,To be renovated,128,None,4,1,1,2,1,None,0,125 000 €
+https://immovlan.be/en/detail/residence/for-sale/6850/paliseul/vwd15217,vwd15217,Residence,Paliseul,6850,None,Normal,250,None,3,1,None,4,1,None,0,300 000 €
+https://immovlan.be/en/detail/residence/for-sale/6851/nollevaux/vbd51449,vbd51449,Residence,Nollevaux,6851,2024,New,170,0,4,1,1,3,1,400,0,319 000 €
+https://immovlan.be/en/detail/residence/for-sale/6852/maissin/vbd27333,vbd27333,Residence,Maissin,6852,1959,Fully renovated,140,0,2,1,1,4,1,1400,0,Price on request
+https://immovlan.be/en/detail/residence/for-sale/6852/maissin/vbd42104,vbd42104,Residence,Maissin,6852,1918,To be renovated,240,0,4,None,None,3,1,105,0,Make offer from 165 000 €
+https://immovlan.be/en/detail/residence/for-sale/6853/framont/vbc22007,vbc22007,Residence,Framont,6853,1900,Normal,120,0,2,None,1,2,0,None,0,Make offer from 130 000 €
+https://immovlan.be/en/detail/residence/for-sale/6853/framont/vbc96170,vbc96170,Residence,Framont,6853,1900,Normal,120,0,2,None,1,2,0,None,0,Make offer from 130 000 €
+https://immovlan.be/en/detail/residence/for-sale/6856/fays-les-veneurs/vbd18441,vbd18441,Residence,Fays-les-Veneurs,6856,1950,To renovate,128,0,3,None,0,3,1,None,0,155 000 €
+https://immovlan.be/en/detail/residence/for-sale/6860/ebly/vbd09468,vbd09468,Residence,Ébly,6860,2012,None,125,0,3,None,1,None,1,None,0,279 000 €
